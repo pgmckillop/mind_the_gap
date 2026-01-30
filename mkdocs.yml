@@ -1,10 +1,61 @@
 site_name: Mind the Gap
+site_author: Paul McKillop
+
+repo_url: https://github.com/pgmckillop/mind_the_gap
+
+site_description: Content added and modified in the new T-Level Qualification Digital Software Development
+site_url: https://mtg.paulmckillop.com/
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - footnotes
+  - md_in_html
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+
 theme:
   name: material
-
-
-
-  repo_url: https://github.com/pgmckillop/mind_the_gap.git
-
-
-  
+  font:
+    text: Merriweather Sans
+    code: Red Hat Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+    - navigation.instant
+    - navigation.expand
+    - navigation.tracking
+    - navigation.subnavigation.indent
+    - toc.integrate
+    - search.highlight
+    - search.share
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: indigo
+      accent: deep purple
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep purple
