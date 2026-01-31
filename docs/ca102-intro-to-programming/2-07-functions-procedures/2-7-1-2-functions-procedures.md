@@ -1,69 +1,70 @@
-# 2.7.1–2.7.2 Functions and Procedures
+## 2.7 Functions and procedures
 
----
+### 2.7.1 Functions
+Functions are reusable blocks of code that perform a specific task and return a result.  
+Functions may or may not take parameters.  
+Functions must return a result.  
+The purpose of functions is to produce a value that can be used elsewhere in a program.  
+Functions are used when a calculation or operation needs to return data to another part of the program. :contentReference[oaicite:0]{index=0}
 
-## Purpose of Functions and Procedures
-**Functions** and **procedures** are reusable blocks of code used to organise programs into manageable sections.  
-They support:
-- modular program design
-- code reuse
-- improved readability and maintainability
+**Benefits**
+- support reuse of logic that produces a result  
+- improve readability by encapsulating calculations or operations  
+- support modular program structure.
 
----
+**Drawbacks**
+- inappropriate use may increase program complexity  
+- returning results may be unnecessary when no value is required.
 
-## 2.7.1 Functions
+### 2.7.2 Procedures
+Procedures are reusable blocks of code that perform a specific task without returning a result.  
+Procedures may or may not take parameters.  
+Procedures must not return a result.  
+The purpose of procedures is to carry out actions within a program.  
+Procedures are used when tasks need to be performed but no value needs to be returned. :contentReference[oaicite:1]{index=1}
 
-### Characteristics of Functions
-A **function**:
-- may or may not take parameters
-- **must return a result** to the part of the program that called it
+**Benefits**
+- improve structure by grouping actions  
+- reduce duplication of code  
+- improve maintainability.
 
----
-
-### Purpose of Functions
-Functions are used when:
-- a calculation or process produces a value
-- a result must be reused elsewhere in the program
-- a clear input–output relationship is required
-
-Functions help separate processing logic from program flow.
-
----
-
-## 2.7.2 Procedures
-
-### Characteristics of Procedures
-A **procedure**:
-- may or may not take parameters
-- **must not return a result**
-
----
-
-### Purpose of Procedures
-Procedures are used when:
-- actions need to be carried out without producing a result
-- tasks involve output, updates, or control actions
-- structure and clarity are required
-
-Procedures are often used to group related actions.
-
----
-
-## Comparison of Functions and Procedures
-
-| Feature        | Function              | Procedure            |
-|---------------|-----------------------|----------------------|
-| Takes parameters | Yes or No            | Yes or No            |
-| Returns a value | Yes (must return)    | No (must not return) |
-| Typical use     | Calculations, logic  | Actions, processes   |
-
----
+**Drawbacks**
+- cannot directly provide a result to other parts of the program  
+- overuse may reduce clarity if responsibilities are not well defined.
 
 ## Exam Focus
 You should be able to:
-- identify the characteristics of functions and procedures
-- explain the purpose of functions and procedures
-- distinguish between when a function or procedure should be used
+- Define functions and procedures
+- Identify characteristics of functions and procedures
+- Distinguish between returning and non-returning code blocks
+- Explain when functions or procedures should be used
+- Compare benefits and drawbacks of using functions and procedures
 
 !!! tip "Exam tip"
-Marks are often awarded for **clearly distinguishing return behaviour**, not just naming functions or procedures.
+    Questions may require comparison of functions and procedures. Responses should clearly distinguish return behaviour and justify suitability based on whether a result is required.
+
+## Example
+
+### Explain the purpose of this function and describe how it works
+
+```python
+def print_powers(number, limit):
+    for power in range(1, limit + 1):
+        print(number ** power)
+
+```
+
+## Example call
+### print_powers(2, 5)
+
+## Model Answer
+
+The purpose of the function is to output successive powers of a given number.
+
+The function takes two parameters. The first parameter represents the base number. The second parameter represents the highest power to which the base number will be raised.
+
+A for loop is used to iterate through a sequence of values starting from 1 up to and including the value of the second parameter. On each iteration, the base number is raised to the current power using the exponentiation operator, and the result is printed to the screen.
+
+The function does not return a value. Its purpose is to produce output to the screen rather than return data for further processing.
+
+

@@ -62,6 +62,7 @@ A file must be opened in **read mode** before data can be accessed.
 
 ```python
 file = open("input.txt", "r")
+```
 
 ```python
 # Open a file for writing
@@ -74,3 +75,4 @@ file = open("output.txt", "r")
 content = file.read()
 file.close()
 
+```

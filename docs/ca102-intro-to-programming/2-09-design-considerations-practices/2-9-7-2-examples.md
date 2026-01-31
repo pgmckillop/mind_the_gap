@@ -19,7 +19,7 @@ while attempts < 3:
     password = input("Enter password: ")
     attempts += 1
 
-
+```
 ## Judgement
 
 Both solutions work correctly. However, **Solution B is more suitable** because the number of repetitions is known in advance. A `for` loop is clearer, easier to read, and less error-prone than a `while` loop in this context.
@@ -43,6 +43,7 @@ elif choice == 2:
 elif choice == 3:
     print("Delete")
 
+```
 
 ### Example B
 
@@ -55,6 +56,7 @@ match choice:
     case 3:
         print("Delete")
 
+```
 
 ## Example 3 — Repeated Calculation
 Scenario
@@ -74,6 +76,7 @@ Solution B
 ```python
 def calculate_vat(price):
     return price * 1.2
+```
 
 ## Judgement
 
@@ -97,6 +100,7 @@ try:
     age = int(input("Enter age: "))
 except ValueError:
     print("Invalid input")
+```
 
 ## Judgement
 
@@ -118,6 +122,7 @@ Solution B
 
 ```python
 students = {"Alex": 80, "Sam": 65}
+```
 
 ## Judgement
 

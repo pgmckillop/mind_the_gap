@@ -1,4 +1,4 @@
-![College Logo](../assets/images/college_no_strap.svg){ width="256" }
+![College Logo](../assets/images/college_logo_1400_clean.svg){ width="600" }
 
 
 # T-Level Digital Software Development

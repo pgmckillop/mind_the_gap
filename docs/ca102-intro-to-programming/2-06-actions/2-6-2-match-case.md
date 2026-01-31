@@ -1,97 +1,80 @@
-# 2.6.2 Selection: `match / case`
+## 2.6 Actions
 
----
+### 2.6.2 Selection
+Selection is used to control the flow of a program by choosing between alternative actions based on conditions.  
+The purpose of selection is to allow different outcomes or paths of execution depending on data values or conditions encountered during program execution.  
+Selection is used when decisions must be made within a program. :contentReference[oaicite:0]{index=0}
 
-## Purpose of `match / case`
-`match / case` is a **selection structure** used to choose between **multiple possible paths** based on the value of an expression.
+- **if**  
+  Evaluates a condition and executes a block of code when the condition is true.  
+  **Purpose:** to perform an action only when a specific condition is met.  
+  **Benefits:**  
+  - supports simple decision making  
+  - improves control over program flow  
+  **Drawbacks:**  
+  - limited to a single condition  
+  - may require additional structures for multiple outcomes.
 
-It is used when:
-- there are **several discrete options**
-- each option leads to a **different action**
-- clarity is required when handling many conditions
+- **else if**  
+  Evaluates an additional condition when a previous condition is false.  
+  **Purpose:** to support multiple conditional paths within a decision structure.  
+  **Benefits:**  
+  - enables handling of multiple conditions  
+  - improves clarity when conditions are mutually exclusive  
+  **Drawbacks:**  
+  - can reduce readability if many conditions are chained  
+  - may increase complexity.
 
----
+- **else**  
+  Executes a block of code when all preceding conditions are false.  
+  **Purpose:** to provide a default outcome when no conditions are met.  
+  **Benefits:**  
+  - ensures all possible cases are handled  
+  - improves robustness of decision logic  
+  **Drawbacks:**  
+  - may mask logic errors if used inappropriately  
+  - may reduce clarity if default behaviour is not clearly defined.
 
-## How `match / case` Works
-- An expression is evaluated once using `match`
-- The value is compared against multiple `case` options
-- The first matching `case` is executed
-- A **default case** can be included using `_`
+- **match/case**  
+  Compares a value against multiple possible patterns and executes the matching case.  
+  **Purpose:** to provide a structured and readable approach to selection when comparing a single value against several possible outcomes.  
+  **Benefits:**  
+  - improves readability compared to long chains of conditional statements  
+  - clearly separates each possible outcome  
+  - supports structured decision making  
+  **Drawbacks:**  
+  - limited to specific matching patterns  
+  - may be unnecessary for simple decision structures.
 
----
-
-## Basic Structure
+### Example of match/case
 
 ```python
-match value:
-    case option1:
-        # action
-    case option2:
-        # action
+status_code = 404
+
+match status_code:
+    case 200:
+        message = "OK"
+    case 400:
+        message = "Bad Request"
+    case 401:
+        message = "Unauthorised"
+    case 404:
+        message = "Not Found"
+    case 500:
+        message = "Server Error"
     case _:
-        # default action
+        message = "Unknown Status"
 
 
-## Key Points
-- each `case` represents a possible outcome  
-- `_` acts as a catch-all if no other case matches  
-- only one `case` is executed  
 
----
-
-## Example: Menu Selection
-
-```python
-choice = input("Enter A, B, or C: ")
-
-match choice:
-    case "A":
-        print("Option A selected")
-    case "B":
-        print("Option B selected")
-    case "C":
-        print("Option C selected")
-    case _:
-        print("Invalid option")
-
-
-## What This Demonstrates
-- selection based on user input  
-- clear handling of multiple fixed options  
-- a default outcome for invalid input  
-
----
-
-## Comparison with Other Selection Methods
-
-`match / case` is most suitable when:
-- there are many specific values to test  
-- each value has a distinct outcome  
-- readability is important  
-
-It avoids long chains of `if / elif / else` statements.
-
----
-
-## Correct Use of `match / case`
-
-Using `match / case` correctly involves:
-- matching against clear, known values  
-- including a default case where appropriate  
-- ensuring each case performs a distinct action  
-
-Incorrect use may lead to:
-- unreachable cases  
-- unclear logic  
-- missing outcomes  
-
----
 
 ## Exam Focus
 You should be able to:
-- explain the purpose of `match / case`  
-- identify when `match / case` is more suitable than other selection methods  
-- interpret and create simple `match / case` structures  
+- Explain the purpose of selection
+- Identify when selection is used
+- Distinguish between if, else if, else and match/case
+- Compare benefits and drawbacks of different selection structures
+- Justify the suitability of match/case compared to alternative selection methods
 
 !!! tip "Exam tip"
-Marks are often awarded for **justifying why `match / case` is appropriate** when handling multiple discrete options.
+    Questions may require justification of a selection structure. Responses should compare alternatives, weighing readability, complexity and suitability of decision logic, particularly when selecting between conditional chains and match/case.

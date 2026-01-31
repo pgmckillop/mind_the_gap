@@ -106,6 +106,7 @@ nav:
     - 2.6 Actions:
       - 2.6.0 Actions: ca102-intro-to-programming/2-06-actions/2-6-0-actions.md
       - 2.6.2 Match Case: ca102-intro-to-programming/2-06-actions/2-6-2-match-case.md
+      - 2.6.3 Loops: ca102-intro-to-programming/2-06-actions/2-6-3-loops.md
       - 2.6.5 Benefits and Drawbacks of Loops: ca102-intro-to-programming/2-06-actions/2-6-5-benefits-drawbacks-loops.md
     - 2.7 Functions and Procedures:
       - 2.7.1.2 Functions and Procedures: ca102-intro-to-programming/2-07-functions-procedures/2-7-1-2-functions-procedures.md
@@ -119,8 +120,10 @@ nav:
     - 2.10 Robust Code:
       - 2.10.0 Robust Code: ca102-intro-to-programming/2-10-robust-code/2-10-0-robust-code.md
     - 2.11 Common Algorithms:
-      - 2.11.4 Metrics Compare Algorithms: ca102-intro-to-programming/2-11-common-algortithms/2-11-4-metrics-compare-algorithms.md
+      - 2.11.4 Metrics Compare Algorithms: ca102-intro-to-programming/2-11-common-algorithms/2-11-4-metrics-compare-algorithms.md
+      - 2.11.5 Choosing Algorithms: ca102-intro-to-programming/2-11-common-algorithms/2-11-5-choosing-algorithms.md
     - 2.12 Testing:
+      - 2.12.1.1 Testing components: ca102-intro-to-programming/2-12-testing/2-12-1-1-testing-components.md
       - 2.12.2.1 Testing Methods: ca102-intro-to-programming/2-12-testing/2-12-2-1-testing-methods.md
       - 2.12.3.1 Automation Methods: ca102-intro-to-programming/2-12-testing/2-12-3-1-automation-methods.md
       - 2.12.4 Test Data Plan: ca102-intro-to-programming/2-12-testing/2-12-4-test-data-plan.md

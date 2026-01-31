@@ -1,60 +1,39 @@
-# 1.1.1 Computational Thinking
+## 1.1 Computational thinking
 
-## Definition
-**Computational thinking** is a problem-solving approach that involves breaking down problems and developing solutions that can be executed by a computer or followed logically by a human.
+### 1.1.1 Definition and purpose of computational thinking
+Computational thinking is an approach to problem solving that involves analysing problems and solutions so that they can be represented as systems, processes, relationships, organisations of data or code.  
+The purpose of computational thinking is to support the development of solutions in digital software development. :contentReference[oaicite:0]{index=0}
 
----
+### 1.1.2 When to use computational thinking
+Computational thinking is used when:
+- analysing digital software development problems
+- identifying solutions that can be represented as systems, processes, relationships, organisations of data or code
+- developing complete solutions or sub-parts of solutions. :contentReference[oaicite:1]{index=1}
 
-## Purpose of Computational Thinking
-Computational thinking is used to:
-- Solve complex problems in a structured way
-- Design efficient and repeatable solutions
-- Support the development of digital systems and software
-- Reduce errors by using logical, step-by-step processes
+### 1.1.3 Benefits and drawbacks of computational thinking
+**Benefits**
+- supports structured analysis of problems
+- enables problems and solutions to be represented in forms suitable for digital software development
 
----
+**Drawbacks**
+- may introduce additional complexity
+- may not be appropriate for all problems. :contentReference[oaicite:2]{index=2}
 
-## When Computational Thinking Is Used
-Computational thinking is applied when:
-- A problem can be broken into smaller parts
-- A process needs to be automated or repeated
-- Data needs to be analysed or processed
-- A clear, logical solution is required
+### 1.1.4 Components of computational thinking
+Computational thinking consists of:
+- decomposition
+- pattern recognition
+- abstraction
+- algorithmic design. :contentReference[oaicite:3]{index=3}
 
----
+### 1.1.5 Benefits and drawbacks of using the components of computational thinking
+**Benefits**
+- enable problems and solutions to be structured and managed
+- support the development of logical and organised solutions
 
-## Core Components (Overview)
-Computational thinking consists of four components:
-- **Decomposition** – breaking a problem into manageable parts
-- **Pattern recognition** – identifying similarities and trends
-- **Abstraction** – focusing on relevant information only
-- **Algorithmic design** – creating step-by-step solutions
-
-*(These components are explored in more detail in later sections.)*
-
----
-
-## Benefits
-- Makes complex problems easier to manage
-- Encourages logical and structured thinking
-- Improves efficiency and accuracy
-- Supports collaboration and communication of ideas
-
----
-
-## Drawbacks / Limitations
-- Not suitable for problems requiring creativity or subjective judgement
-- Over-simplification can remove important context
-- Requires time and skill to apply effectively
-
----
-
-## Exam Focus
-You should be able to:
-- Define computational thinking
-- Explain why it is used
-- Identify situations where it is appropriate
-- Recognise its benefits and drawbacks
+**Drawbacks**
+- inappropriate application may reduce effectiveness
+- misuse may affect the suitability of the resulting solution. :contentReference[oaicite:4]{index=4}
 
 !!! tip "Exam tip"
-Be prepared to **apply computational thinking to a scenario**, not just define it.
+    Responses must demonstrate knowledge of computational thinking, its components, and associated benefits and drawbacks. Where judgement is required, suitability must be justified in relation to the problem being addressed.
