@@ -3,7 +3,7 @@ site_author: Paul McKillop
 
 repo_url: https://github.com/pgmckillop/mind_the_gap
 site_description: Content added and modified in the new T-Level Qualification Digital Software Development
-site_url: https://mtg.paulmckillop.com/
+site_url: https://paulmckillop.com/btg/
 
 plugins:
   - search

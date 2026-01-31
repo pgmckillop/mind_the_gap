@@ -1,8 +1,7 @@
-![College Logo](../assets/images/college_logo_1400_clean.svg){ width="600" }
+![College Logo](assets/images/computing_logo_1400_clean.svg){ width="800" }
 
 
 # T-Level Digital Software Development
-
 ## Revision support resources
 
 The course has 8 content areas assessed in the mandatory, formal examinations using Paper 1 and Paper 2.
