@@ -16,6 +16,7 @@ markdown_extensions:
   - meta
   - toc:
       permalink: true
+      toc_depth: 1
 
   # Consolidated Pymdownx Extensions
   - pymdownx.details
@@ -69,88 +70,118 @@ nav:
   - The Gap: ca000-the-gap/the-gap.md
 
   - 1 PRO:
-      - Introduction: ca101-problem-solving/home-01.md
-      - 1.1 Computational Thinking:
-          - 1.1.1 Computational Thinking: ca101-problem-solving/1-1-computational-thinking/1-1-1-computational-thinking.md
-          - 1.1.6 Decomposition: ca101-problem-solving/1-1-computational-thinking/1-1-6-decomposition.md
-          - 1.1.9 Information Flow Diagrams: ca101-problem-solving/1-1-computational-thinking/1-1-9-info-flow-diagrams.md
-      - 1.2 Algorithmic Design:
-          - 1.2.0 Algorithmic Design: ca101-problem-solving/1-2-algorithmic-design/1-2-0-algorithmic-design.md
-      - 1.3 Strategies:
-          - 1.3.3 Cause Analysis: ca101-problem-solving/1-3-strategies/1-3-3-cause-analysis.md
-          - 1.3.4.1 Five Whys: ca101-problem-solving/1-3-strategies/1-3-4-1-five-whys.md
-          - 1.3.4.2 Failure Mode Effects Analysis: ca101-problem-solving/1-3-strategies/1-3-4-2-failure-mode-effects-analysis.md
-          - 1.3.4.3 Event Tree Analysis: ca101-problem-solving/1-3-strategies/1-3-4-3-event-tree-analysis.md
-          - 1.3.4.4 Actions after RCA: ca101-problem-solving/1-3-strategies/1-3-4-4-actions-after-rca.md
-          - 1.3.5 High Level Problem Solving: ca101-problem-solving/1-3-strategies/1-3-5-high-level-problem-solving.md
-          - 1.3.6.1 Interrelationships: ca101-problem-solving/1-3-strategies/1-3-6-1-interrelationships.md
-          - 1.3.6.2 Interrelationships Examples: ca101-problem-solving/1-3-strategies/1-3-6-2-interrelationships-examples.md
+    - Introduction: ca101-problem-solving/home-01.md
+    - 1.1 Computational Thinking:
+      - 1.1.1 Computational Thinking: ca101-problem-solving/1-1-computational-thinking/1-1-1-computational-thinking.md
+      - 1.1.6 Decomposition: ca101-problem-solving/1-1-computational-thinking/1-1-6-decomposition.md
+      - 1.1.9 Information Flow Diagrams: ca101-problem-solving/1-1-computational-thinking/1-1-9-info-flow-diagrams.md
+    - 1.2 Algorithmic Design:
+      - 1.2.0 Algorithmic Design: ca101-problem-solving/1-2-algorithmic-design/1-2-0-algorithmic-design.md
+    - 1.3 Strategies:
+      - 1.3.3 Cause Analysis: ca101-problem-solving/1-3-strategies/1-3-3-cause-analysis.md
+      - 1.3.4.1 Five Whys: ca101-problem-solving/1-3-strategies/1-3-4-1-five-whys.md
+      - 1.3.4.2 Failure Mode Effects Analysis: ca101-problem-solving/1-3-strategies/1-3-4-2-failure-mode-effects-analysis.md
+      - 1.3.4.3 Event Tree Analysis: ca101-problem-solving/1-3-strategies/1-3-4-3-event-tree-analysis.md
+      - 1.3.4.4 Actions after RCA: ca101-problem-solving/1-3-strategies/1-3-4-4-actions-after-rca.md
+      - 1.3.5 High Level Problem Solving: ca101-problem-solving/1-3-strategies/1-3-5-high-level-problem-solving.md
+      - 1.3.6.1 Interrelationships: ca101-problem-solving/1-3-strategies/1-3-6-1-interrelationships.md
+      - 1.3.6.2 Interrelationships Examples: ca101-problem-solving/1-3-strategies/1-3-6-2-interrelationships-examples.md
 
   - 2 ITP:
-      - Introduction: ca102-intro-to-programming/home-02.md
-      - 2.1 Data Types:
-          - 2.1.1 Standard Types: ca102-intro-to-programming/2-01-data-types/2-1-1-standard-types.md
-      - 2.2 Variables and Constants:
-          - 2.2.2 Constants: ca102-intro-to-programming/2-02-variables-constants/2-2-2-constants.md
-          - 2.2.3 Type Conversion: ca102-intro-to-programming/2-02-variables-constants/2-2-3-type-conversion.md
-          - 2.2.6 Scope: ca102-intro-to-programming/2-02-variables-constants/2-2-6-scope.md
-          - 2.2.7 Declare and Use: ca102-intro-to-programming/2-02-variables-constants/2-2-7-declare-and-use.md
-      - 2.3 Data Structures:
-          - 2.3.0 Code Structures: ca102-intro-to-programming/2-03-data-structures/2-3-0-code-structures.md
-      - 2.4 Operators:
-          - 2.4.0 Operators: ca102-intro-to-programming/2-04-operators/2-4-0-operators.md
-      - 2.5 Input and Output:
-          - 2.5.1 Implement IO: ca102-intro-to-programming/2-05-input-output/2-5-1-implement-io.md
-          - 2.5.2 File Operations: ca102-intro-to-programming/2-05-input-output/2-5-2-file-operations.md
-      - 2.6 Actions:
-          - 2.6.0 Actions: ca102-intro-to-programming/2-06-actions/2-6-0-actions.md
-          - 2.6.2 Match Case: ca102-intro-to-programming/2-06-actions/2-6-2-match-case.md
-          - 2.6.5 Benefits and Drawbacks of Loops: ca102-intro-to-programming/2-06-actions/2-6-5-benefits-drawbacks-loops.md
-      - 2.7 Functions and Procedures:
-          - 2.7.1.2 Functions and Procedures: ca102-intro-to-programming/2-07-functions-procedures/2-7-1-2-functions-procedures.md
-          - 2.7.3 Origins of Code: ca102-intro-to-programming/2-07-functions-procedures/2-7-3-origins-of-code.md
-          - 2.7.4 Benefits and Drawbacks of Prewritten: ca102-intro-to-programming/2-07-functions-procedures/2-7-4-benefits-drawbacks-prewritten.md
-      - 2.9 Design Considerations and Practices:
-          - 2.9.1 Order of Code: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-1-order-of-code.md
-          - 2.9.5 Conventions: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-5-conventions.md
-          - 2.9.7.1 Judgements Suitability: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-7-1-judgements-suitablility.md
-          - 2.9.7.2 Examples: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-7-2-examples.md
-      - 2.10 Robust Code:
-          - 2.10.0 Robust Code: ca102-intro-to-programming/2-10-robust-code/2-10-0-robust-code.md
-      - 2.11 Common Algorithms:
-          - 2.11.4 Metrics Compare Algorithms: ca102-intro-to-programming/2-11-common-algortithms/2-11-4-metrics-compare-algorithms.md
-      - 2.12 Testing:
-          - 2.12.2.1 Testing Methods: ca102-intro-to-programming/2-12-testing/2-12-2-1-testing-methods.md
-          - 2.12.3.1 Automation Methods: ca102-intro-to-programming/2-12-testing/2-12-3-1-automation-methods.md
-          - 2.12.4 Test Data Plan: ca102-intro-to-programming/2-12-testing/2-12-4-test-data-plan.md
+    - Introduction: ca102-intro-to-programming/home-02.md
+    - 2.1 Data Types:
+      - 2.1.1 Standard Types: ca102-intro-to-programming/2-01-data-types/2-1-1-standard-types.md
+    - 2.2 Variables and Constants:
+      - 2.2.2 Constants: ca102-intro-to-programming/2-02-variables-constants/2-2-2-constants.md
+      - 2.2.3 Type Conversion: ca102-intro-to-programming/2-02-variables-constants/2-2-3-type-conversion.md
+      - 2.2.6 Scope: ca102-intro-to-programming/2-02-variables-constants/2-2-6-scope.md
+      - 2.2.7 Declare and Use: ca102-intro-to-programming/2-02-variables-constants/2-2-7-declare-and-use.md
+    - 2.3 Data Structures:
+      - 2.3.0 Code Structures: ca102-intro-to-programming/2-03-data-structures/2-3-0-code-structures.md
+    - 2.4 Operators:
+      - 2.4.0 Operators: ca102-intro-to-programming/2-04-operators/2-4-0-operators.md
+    - 2.5 Input and Output:
+      - 2.5.1 Implement IO: ca102-intro-to-programming/2-05-input-output/2-5-1-implement-io.md
+      - 2.5.2 File Operations: ca102-intro-to-programming/2-05-input-output/2-5-2-file-operations.md
+    - 2.6 Actions:
+      - 2.6.0 Actions: ca102-intro-to-programming/2-06-actions/2-6-0-actions.md
+      - 2.6.2 Match Case: ca102-intro-to-programming/2-06-actions/2-6-2-match-case.md
+      - 2.6.5 Benefits and Drawbacks of Loops: ca102-intro-to-programming/2-06-actions/2-6-5-benefits-drawbacks-loops.md
+    - 2.7 Functions and Procedures:
+      - 2.7.1.2 Functions and Procedures: ca102-intro-to-programming/2-07-functions-procedures/2-7-1-2-functions-procedures.md
+      - 2.7.3 Origins of Code: ca102-intro-to-programming/2-07-functions-procedures/2-7-3-origins-of-code.md
+      - 2.7.4 Benefits and Drawbacks of Prewritten: ca102-intro-to-programming/2-07-functions-procedures/2-7-4-benefits-drawbacks-prewritten.md
+    - 2.9 Design Considerations and Practices:
+      - 2.9.1 Order of Code: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-1-order-of-code.md
+      - 2.9.5 Conventions: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-5-conventions.md
+      - 2.9.7.1 Judgements Suitability: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-7-1-judgements-suitablility.md
+      - 2.9.7.2 Examples: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-7-2-examples.md
+    - 2.10 Robust Code:
+      - 2.10.0 Robust Code: ca102-intro-to-programming/2-10-robust-code/2-10-0-robust-code.md
+    - 2.11 Common Algorithms:
+      - 2.11.4 Metrics Compare Algorithms: ca102-intro-to-programming/2-11-common-algortithms/2-11-4-metrics-compare-algorithms.md
+    - 2.12 Testing:
+      - 2.12.2.1 Testing Methods: ca102-intro-to-programming/2-12-testing/2-12-2-1-testing-methods.md
+      - 2.12.3.1 Automation Methods: ca102-intro-to-programming/2-12-testing/2-12-3-1-automation-methods.md
+      - 2.12.4 Test Data Plan: ca102-intro-to-programming/2-12-testing/2-12-4-test-data-plan.md
 
   - 3 EMI:
-      - Introduction: ca103-emerging-issues/home-03.md
+    - Introduction: ca103-emerging-issues/home-03.md
 
   - 4 LAR:
-      - Introduction: ca104-legislation-regulation/home-04.md
+    - Introduction: ca104-legislation-regulation/home-04.md
 
   - 5 BUC:
-      - Introduction: ca105-business-context/home-05.md
+    - Introduction: ca105-business-context/home-05.md
 
   - 6 DAT:
-      - Introduction: ca106-data/home-06.md
-      - 6.1 Data, Information, and Knowledge:
-          - 6.1.1 Data, Information, and Knowledge: ca106-data/6-01-data-information-knowledge/6-1-1-data-information-knowledge.md
-          - 6.1.2 Sources for Generation: ca106-data/6-01-data-information-knowledge/6-1-2-sources-for-generation.md
-          - 6.1.3 Ethics and Metrics: ca106-data/6-01-data-information-knowledge/6-1-3-Ethics-and-metrics.md
-          - 6.1.4 Organisation Usage: ca106-data/6-01-data-information-knowledge/6-1-4-organisation-usage.md
-          - 6.1.5 Interrelationships: ca106-data/6-01-data-information-knowledge/6-1-5-interrelationships.md
-      - 6.2 Methods of Transforming Data:
-          - 6.2.1 Transforming Data: ca106-data/6-02-methods-transform-data/6-2-1-transforming-data.md
-      - 6.3 Data Taxonomy:
-          - 6.3.1 Quantitative and Qualitative: ca106-data/6-03-data-taxonomy/6-3-1-quantitative-qualitative.md
-          - 6.3.2 Structured Data: ca106-data/6-03-data-taxonomy/6-3-2-structured-data.md
-          - 6.3.3 Unstructured Data: ca106-data/6-03-data-taxonomy/6-3-3-unstructured-data.md
-          - 6.3.4 Represent Quantitative: ca106-data/6-03-data-taxonomy/6-3-4-represent-quantitative.md
+    - Introduction: ca106-data/home-06.md
+    - 6.1 Data, Information, and Knowledge:
+      - 6.1.1 Data, Information, and Knowledge: ca106-data/6-01-data-information-knowledge/6-1-1-data-information-knowledge.md
+      - 6.1.2 Sources for Generation: ca106-data/6-01-data-information-knowledge/6-1-2-sources-for-generation.md
+      - 6.1.3 Ethics and Metrics: ca106-data/6-01-data-information-knowledge/6-1-3-Ethics-and-metrics.md
+      - 6.1.4 Organisation Usage: ca106-data/6-01-data-information-knowledge/6-1-4-organisation-usage.md
+      - 6.1.5 Interrelationships: ca106-data/6-01-data-information-knowledge/6-1-5-interrelationships.md
+    - 6.2 Methods of Transforming Data:
+      - 6.2.1 Transforming Data: ca106-data/6-02-methods-transform-data/6-2-1-transforming-data.md
+    - 6.3 Data Taxonomy:
+      - 6.3.1 Quantitative and Qualitative: ca106-data/6-03-data-taxonomy/6-3-1-quantitative-qualitative.md
+      - 6.3.2 Structured Data: ca106-data/6-03-data-taxonomy/6-3-2-structured-data.md
+      - 6.3.3 Unstructured Data: ca106-data/6-03-data-taxonomy/6-3-3-unstructured-data.md
+      - 6.3.4 Represent Quantitative: ca106-data/6-03-data-taxonomy/6-3-4-represent-quantitative.md
+      - 6.3.6 Interrelationships: ca106-data/6-03-data-taxonomy/6-3-6-interrelationships.md
+    - 6.4 Data Types:
+      - 6.4.1 Data Types: ca106-data/6-04-data-types/6-4-1-data-types.md
+      - "6.4.2 Relationships: Structured and Unstructured": ca106-data/6-04-data-types/6-4-2-ralationships-structured-untructured.md
+      - "6.4.3 Relationships: Types and Transformation": ca106-data/6-04-data-types/6-4-3-relartionships-types-transformation.md
+      - 6.4.4 Judgements: ca106-data/6-04-data-types/6-4-4-judgements.md
+    - 6.5 Data Formats:
+      - 6.5.1 Data Formats: ca106-data/6-05-data-formats/6-5-1-data-formats.md
+      - "6.5.2 Relationships: Format and Transformation": ca106-data/6-05-data-formats/6.5.2-relationships-format-transformation.md
+    - 6.6 Structures to Store Data:
+      - 6.6.0 Structures: ca106-data/6-06-structures-store-data/6-6-0-structures.md
+    - 6.7 Dimensions and Maintenance:
+      - 6.7.0 Dimensions and Maintenance: ca106-data/6-07-dimensions-maintenance/6-7-0-dimensions-maintenance.md
+      - 6.7.6 Interrelationships: ca106-data/6-07-dimensions-maintenance/6-7-6-interrelationships.md
+    - 6.8 Data Systems:
+      - 6.8.0 Data Systems: ca106-data/6-08-data-systems/6-8-0-data-systems.md
+      - 6.8.7 Entry Factors: ca106-data/6-08-data-systems/6-8-7-entry-factors.md
+      - 6.8.8 Implement Factors: ca106-data/6-08-data-systems/6-8-8-implement-factors.md
+    - 6.9 Data Visualisation:
+      - 6.9.1 Visualisation: ca106-data/6-09-data-visualisation/6-9-1-visualisation.md
+      - 6.9.2 Benefits and Drawbacks: ca106-data/6-09-data-visualisation/6-9-2-benfits-drawbacks-visualisation.md
+    - 6.10 Data Models:
+      - 6.10.0 Data Models: ca106-data/6-10-data-models/6-10-0-data-models.md
+      - 6.10.4 Drawing Data Models: ca106-data/6-10-data-models/6-10-4-drawing-models.md
+    - 6.11 Data Access:
+      - 6.11.0 Access Across Platforms: ca106-data/6-11-data-access/6-11-0-access-across-platforms.md
+      - 6.11.3 Interrelationships: ca106-data/6-11-data-access/6-11-3-interrelationships.md
+    - 6.12 Data Analysis Tools:
+      - 6.12.1 Data Analysis Tools: ca106-data/6-12-data-analysis-tools/6-12-1-data-snlysis-tools.md
+      - 6.12.2 Interrelationships: ca106-data/6-12-data-analysis-tools/6-12-2-interrelationships.md
 
   - 7 DEN:
-      - Introduction: ca107-digital-environments/home-07.md
+    - Introduction: ca107-digital-environments/home-07.md
 
   - 8 SEC:
-      - Introduction: ca108-security/home-08.md
+    - Introduction: ca108-security/home-08.md
