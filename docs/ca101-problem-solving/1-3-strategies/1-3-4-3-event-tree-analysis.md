@@ -126,4 +126,4 @@ You should be able to:
 - Compare ETA with other analysis techniques
 
 !!! tip "Exam tip"
-If a question focuses on **possible outcomes after an event**, ETA is usually the most appropriate technique.
+    If a question focuses on **possible outcomes after an event**, ETA is usually the most appropriate technique.

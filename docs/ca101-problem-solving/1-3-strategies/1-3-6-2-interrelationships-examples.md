@@ -84,4 +84,4 @@ When answering judgement questions:
 - Explain why other strategies are less suitable
 
 !!! tip "Exam tip"
-Marks are often awarded for **reasoned judgement**, not just correct identification of a strategy.
+    Marks are often awarded for **reasoned judgement**, not just correct identification of a strategy.

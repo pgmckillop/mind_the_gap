@@ -83,4 +83,4 @@ You should be able to:
 - Justify the chosen action in a given scenario
 
 !!! tip "Exam tip"
-Questions often reward answers that **link the action taken to risk, impact, and accountability**.
+    Questions often reward answers that **link the action taken to risk, impact, and accountability**.

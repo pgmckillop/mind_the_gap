@@ -186,4 +186,4 @@ You should be able to:
 
 
 !!! tip "Exam tip"
-Tracing algorithms carefully and showing working is essential for medium and extended response questions.
+    Tracing algorithms carefully and showing working is essential for medium and extended response questions.

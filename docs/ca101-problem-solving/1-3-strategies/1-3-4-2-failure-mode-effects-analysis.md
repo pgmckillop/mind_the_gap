@@ -150,4 +150,4 @@ You should be able to:
 - Compare FMEA with other root cause analysis techniques
 
 !!! tip "Exam tip"
-Evaluation answers should link **risk, complexity, and consequences** to why FMEA is (or is not) appropriate.
+    Evaluation answers should link **risk, complexity, and consequences** to why FMEA is (or is not) appropriate.

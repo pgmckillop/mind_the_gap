@@ -90,4 +90,4 @@ You should be able to:
 - Explain why each stage is important
 
 !!! tip "Exam tip"
-Higher-mark questions often reward answers that **link each stage logically to the next**, rather than listing them in isolation.
+    Higher-mark questions often reward answers that **link each stage logically to the next**, rather than listing them in isolation.

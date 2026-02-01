@@ -114,4 +114,4 @@ You should be able to:
 - Compare it with other root cause analysis techniques
 
 !!! tip "Exam tip"
-Evaluation questions should mention **both**
+   Evaluation questions should mention **both**

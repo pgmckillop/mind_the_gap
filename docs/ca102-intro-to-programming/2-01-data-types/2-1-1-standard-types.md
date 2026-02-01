@@ -99,4 +99,4 @@ You should be able to:
 - Select an appropriate data type for a given scenario
 
 !!! tip "Exam tip"
-Marks are often awarded for **matching the data type to the nature of the data**, not just naming the data type.
+    Marks are often awarded for **matching the data type to the nature of the data**, not just naming the data type.

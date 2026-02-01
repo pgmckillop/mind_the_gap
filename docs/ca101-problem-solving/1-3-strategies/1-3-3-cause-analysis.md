@@ -78,4 +78,4 @@ You should be able to:
   - Explain why post-analysis actions are important
 
 !!! tip "Exam tip"
-If a question mentions **repeated problems** or **long-term fixes**, root cause analysis is usually the most appropriate approach.
+    If a question mentions **repeated problems** or **long-term fixes**, root cause analysis is usually the most appropriate approach.

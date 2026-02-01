@@ -151,4 +151,4 @@ You should be able to:
 - explain when test plans are used
 
 !!! tip "Exam tip"
-  Marks are often awarded for **linking test data types to validation and explaining how test plans ensure structured testing**, not just listing components.
+    Marks are often awarded for **linking test data types to validation and explaining how test plans ensure structured testing**, not just listing components.
