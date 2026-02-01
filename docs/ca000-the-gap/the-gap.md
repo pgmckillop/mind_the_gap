@@ -17,4 +17,4 @@ The content of this resource site will support you where content has been added 
 
 
 !!! danger "IMPORTANT NOTE"
-Some content from the older specification has been removed **DEPRECATED CONTENT**. I'm working on it!
+Some content from the older specification has been removed. This is **DEPRECATED CONTENT**.

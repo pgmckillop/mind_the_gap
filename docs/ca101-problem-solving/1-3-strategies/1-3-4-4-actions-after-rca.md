@@ -2,8 +2,10 @@
 
 ---
 
-## Purpose of Post-Analysis Actions
-After completing **root cause analysis**, appropriate actions must be taken to ensure:
+## Purpose of Post-Analysis Actions  
+
+After completing **root cause analysis**, appropriate actions must be taken to ensure:  
+
 - The issue is properly resolved
 - The solution is recorded
 - Similar issues are prevented in future
@@ -47,19 +49,23 @@ These actions support **continuous improvement**.
   - specialist knowledge is required
   - the risk or impact is high
 
-Escalation may involve:
+Escalation may involve:  
+
 - senior technical staff
 - management
 - external support
 
-**Why this matters**
+**Why this matters**  
+
 - Ensures serious issues are handled appropriately
 - Reduces risk to systems and users
 
 ---
 
-## Choosing the Correct Action
-The action taken depends on:
+## Choosing the Correct Action  
+
+The action taken depends on:  
+
 - Severity of the issue
 - Impact on users or systems
 - Likelihood of recurrence
@@ -67,8 +73,11 @@ The action taken depends on:
 
 ---
 
-## Exam Focus
-You should be able to:
+## Exam Focus  
+
+You should be able to:  
+
+
 - Describe actions taken after root cause analysis
 - Explain why logging, closing, or escalating is appropriate
 - Justify the chosen action in a given scenario

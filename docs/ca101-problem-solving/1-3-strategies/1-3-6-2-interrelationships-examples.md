@@ -1,39 +1,44 @@
 # 1.3.6 Paired Scenario and Judgement Exemplars
 
 The following examples show how **problem characteristics** influence the **choice of problem-solving strategy**.  
+
 Each exemplar models the level of explanation and judgement expected in **medium and extended response exam questions**.
 
 ---
 
-## Exemplar 1 — Simple, Repeating Issue
+## Exemplar 1 — {==Simple, Repeating Issue==}  
 
-### Scenario
+### Scenario  
+
 A small internal tool occasionally fails to save user settings. The issue is reported by a single team, occurs under similar conditions, and has minimal impact on business operations.
 
-### Suitable Strategy: Five Whys
+### Suitable Strategy: Five Whys  
 
-### Judgement
+### Judgement  
+
 The **Five Whys** is the most suitable strategy because the problem is **simple and well-defined**, with a clear cause-and-effect relationship. The issue occurs in a controlled environment and does not present significant risk. Using Five Whys allows the root cause to be identified quickly without unnecessary complexity.
 
 Using a more complex strategy such as FMEA would be inefficient, as the system is small and the consequences of failure are limited.
 
 ---
 
-## Exemplar 2 — Safety-Critical System
+## Exemplar 2 — {==Safety-Critical System==}  
 
-### Scenario
+### Scenario  
+
 A medical monitoring application processes patient data in real time. A failure could result in incorrect alerts or missed warnings, potentially putting patients at risk.
 
-### Suitable Strategy: Failure Modes and Effects Analysis (FMEA)
+### Suitable Strategy: Failure Modes and Effects Analysis (FMEA)  
 
-### Judgement
+### Judgement  
+
 **FMEA** is the most suitable strategy because the system is **complex and safety-critical**. The technique allows potential failures to be identified before they occur and prioritised based on severity and likelihood. This reduces risk and improves system reliability.
 
 Techniques such as the Five Whys are less suitable because they are reactive and focus on existing issues rather than preventing high-impact failures.
 
 ---
 
-## Exemplar 3 — Planning for Possible Outcomes
+## Exemplar 3 — {==Planning for Possible Outcomes==}
 
 ### Scenario
 An online retail platform is preparing for a major sales event. There is concern about how the system will behave if demand exceeds expectations or if supporting services fail.
@@ -47,7 +52,7 @@ This helps the organisation plan contingencies and understand the consequences o
 
 ---
 
-## Exemplar 4 — Recurring Technical Fault
+## Exemplar 4 — {==Recurring Technical Fault==}
 
 ### Scenario
 A software application crashes intermittently after recent updates. Multiple developers have worked on the system, and the cause is unclear.
@@ -61,15 +66,18 @@ This combined approach is suitable because the problem is recurring and may have
 
 ---
 
-## Common Exam Pitfalls
+## Common Exam Pitfalls  
+
 - Naming a strategy without justifying *why* it is suitable
 - Ignoring problem characteristics such as risk or complexity
 - Failing to mention limitations of alternative strategies
 
 ---
 
-## Exam Technique Checklist
-When answering judgement questions:
+## Exam Technique Checklist  
+
+When answering judgement questions:  
+
 - Identify key characteristics of the problem
 - Select the most suitable strategy
 - Justify the choice clearly

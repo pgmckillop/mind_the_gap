@@ -2,19 +2,19 @@
 
 ### 1.1.6 Purpose of decomposition
 Decomposition is the process of breaking down a problem or solution into smaller, more manageable parts.  
-The purpose of decomposition is to simplify complex problems and solutions so they can be analysed, designed and developed effectively within digital software development. :contentReference[oaicite:0]{index=0}
+The purpose of decomposition is to simplify complex problems and solutions so they can be analysed, designed and developed effectively within digital software development.
 
 ### 1.1.7 Tasks of decomposition
 The tasks of decomposition are to:
 - identify the main features of a problem
 - characterise each identified feature
 - break problems down into smaller, more manageable parts
-- break solutions down into smaller, more manageable parts. :contentReference[oaicite:1]{index=1}
+- break solutions down into smaller, more manageable parts. 
 
 ### 1.1.8 Use of decomposition for problem solving
 Decomposition is used for problem solving to:
 - analyse complex problems by separating them into component parts
-- support the development of solutions by addressing each part individually. :contentReference[oaicite:2]{index=2}
+- support the development of solutions by addressing each part individually.
 
 ## Exam Focus
 You should be able to:

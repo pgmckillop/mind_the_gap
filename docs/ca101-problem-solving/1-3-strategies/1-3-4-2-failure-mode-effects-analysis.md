@@ -2,8 +2,11 @@
 
 ---
 
-## What Is FMEA?
-**Failure Modes and Effects Analysis (FMEA)** is a **structured root cause analysis technique** used to identify:
+## What Is FMEA?  
+
+**Failure Modes and Effects Analysis (FMEA)** is a **structured root cause analysis technique**  
+used to identify:  
+
 - how a system or process might fail (**failure modes**)
 - the **effects** of those failures
 - actions to **reduce risk** before failures occur
@@ -12,8 +15,10 @@ FMEA is **preventative**, not reactive.
 
 ---
 
-## Purpose of FMEA
-FMEA is used to:
+## Purpose of FMEA  
+
+FMEA is used to:  
+
 - Identify potential failures **before** they happen
 - Reduce risk in systems and processes
 - Improve reliability, safety, and quality
@@ -25,15 +30,18 @@ It is commonly used in **complex, technical, or safety-critical systems**.
 
 ## Key Concepts
 
-### Failure Mode
+### Failure Mode  
+
 - A specific way in which something could fail  
   *(e.g. incorrect data input, hardware failure, logic error)*
 
-### Effect
+### Effect  
+
 - What happens if the failure occurs  
   *(e.g. system crash, incorrect output, data loss)*
 
-### Cause
+### Cause  
+
 - Why the failure might occur  
   *(e.g. poor design, lack of validation, user error)*
 
@@ -51,8 +59,10 @@ It is commonly used in **complex, technical, or safety-critical systems**.
 
 ---
 
-## Risk Evaluation in FMEA
-FMEA often considers:
+## Risk Evaluation in FMEA  
+
+FMEA often considers:  
+
 - **Severity** – how serious the effect is
 - **Likelihood** – how often the failure might occur
 - **Detectability** – how easy it is to detect the failure
@@ -61,7 +71,8 @@ Failures with **high impact and high likelihood** are prioritised.
 
 ---
 
-## Example
+## Example  
+
 **System:** Online booking system  
 
 | Failure Mode | Cause | Effect |
@@ -70,14 +81,16 @@ Failures with **high impact and high likelihood** are prioritised.
 | Incorrect date saved | Input validation missing | Incorrect reservations |
 | Duplicate bookings | Concurrency issue | Overbooking |
 
-Actions might include:
+Actions might include:  
+
 - Improved validation
 - Load testing
 - Transaction locking
 
 ---
 
-## Strengths of FMEA
+## Strengths of FMEA  
+
 - Proactive approach to problem solving
 - Reduces risk before deployment
 - Structured and systematic
@@ -85,7 +98,8 @@ Actions might include:
 
 ---
 
-## Limitations of FMEA
+## Limitations of FMEA  
+
 - Time-consuming to carry out
 - Requires good system knowledge
 - Can become complex and resource-intensive
@@ -93,8 +107,10 @@ Actions might include:
 
 ---
 
-## When FMEA Is Suitable
-FMEA is most appropriate when:
+## When FMEA Is Suitable  
+
+FMEA is most appropriate when:  
+
 - Systems are complex or technical
 - Failure could have serious consequences
 - Risk reduction is critical
@@ -102,8 +118,10 @@ FMEA is most appropriate when:
 
 ---
 
-## When FMEA Is Not Suitable
-FMEA may be unnecessary when:
+## When FMEA Is Not Suitable  
+
+FMEA may be unnecessary when:  
+
 - Problems are simple
 - Quick diagnosis is required
 - Root cause is already known
@@ -122,8 +140,10 @@ In these cases, techniques such as the **Five Whys** may be more appropriate.
 
 ---
 
-## Exam Focus
-You should be able to:
+## Exam Focus  
+
+You should be able to:  
+
 - **Explain** what FMEA is
 - **Describe** how FMEA is carried out
 - **Evaluate** its suitability in a scenario

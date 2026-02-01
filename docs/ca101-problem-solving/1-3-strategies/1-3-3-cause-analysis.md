@@ -41,13 +41,14 @@ You should know and understand the purpose of the following techniques:
 ## 1.3.5 High-Level Problem-Solving Strategy
 A **high-level strategy** provides a structured approach to solving problems.
 
-Typical stages include:
-1. **Define the problem**
-2. **Gather information**
-3. **Analyse the problem**
-4. **Plan a solution**
-5. **Implement the solution**
-6. **Review the outcome**
+Typical stages include:  
+
+  1. **Define the problem**  
+  2. **Gather information**  
+  3. **Analyse the problem**  
+  4. **Plan a solution**  
+  5. **Implement the solution**  
+  6. **Review the outcome**
 
 This strategy supports logical, repeatable problem solving.
 
@@ -67,12 +68,14 @@ These actions support:
 
 ---
 
-## Exam Focus
-You should be able to:
-- Explain what root cause analysis is
-- Identify suitable root cause analysis techniques
-- Describe a high-level problem-solving strategy
-- Explain why post-analysis actions are important
+## Exam Focus  
+
+You should be able to:  
+
+  - Explain what root cause analysis is  
+  - Identify suitable root cause analysis techniques  
+  - Describe a high-level problem-solving strategy  
+  - Explain why post-analysis actions are important
 
 !!! tip "Exam tip"
 If a question mentions **repeated problems** or **long-term fixes**, root cause analysis is usually the most appropriate approach.

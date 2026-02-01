@@ -8,18 +8,6 @@ The course has 8 content areas assessed in the mandatory, formal examinations us
 
 In the navigation off this resource site these are accessed though the menu bar as
 
-| Menu Code | Content Area Title |
-|----------|--------------------|
-| **1 PRO** | Problem Solving |
-| **2 ITP** | Introduction to Programming |
-| **3 EMI** | Emerging Issues |
-| **4 LAR** | Legislation and Regulation |
-| **5 BUC** | Business Context |
-| **6 DAT** | Data |
-| **7 DEN** | Digital Environments |
-| **8 SEC** | Security |
-
-
 Content and scope (hover over the titles)
 
 | Menu Code | Content Area Title |

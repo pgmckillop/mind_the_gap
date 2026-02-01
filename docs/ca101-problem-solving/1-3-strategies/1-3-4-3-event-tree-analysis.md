@@ -2,15 +2,18 @@
 
 ---
 
-## What Is Event Tree Analysis?
+## What Is Event Tree Analysis?  
+
 **Event Tree Analysis (ETA)** is a **root cause and risk analysis technique** used to explore the **possible outcomes** of an initiating event by following different paths based on subsequent decisions or system responses.
 
 ETA is **forward-looking**, focusing on *what could happen next*.
 
 ---
 
-## Purpose of Event Tree Analysis
-ETA is used to:
+## Purpose of Event Tree Analysis  
+
+ETA is used to:  
+
 - Understand how an initial event can lead to multiple outcomes
 - Identify possible success and failure paths
 - Assess risk and consequences
@@ -62,7 +65,8 @@ Each path leads to a different **outcome** with different risks.
 
 ---
 
-## Strengths of Event Tree Analysis
+## Strengths of Event Tree Analysis  
+
 - Clearly shows cause-and-effect relationships
 - Supports visual understanding of risk paths
 - Useful for contingency and disaster planning
@@ -70,7 +74,8 @@ Each path leads to a different **outcome** with different risks.
 
 ---
 
-## Limitations of Event Tree Analysis
+## Limitations of Event Tree Analysis  
+
 - Can become complex very quickly
 - Requires accurate system knowledge
 - Not suitable for identifying root causes
@@ -78,8 +83,10 @@ Each path leads to a different **outcome** with different risks.
 
 ---
 
-## When Event Tree Analysis Is Suitable
-ETA is most appropriate when:
+## When Event Tree Analysis Is Suitable  
+
+ETA is most appropriate when:  
+
 - Analysing **consequences** of an event
 - Planning responses to failures
 - Working with safety-critical or high-risk systems
@@ -87,8 +94,10 @@ ETA is most appropriate when:
 
 ---
 
-## When Event Tree Analysis Is Not Suitable
-ETA may be unsuitable when:
+## When Event Tree Analysis Is Not Suitable  
+
+ETA may be unsuitable when:  
+
 - The root cause needs to be identified
 - The problem is simple
 - Time is limited
@@ -107,8 +116,10 @@ In these cases, techniques such as the **Five Whys** or **FMEA** may be more app
 
 ---
 
-## Exam Focus
-You should be able to:
+## Exam Focus  
+
+You should be able to:  
+
 - **Explain** what Event Tree Analysis is
 - **Describe** how it is carried out
 - **Evaluate** its suitability in a scenario
