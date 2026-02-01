@@ -1,20 +1,23 @@
-## 6.8 Data systems
+# 6.8 Data systems
 
-### 6.8.1 Data wrangling
+## 6.8.1 Data wrangling
 
 **Data wrangling** is the process of converting raw data into a format that is suitable for use.
 
-- **Purpose**:
-  - to improve data quality
-  - to prepare data for analysis or processing
-- **When used**:
-  - when data is incomplete, inconsistent or unstructured
-  - before data is analysed, integrated or stored in a data system
+**Purpose**:  
+
+- to improve data quality
+- to prepare data for analysis or processing  
+  
+**When used**:  
+
+- when data is incomplete, inconsistent or unstructured
+- before data is analysed, integrated or stored in a data system
 
 Data wrangling ensures data is usable and meaningful.
 
 !!! tip "Exam tip"
-In exam answers, link data wrangling to **preparation and usability**. Marks are awarded for explaining *why data must be wrangled before use*.
+    In exam answers, link data wrangling to **preparation and usability**. Marks are awarded for explaining *why data must be wrangled before use*.
 
 ---
 
@@ -22,21 +25,29 @@ In exam answers, link data wrangling to **preparation and usability**. Marks are
 
 Each step has a specific purpose:
 
-- **Structure**:
-  - organises data into a defined format
-- **Clean**:
-  - removes or corrects incorrect, incomplete or duplicate data
-- **Validate**:
-  - checks data against rules to ensure accuracy and correctness
-- **Enrich**:
-  - adds additional data to increase usefulness
-- **Output**:
-  - produces data in a format ready for use or storage
+**Structure**:  
+- organises data into a defined format  
+  
+**Clean**:  
+
+- removes or corrects incorrect, incomplete or duplicate data  
+ 
+**Validate**:  
+
+- checks data against rules to ensure accuracy and correctness  
+
+**Enrich**:  
+
+- adds additional data to increase usefulness  
+
+**Output**:  
+
+- produces data in a format ready for use or storage
 
 These steps improve data quality and usability.
 
 !!! tip "Exam tip"
-Examiners expect you to explain the **purpose of each step**, not just list them. Brief cause-and-effect explanations gain higher marks.
+    Examiners expect you to explain the **purpose of each step**, not just list them. Brief cause-and-effect explanations gain higher marks.
 
 ---
 
@@ -44,25 +55,38 @@ Examiners expect you to explain the **purpose of each step**, not just list them
 
 A **data system** performs the following core functions:
 
-- **Input**:
-  - captures data into the system
-- **Search**:
-  - locates specific data efficiently
-- **Save**:
-  - stores data for future use
-- **Integrate**:
-  - combines data from multiple sources
-- **Organise (index)**:
-  - structures data to improve retrieval speed
-- **Output**:
-  - presents data to users or other systems
-- **Feedback loop**:
-  - uses output results to influence future inputs or processes
+**Input**:  
+
+- captures data into the system  
+
+**Search**:  
+
+- locates specific data efficiently  
+ 
+**Save**:  
+
+- stores data for future use  
+ 
+**Integrate**:  
+
+- combines data from multiple sources  
+ 
+**Organise (index)**:  
+
+- structures data to improve retrieval speed  
+ 
+**Output**:  
+
+- presents data to users or other systems  
+  
+**Feedback loop**:  
+
+- uses output results to influence future inputs or processes
 
 These functions support effective data handling.
 
 !!! tip "Exam tip"
-For higher marks, show how **functions work together** rather than describing them in isolation.
+    For higher marks, show how **functions work together** rather than describing them in isolation.
 
 ---
 
@@ -98,7 +122,7 @@ Methods to reduce errors include:
 These methods improve data quality at the point of entry.
 
 !!! tip "Exam tip"
-Examiners reward answers that explain *how* each method reduces errors, not just that it exists.
+    Examiners reward answers that explain *how* each method reduces errors, not just that it exists.
 
 ---
 
@@ -116,4 +140,4 @@ Data entry is affected by:
 These factors influence design decisions in data systems.
 
 !!! tip "Exam tip"
-Link each factor to **accuracy and efficiency**. Marks are awarded for explaining trade-offs, not just listing factors.
+    Link each factor to **accuracy and efficiency**. Marks are awarded for explaining trade-offs, not just listing factors.
