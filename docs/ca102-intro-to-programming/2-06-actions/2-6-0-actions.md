@@ -2,9 +2,12 @@
 
 ---
 
-## Purpose of Actions
+## Purpose of Actions  
+
 **Actions** control the order in which instructions in a program are executed.  
-They determine:
+
+They determine:  
+
 - how tasks are carried out
 - how decisions are made
 - how repetition is handled
@@ -13,7 +16,8 @@ Actions allow programs to respond to different inputs and conditions.
 
 ---
 
-## Types of Actions in Scope
+## Types of Actions in Scope  
+
 The specification defines three core actions:
 
 - **sequence**
@@ -24,10 +28,12 @@ These actions form the basis of program control flow.
 
 ---
 
-## Sequence
+## {==Sequence==}  
+
 **Sequence** is the execution of instructions **in a defined order**, one after another.
 
-**Purpose:**
+**Purpose:**  
+
 - ensure steps occur in the correct order
 - support predictable program behaviour
 
@@ -35,10 +41,12 @@ Sequence is used in all programs and underpins all other actions.
 
 ---
 
-## Selection
+## {==Selection==}  
+
 **Selection** allows a program to **choose between alternative paths** based on a condition.
 
-**Purpose:**
+**Purpose:**  
+
 - make decisions
 - control which instructions are executed
 
@@ -46,10 +54,12 @@ Selection enables programs to respond differently to different inputs or situati
 
 ---
 
-## Iteration
+## {==Iteration==}  
+
 **Iteration** allows a set of instructions to be **repeated**.
 
-**Purpose:**
+**Purpose:**  
+
 - handle repetitive tasks efficiently
 - reduce duplication of code
 
@@ -57,24 +67,29 @@ Iteration is used when actions must occur multiple times based on a condition or
 
 ---
 
-## Using Actions Together
-Actions are often combined to:
+## Using Actions Together  
+
+Actions are often combined to:  
+
 - control complex program logic
 - manage user input and output
 - process collections of data
 
-Correct use of actions ensures programs are:
+Correct use of actions ensures programs are:  
+
 - efficient
 - reliable
 - easy to understand
 
 ---
 
-## Exam Focus
-You should be able to:
+## Exam Focus  
+
+You should be able to:  
+
 - Define sequence, selection, and iteration
 - Explain the purpose of each action
 - Identify how actions control program flow
 
 !!! tip "Exam tip"
-Marks are often awarded for **explaining how actions affect the order of execution**, not just naming them.
+    Marks are often awarded for **explaining how actions affect the order of execution**, not just naming them.

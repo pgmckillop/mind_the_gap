@@ -2,9 +2,12 @@
 
 ---
 
-## Purpose of Operators
+## Purpose of Operators  
+
 **Operators** are symbols used to perform operations on data values.  
-They enable programs to:
+
+They enable programs to:  
+
 - carry out calculations
 - compare values
 - evaluate conditions
@@ -18,7 +21,8 @@ Using appropriate operators ensures correct processing and decision-making.
 
 Arithmetic operators perform **mathematical calculations** on numeric data.
 
-### In Scope
+### In Scope  
+
 - **add**
 - **subtract**
 - **divide**
@@ -27,12 +31,14 @@ Arithmetic operators perform **mathematical calculations** on numeric data.
 - **integer division**
 - **modulus**
 
-**Used when:**
+**Used when:**  
+
 - performing calculations
 - manipulating numeric values
 - producing calculated outputs
 
-**Considerations:**
+**Considerations:**  
+
 - division may produce decimal values
 - integer division removes the remainder
 - modulus returns the remainder of a division
@@ -43,7 +49,8 @@ Arithmetic operators perform **mathematical calculations** on numeric data.
 
 Relational operators are used to **compare two values**.
 
-### In Scope
+### In Scope  
+
 - **equivalence**
 - **less than**
 - **greater than**
@@ -51,7 +58,8 @@ Relational operators are used to **compare two values**.
 - **less than or equal to**
 - **greater than or equal to**
 
-**Purpose:**
+**Purpose:**  
+
 - evaluate conditions
 - support decision-making
 - return Boolean results (`True` or `False`)
@@ -62,12 +70,14 @@ Relational operators are used to **compare two values**.
 
 Boolean operators are used to **combine or modify logical expressions**.
 
-### In Scope
+### In Scope  
+
 - **not**
 - **and**
 - **or**
 
-**Purpose:**
+**Purpose:**  
+
 - control complex decision logic
 - combine multiple conditions
 - reverse logical outcomes
@@ -76,12 +86,14 @@ Boolean operators are used to **combine or modify logical expressions**.
 
 ## 2.4.4 Using Operators
 
-Using operators correctly involves:
+Using operators correctly involves:  
+
 - selecting the appropriate operator type
 - ensuring compatible data types
 - applying operators in the correct logical context
 
-Correct use:
+Correct use:  
+
 - ensures accurate calculations
 - supports reliable decision-making
 - prevents logical errors
@@ -90,12 +102,14 @@ Correct use:
 
 ## 2.4.5 Interpreting Code Using Operators
 
-Interpreting code using operators involves:
+Interpreting code using operators involves:  
+
 - identifying the operator used
 - understanding the operation being performed
 - determining the resulting value or condition
 
-This includes tracing:
+This includes tracing:  
+
 - calculation steps
 - comparison outcomes
 - logical evaluations
@@ -104,12 +118,14 @@ This includes tracing:
 
 ## 2.4.6 Creating Code Using Operators
 
-Creating code using operators requires:
+Creating code using operators requires:  
+
 - selecting suitable arithmetic, relational, or Boolean operators
 - applying operators to appropriate data types
 - structuring expressions logically
 
-Effective creation ensures:
+Effective creation ensures:  
+
 - clear intent
 - correct outcomes
 - maintainable code
@@ -118,23 +134,27 @@ Effective creation ensures:
 
 ## 2.4.7 Debugging Code Using Operators
 
-Debugging code using operators involves identifying issues such as:
+Debugging code using operators involves identifying issues such as:  
+
 - incorrect operator selection
 - incompatible data types
 - incorrect logic in compound conditions
 
-Effective debugging:
+Effective debugging:  
+
 - corrects calculation errors
 - resolves faulty comparisons
 - improves program reliability
 
 ---
 
-## Exam Focus
-You should be able to:
+## Exam Focus  
+
+You should be able to:  
+
 - Identify arithmetic, relational, and Boolean operators
 - Explain the purpose of each operator type
 - Interpret, create, and debug code that uses operators
 
 !!! tip "Exam tip"
-Marks are often awarded for **explaining what an operator does to the data**, not just naming the operator.
+    Marks are often awarded for **explaining what an operator does to the data**, not just naming the operator.

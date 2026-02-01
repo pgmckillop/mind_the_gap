@@ -21,6 +21,13 @@ markdown_extensions:
   # Consolidated Pymdownx Extensions
   - pymdownx.details
   - pymdownx.critic
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -106,7 +113,7 @@ nav:
       - 2.5.2 File Operations: ca102-intro-to-programming/2-05-input-output/2-5-2-file-operations.md
     - 2.6 Actions:
       - 2.6.0 Actions: ca102-intro-to-programming/2-06-actions/2-6-0-actions.md
-      - 2.6.2 Match Case: ca102-intro-to-programming/2-06-actions/2-6-2-match-case.md
+      - 2.6.2 Selection usage: ca102-intro-to-programming/2-06-actions/2-6-2-match-case.md
       - 2.6.3 Loops: ca102-intro-to-programming/2-06-actions/2-6-3-loops.md
       - 2.6.5 Benefits and Drawbacks of Loops: ca102-intro-to-programming/2-06-actions/2-6-5-benefits-drawbacks-loops.md
     - 2.7 Functions and Procedures:

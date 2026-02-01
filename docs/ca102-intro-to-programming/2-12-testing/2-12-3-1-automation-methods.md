@@ -2,9 +2,11 @@
 
 ---
 
-## Purpose of Automation Methods
+## Purpose of Automation Methods  
+
 **Automation methods** are used to perform testing tasks automatically rather than manually.  
-They help to:
+They help to:  
+
 - reduce repetitive manual effort
 - increase consistency of test execution
 - improve efficiency and reliability of testing
@@ -15,15 +17,18 @@ Automation is particularly valuable when tests must be run frequently or at scal
 
 ## Macros
 
-### Purpose
+### Purpose  
+
 **Macros** automate a sequence of predefined actions.
 
-### Used When
+### Used When  
+
 - the same steps are repeated regularly
 - simple, predictable interactions are required
 - rapid execution of routine tasks is needed
 
-### Key Characteristics
+### Key Characteristics  
+
 - record and replay actions
 - limited flexibility
 - suitable for straightforward processes
@@ -32,15 +37,18 @@ Automation is particularly valuable when tests must be run frequently or at scal
 
 ## Scripts
 
-### Purpose
+### Purpose   
+
 **Scripts** automate testing actions using written code.
 
-### Used When
+### Used When  
+
 - tests require logic or conditions
 - repeated tests must adapt to different data
 - greater control and flexibility are needed
 
-### Key Characteristics
+### Key Characteristics  
+
 - programmable and customisable
 - reusable across test runs
 - require technical knowledge to create and maintain
@@ -49,23 +57,28 @@ Automation is particularly valuable when tests must be run frequently or at scal
 
 ## Functional Testing Tools
 
-### Purpose
+### Purpose  
+
 **Functional testing tools** automate the testing of system functionality against requirements.
 
-### Used When
+### Used When  
+
 - verifying that features work as intended
 - testing complete user workflows
 - repeated regression testing is required
 
-### Key Characteristics
+### Key Characteristics  
+
 - simulate user interactions
 - validate outputs against expected results
 - suitable for large or complex systems
 
 ---
 
-## Choosing an Automation Method
-The choice of automation method depends on:
+## Choosing an Automation Method  
+
+The choice of automation method depends on:  
+
 - complexity of the test
 - frequency of execution
 - available skills and resources
@@ -74,11 +87,13 @@ Simple tasks suit macros, while complex and repeatable tests benefit from script
 
 ---
 
-## Exam Focus
-You should be able to:
+## Exam Focus  
+
+You should be able to:  
+
 - explain the purpose of automation methods
 - identify when macros, scripts, and functional testing tools are used
 - justify the choice of an automation method in a given scenario
 
 !!! tip "Exam tip"
-Marks are often awarded for **linking the automation method to efficiency, consistency, and frequency of testing**, not just naming the method.
+    Marks are often awarded for **linking the automation method to efficiency, consistency, and frequency of testing**, not just naming the method.

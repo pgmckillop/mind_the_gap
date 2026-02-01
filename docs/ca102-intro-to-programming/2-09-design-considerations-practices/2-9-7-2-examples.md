@@ -107,18 +107,19 @@ except ValueError:
 While both solutions accept input, Solution B is more suitable because it handles invalid input safely. This makes the program more robust and user-friendly.
 
 
-## Example 5 — Data Storage Choice
-Scenario
+## Example 5 — Data Storage Choice  
+
+### Scenario
 
 A program stores student names and grades.
 
-Solution A
+### Solution A
 
 ```python
 names = ["Alex", "Sam"]
 grades = [80, 65]
 
-Solution B
+### Solution B
 
 ```python
 students = {"Alex": 80, "Sam": 65}
