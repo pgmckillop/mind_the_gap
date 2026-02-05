@@ -1,4 +1,4 @@
-site_name: Mind the Gap
+site_name: Bridge the Gap
 site_author: Paul McKillop
 
 repo_url: https://github.com/pgmckillop/mind_the_gap
@@ -193,6 +193,48 @@ nav:
 
   - 7 DEN:
     - Introduction: ca107-digital-environments/home-07.md
+    - 7.1 Hardware:
+      - 7.1.2 Hardware: ca107-digital-environments/7-1-02-hardware-devices.md
+    - 7.2 Software:
+      - 7.2.1 Operating Systems: ca107-digital-environments/7-2-01-operating-systems.md
+      - 7.2.2 Common Utilities: ca107-digital-environments/7-2-02-utilities.md
+      - 7.2.3 Software Development Tools: ca107-digital-environments/7-2-03-development-tools.md
+    - 7.3 Networks:
+      - 7.3.1 Connect devices: ca107-digital-environments/7-3-01-connect-devices.md
+      - 7.3.2 Network Types: ca107-digital-environments/7-3-02-types-networks.md
+      - 7.3.3 Connectivity methods: ca107-digital-environments/7-3-03-connectivity-methods.md
+      - 7.3.4 Network Topologies: ca107-digital-environments/7-3-04-network-topologies.md
+      - 7.3.5 Network models: ca107-digital-environments/7-3-05-network-models.md
+      - 7.3.6 Network components: ca107-digital-environments/7-3-06-network-components.md
+      - 7.3.7 OSI Model: ca107-digital-environments/7-3-07-osi-model.md
+      - 7.3.8 TCP/IP Model: ca107-digital-environments/7-3-08-tcpip-model.md
+      - 7.3.9 Packets in transmission: ca107-digital-environments/7-3-09-packet-transmission.md
+      - 7.3.11 Bandwidth & Latency: ca107-digital-environments/7-3-11-bandwidth-latency.md
+    - 7.4 Virtual Environments:
+      - 7.4.1 Characteristics: ca107-digital-environments/7-4-01-characteristics-ve.md
+      - 7.4.2 Key Features: ca107-digital-environments/7-4-02-key-features-ve.md
+    - 7.5 Cloud Environments:
+      - 7.5.1 Types of cloud: ca107-digital-environments/7-5-01-types-cloud.md
+      - 7.5.2 Benefits of cloud: ca107-digital-environments/7-5-02-benefits-cloud.md
+    - Resilient Environments:
+      - 7.6.1 Benefits of resilience: ca107-digital-environments/7-6-01-resilient-environments.md
+      - 7.6.2 Improve resilience: ca107-digital-environments/7-6-02-improve-resilience.md
 
   - 8 SEC:
     - Introduction: ca108-security/home-08.md
+    - 8.1 Security risks:
+      - 8.1.1 Confidential information: ca108-security/8-1-1-types-confidential-information.md
+      - 8.1.2 Reasons for confidentiality: ca108-security/8-1-2-keep-confidentiality.md
+      - 8.1.3 Impact of failure: ca108-security/8-1-3-impact-failure.md
+    - 8.2 Threats & Vulnerabilities:
+      - 8.2.1 Threat & Impact: ca108-security/8-2-1-threat-impact.md
+      - 8.2.2 technical vulnerabilities: ca108-security/8-2-2-technical-vulnerability.md
+      - 8.2.3 Human threats: ca108-security/8-2-3-human-threat.md
+      - 8.2.4 Physical vulnerabilities: ca108-security/8-2-4-physical-vulnerability.md
+      - 8.2.5 Organisation impact: ca108-security/8-2-5-impact-threat-vulnerability.md
+    - 8.3 Threat mitigation:
+      - 8.3.1 Mitigation analysis: ca108-security/8-3-1-threat-mitigation.md
+      - 8.3.2 Assuring security: ca108-security/8-3-2-security-assurance.md
+    - 8.4 Security components:
+      - 8.4.1 CIA Relationships: ca108-security/8-4-1-cia-relationships.md
+      - 8.4.2 The IAAA model: ca108-security/8-4-2-iaaa-model.md
