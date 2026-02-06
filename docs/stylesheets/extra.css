@@ -1,0 +1,40 @@
+/* 1. TOP-LEVEL HEADERS (e.g., 7.1 Hardware, 7.3 Networks) */
+.md-nav__item.md-nav__item--level-1 > .md-nav__link {
+  font-weight: 800 !important;
+  color: var(--md-default-fg-color--bold);
+  margin-top: 0.6rem;
+  letter-spacing: -0.01em;
+}
+
+/* 2. SUB-LEVEL PAGES (e.g., 7.3.1 Connect devices) */
+.md-nav__item--level-2 .md-nav__link {
+  font-weight: 400 !important;
+  font-size: 0.85em !important;
+  opacity: 0.75; /* Dims them slightly so the headers pop */
+}
+
+/* 3. THE TREE VISUAL (Vertical lines for nested items) */
+.md-nav__list .md-nav__list {
+  border-left: 1px solid var(--md-default-fg-color--lightest) !important;
+  margin-left: 0.9rem !important;
+  padding-left: 0.4rem !important;
+}
+
+/* 4. ACTIVE PAGE HIGHLIGHT (The "You Are Here" marker) */
+.md-nav__link--active {
+  color: var(--md-primary-fg-color) !important;
+  font-weight: 700 !important;
+  opacity: 1 !important;
+  background-color: var(--md-primary-fg-color--trust);
+  border-radius: 0.2rem;
+}
+
+/* 5. MAIN SECTION TITLE (The "7 DEN" heading) */
+.md-nav__title {
+  font-weight: 900 !important;
+  text-transform: uppercase;
+  color: var(--md-primary-fg-color);
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  margin-bottom: 0.5rem;
+}
