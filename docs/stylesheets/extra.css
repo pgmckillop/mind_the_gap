@@ -1,16 +1,43 @@
-/* 1. TOP-LEVEL HEADERS (e.g., 7.1 Hardware, 7.3 Networks) */
+/* ==========================================================
+   SIDEBAR NAVIGATION CUSTOMIZATION
+   ========================================================== */
+
+/* 1. TOP-LEVEL HEADERS (Folders: e.g., 7.1 Hardware) */
 .md-nav__item.md-nav__item--level-1 > .md-nav__link {
   font-weight: 800 !important;
   color: var(--md-default-fg-color--bold);
   margin-top: 0.6rem;
   letter-spacing: -0.01em;
+  display: flex !important;
+  align-items: center;
 }
 
-/* 2. SUB-LEVEL PAGES (e.g., 7.3.1 Connect devices) */
+/* Folder icon for Level 1 - targeted to ensure visibility */
+.md-nav__item.md-nav__item--level-1 > .md-nav__link::before {
+  content: "📁" !important;
+  margin-right: 0.6rem !important;
+  font-size: 1rem !important;
+  display: inline-block !important;
+  font-style: normal;
+}
+
+/* 2. SUB-LEVEL PAGES (Files: e.g., 7.3.1 Connect devices) */
 .md-nav__item--level-2 .md-nav__link {
   font-weight: 400 !important;
   font-size: 0.85em !important;
-  opacity: 0.75; /* Dims them slightly so the headers pop */
+  opacity: 0.75; 
+  display: flex !important;
+  align-items: center;
+}
+
+/* Document icon for Level 2 - targeted to ensure visibility */
+.md-nav__item--level-2 .md-nav__link::before {
+  content: "📄" !important;
+  margin-right: 0.6rem !important;
+  font-size: 0.9rem !important;
+  opacity: 0.6;
+  display: inline-block !important;
+  font-style: normal;
 }
 
 /* 3. THE TREE VISUAL (Vertical lines for nested items) */
@@ -29,7 +56,12 @@
   border-radius: 0.2rem;
 }
 
-/* 5. MAIN SECTION TITLE (The "7 DEN" heading) */
+/* Ensure active icons are also full opacity */
+.md-nav__link--active::before {
+  opacity: 1 !important;
+}
+
+/* 5. MAIN DRAWER TITLE (The "7 DEN" heading) */
 .md-nav__title {
   font-weight: 900 !important;
   text-transform: uppercase;
@@ -37,4 +69,10 @@
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
   margin-bottom: 0.5rem;
+}
+
+/* 6. FIX FOR SPACING (Prevents icons from squishing text) */
+.md-nav__link > span {
+  display: inline-block;
+  line-height: 1.2;
 }
