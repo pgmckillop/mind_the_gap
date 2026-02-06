@@ -9,9 +9,9 @@ Read the handbook to see the scope definition
 
 ## Ndw or changed content in this area
 
-- 3.1.1 Ethical issues relating to digital technologies
-- 3.1.2 Environmental impact of digital technologies
-- 3.2.1 Risks to organisations from digital technologies
-- 3.2.2 Impact of digital risks on organisations
-- 3.3.1 Reliability of information sources
-- 3.3.2 Bias, accuracy and validity of digital information
+- 3.1.1 Increased reliance on technology
+- 3.1.2 Digital inclusion
+- 3.1.3 User characteristics
+- 3.1.4 Professional development
+- 3.2.1 Impact od developments
+- 3.2.2 Interrelationships between factors

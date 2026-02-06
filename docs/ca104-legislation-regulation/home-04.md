@@ -9,9 +9,12 @@ Read the handbook to see the scope definition
 
 ## New and changed content in this area
 
-- 4.1.1 Data protection principles and responsibilities
-- 4.1.2 Roles and responsibilities under data protection law
-- 4.2.1 Computer misuse legislation
-- 4.2.2 Consequences of non-compliance with cyber legislation
-- 4.3.1 Intellectual property rights in digital products
-- 4.4.1 Health and safety in digital development environments
+- 4.1.1 Health and safety legislation: key points and implications to employers
+- 4.1.2 Health and safety risks and preventative measures when working with digital systems
+- 4.1.7 Interrelationships between digital software development and digital legislation
+- 4.1.8 International law in relation to cyber activity and surveillance
+- 4.2.1 Sources of codes of conduct (organisational, professional, governmental)
+- 4.2.3 Sources of digital industry standards
+- 4.2.4 Purpose and content of acceptable use policies (AUP)
+- 4.2.5 Whistleblowing procedures
+- 4.2.6 Interrelationships between digital software development and guidelines

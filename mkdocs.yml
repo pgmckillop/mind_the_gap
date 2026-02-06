@@ -154,7 +154,18 @@ nav:
 
   - 4 LAR:
     - Introduction: ca104-legislation-regulation/home-04.md
-
+    - 4.1 Legislation:
+      - 4.1.1 Legislation: ca104-legislation-regulation/4-1-1-hs-legislation.md
+      - 4.1.2 Health & Safety Risks: ca104-legislation-regulation/4-1-2-hs-risks.md
+      - 4.1.7 Development and legislation: ca104-legislation-regulation/4-1-7-interrelationships.md
+      - 4.1.8 International Law: ca104-legislation-regulation/4-1-8-international-law.md
+    - 4.2 Guidelines:
+      - 4.2.1 Codes of Conduct: ca104-legislation-regulation/4-2-1-sources-codes.md
+      - 4.2.3 Standards: ca104-legislation-regulation/4-2-3-sources-standards.md
+      - 4.2.4 Acceptable Use Policies: ca104-legislation-regulation/4-2-4-acceptable-use-policies.md
+      - 4.2.5 Whistleblowing: ca104-legislation-regulation/4-2-5-whistleblowing.md
+      - 4.2.6 Interrelationships: ca104-legislation-regulation/4-2-6-interrelationships.md
+  
   - 5 BUC:
     - Introduction: ca105-business-context/home-05.md
 
