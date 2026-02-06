@@ -144,12 +144,13 @@ nav:
   - 3 EMI:
     - Introduction: ca103-emerging-issues/home-03.md
     - 3.1 Impact of technologies:
-      - 3.1.1 Ethical issues: ca103-emerging-issues/3-1-1-ethical-issues.md
-      - 3-1-2 Environmental impact: ca103-emerging-issues/3-1-2-environmental-impact.md
-      - 3-2-1 Organisational risk: ca103-emerging-issues/3-2-1-organisation-risk.md
-      - 3.2.2 Organisational impact: ca103-emerging-issues/3-2-2-impact-risk.md
-      - 3.3.1 Information reliability: ca103-emerging-issues/3-3-1-information-reliability.md
-      - 3.3.2 Bias, Accuracy, Validity: ca103-emerging-issues/3-3-2-bias-accuracy-validity.md
+      - 3.1.1 Increased reliance: ca103-emerging-issues/3-1-1-increased-reliance.md
+      - 3-1-2 Digital inclusion: ca103-emerging-issues/3-1-2-digital-inclusion.md
+      - 3.1.3 User characteristics: ca103-emerging-issues/3-1-3-user-characteristics.md
+      - 3.1.4 Professional development: ca103-emerging-issues/3-1-4-professional-development.md
+    - 3.2 Emerging technologies:
+      - 3.2.1 Organisational risk: ca103-emerging-issues/3-2-1-organisation-risk.md
+      - 3.2.2 Interrelationships: ca103-emerging-issues/3-2-2-interrelationships.md
 
   - 4 LAR:
     - Introduction: ca104-legislation-regulation/home-04.md
