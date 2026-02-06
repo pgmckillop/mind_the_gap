@@ -1,4 +1,6 @@
-# 7.1.2 Features and use of hardware devices
+# 7.1.2 
+
+**Features and use of hardware devices**
 
 This section covers the features and use of different hardware device types and their roles within a digital system.
 
