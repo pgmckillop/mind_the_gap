@@ -52,7 +52,9 @@ theme:
     - navigation.instant
     - navigation.expand
     - navigation.tracking
-    - navigation.subnavigation.indent
+    # I kept this enabled, but we will reinforce it with CSS lines
+    - navigation.subnavigation.indent 
+    - navigation.path # Added: helpful for deep hierarchies
     - toc.integrate
     - search.highlight
     - search.share
@@ -64,7 +66,6 @@ theme:
         name: Dark mode
       primary: indigo
       accent: deep purple
-
     # Light mode
     - scheme: default
       toggle:
@@ -72,6 +73,10 @@ theme:
         name: Light mode
       primary: blue
       accent: deep purple
+
+# Ensure this points to your CSS file
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
