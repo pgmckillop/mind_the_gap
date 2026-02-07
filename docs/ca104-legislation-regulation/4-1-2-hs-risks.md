@@ -1,4 +1,6 @@
-# 4.1.2![New Content](../../assets/icons/introduced.svg){ width="256" }
+# 4.1.2!
+
+[New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ## Health and safety risks and preventative measures when working with digital systems

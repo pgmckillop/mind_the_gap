@@ -1,6 +1,6 @@
 # 4.1.8
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ## Application of international law to digital offences

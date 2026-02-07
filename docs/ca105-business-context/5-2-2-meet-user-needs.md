@@ -1,6 +1,6 @@
 # 5.2.2
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ## Digital systems to meet user needs and ensure quality of product/service

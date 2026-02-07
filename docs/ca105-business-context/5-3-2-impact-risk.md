@@ -1,6 +1,6 @@
 # 5.3.2
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ## Impact of risks on organisations when using digital systems
