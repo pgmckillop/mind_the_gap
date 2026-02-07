@@ -168,6 +168,23 @@ nav:
   
   - 5 BUC:
     - Introduction: ca105-business-context/home-05.md
+    - 5.1 Business environment:
+      - 5.1.1 Organisation types: ca105-business-context/5-1-1-organisation-types.md
+      - 5.1.2 Business models: ca105-business-context/5-1-2-business-models.md
+      - 5.1.3 Stakeholders: ca105-business-context/5-1-3-types-stakeholders.md
+    - 5.2 Organisation value:
+      - 5.2.1 Support organisations: ca105-business-context/5-2-1-support-organisations.md
+      - 5.2.2 User needs: ca105-business-context/5-2-2-meet-user-needs.md
+    - 5.3 Organisation risks:
+      - 5.3.1 Organisation risks: ca105-business-context/5-3-1-risks-organisation.md
+      - 5.3.2 Impact of risk: ca105-business-context/5-3-2-impact-risk.md
+    - 5.4 Change management:
+      - 5.4.1 Internal factors: ca105-business-context/5-4-1-internal-factors.md
+      - 5.4.2 External factors: ca105-business-context/5-4-2-external-factors.md
+      - 5.4.3 Change response: ca105-business-context/5-4-3-change-response.md
+      - 5.4.4 Change management: ca105-business-context/5-4-4-change-management.md
+      - 5.4.5 Feasibility factors: ca105-business-context/5-4-5-feasibility-factors.md
+
 
   - 6 DAT:
     - Introduction: ca106-data/home-06.md
