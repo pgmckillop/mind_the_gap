@@ -1,24 +1,29 @@
 # THE ISSUE
 
-The T-Level digital specification changed at the start pf the 25-26 Academic year.
+**The T-Level digital specification changed at the start pf the 25-26 Academic year.**
 
 For the older specification, Digital Production Design and Development, we were supported by 2 published resources:
 
 - The textbook
 - The revision book
 
+## RETAINED CONTENT
+
 Much of the content of these resources is still valid and very useful. They are available to you in the pages of the T-Level Canvas VLE site.
 
 In this site I will indicate content that appears in the Hodder books using this icon:
 
+![Retained Content](../assets/icons/retained.svg){ width="256" }
 
+## NEW AND CHANGED CONTENT
 
 The content of this resource site will support you where content has been added or changed significantly with the launch of the new qualification:
 
-## Digital Software Development
+The pages for this content will have this icon at the top:
+
+![Introduced Content](../assets/icons/introduced.svg){ width="256" }
+
+
+## Digital Software Development HANDBOOK
 
 [THE QUALIFICATION SPECIFICATION](./../assets/downloads/dsd_handbook.pdf){:target="_blank"}
-
-
-!!! danger "IMPORTANT NOTE"
-Some content from the older specification has been removed. This is **DEPRECATED CONTENT**.
