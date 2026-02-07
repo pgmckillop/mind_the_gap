@@ -1,4 +1,6 @@
-# 2.7 Functions and procedures
+# 2.7 
+
+## Functions and procedures
 
 ![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification

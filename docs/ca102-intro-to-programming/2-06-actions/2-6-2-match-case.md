@@ -1,4 +1,4 @@
-## 2.6 USAGE
+# 2.6 USAGE
 
 ![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification

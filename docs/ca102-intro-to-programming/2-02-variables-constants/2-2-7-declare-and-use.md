@@ -1,4 +1,6 @@
-# 2.2.7–2.2.9 Variables, Constants, and Type Conversion in Use
+# 2.2.7–2.2.9 
+
+## Variables, Constants, and Type Conversion in Use
 
 ![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification

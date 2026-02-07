@@ -1,4 +1,6 @@
-# 2.12 Testing
+# 2.12 
+
+## Testing
 
 ![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification

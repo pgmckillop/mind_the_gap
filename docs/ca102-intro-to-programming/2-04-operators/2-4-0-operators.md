@@ -1,4 +1,6 @@
-# 2.4 Operators
+# 2.4 
+
+## Operators
 
 ![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification

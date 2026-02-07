@@ -1,4 +1,6 @@
-## 2.5 Input and output
+# 2.5 
+
+## Input and output
 
 ![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification

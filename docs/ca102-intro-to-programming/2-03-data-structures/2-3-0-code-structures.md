@@ -1,4 +1,6 @@
-# 2.3 Data Structures
+# 2.3 
+
+## Data Structures
 
 ![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification

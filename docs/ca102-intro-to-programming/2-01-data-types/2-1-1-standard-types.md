@@ -1,4 +1,6 @@
-# 2.1.1 Standard Data Types
+# 2.1.1 
+
+## Standard Data Types
 
 ![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification

@@ -1,4 +1,6 @@
-# 2.9.5–2.9.6 Naming and Code Style Conventions
+# 2.9.5–2.9.6 
+
+## Naming and Code Style Conventions
 
 ![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification

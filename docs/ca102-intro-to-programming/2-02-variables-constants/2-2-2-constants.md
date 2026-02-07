@@ -1,4 +1,6 @@
-## 2.2 Variables and constants
+# 2.2 
+
+## Variables and constants
 
 ![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
