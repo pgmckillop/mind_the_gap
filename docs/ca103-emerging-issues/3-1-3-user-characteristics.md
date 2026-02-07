@@ -1,6 +1,6 @@
 # 3.1.3 
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ## End user characteristics and inclusivity of digital systems

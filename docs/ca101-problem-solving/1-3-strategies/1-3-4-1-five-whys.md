@@ -1,6 +1,6 @@
 # 1.3.4 Five Whys Technique
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ---

@@ -1,6 +1,6 @@
 # 2.7.3 Origins of Functions and Procedures
-
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+ 
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ---

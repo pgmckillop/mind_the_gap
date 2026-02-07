@@ -1,6 +1,6 @@
 # 2.12 Testing
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ## 2.12.2.1 Testing methods  

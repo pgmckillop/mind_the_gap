@@ -1,6 +1,6 @@
 ## 2.6 LOOPS
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ### 2.6.3 Loops  
