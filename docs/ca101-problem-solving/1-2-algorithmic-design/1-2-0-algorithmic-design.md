@@ -1,4 +1,6 @@
-# 1.2 Algorithmic Design
+# 1.2 
+
+## Algorithmic Design
 
 ![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification

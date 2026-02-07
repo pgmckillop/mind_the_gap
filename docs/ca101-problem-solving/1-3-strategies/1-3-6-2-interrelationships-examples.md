@@ -1,4 +1,6 @@
-# 1.3.6 Paired Scenario and Judgement Exemplars
+# 1.3.6 
+
+## Paired Scenario and Judgement Exemplars
   
 New or significantly changed in this specification
 
