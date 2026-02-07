@@ -13,5 +13,5 @@ Read the handbook to see the scope definition
 - 3.1.2 Digital inclusion
 - 3.1.3 User characteristics
 - 3.1.4 Professional development
-- 3.2.1 Impact od developments
+- 3.2.1 Impact of developments
 - 3.2.2 Interrelationships between factors
