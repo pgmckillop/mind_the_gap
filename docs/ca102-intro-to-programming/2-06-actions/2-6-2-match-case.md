@@ -1,5 +1,8 @@
 ## 2.6 USAGE
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ### 2.6.2 Selection  
 
 Selection is used to control the flow of a program by choosing between alternative actions based on conditions.  

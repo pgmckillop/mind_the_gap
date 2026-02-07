@@ -1,5 +1,8 @@
 # 2.5.2 Text Files for Input and Output
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## Purpose of Using Text Files  

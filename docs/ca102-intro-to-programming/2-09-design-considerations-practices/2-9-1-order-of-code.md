@@ -1,5 +1,8 @@
 # 2.9.1–2.9.4 Order of Code
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## Purpose of Ordering Code  

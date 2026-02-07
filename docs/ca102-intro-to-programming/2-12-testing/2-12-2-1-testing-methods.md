@@ -1,5 +1,8 @@
 # 2.12 Testing
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ## 2.12.2.1 Testing methods  
 
 Testing methods are structured approaches used to evaluate software solutions to identify defects, verify behaviour and assess suitability before deployment. Each method has a specific purpose and is used at different stages of development.

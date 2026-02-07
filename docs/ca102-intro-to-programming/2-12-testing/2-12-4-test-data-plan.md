@@ -1,5 +1,8 @@
 # 2.12.4 Test Data and Test Plan
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## Purpose of Test Data and Test Plans  

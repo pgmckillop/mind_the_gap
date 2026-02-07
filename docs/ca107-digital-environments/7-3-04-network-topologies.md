@@ -1,4 +1,9 @@
-# 7.3.4 Network topologies
+# 7.3.4
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Network topologies
 
 This section covers the features, benefits, and drawbacks of common network topologies and the distinction between logical and physical topology.
 

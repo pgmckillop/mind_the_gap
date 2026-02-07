@@ -1,5 +1,8 @@
 # 2.6 Actions
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## Purpose of Actions  

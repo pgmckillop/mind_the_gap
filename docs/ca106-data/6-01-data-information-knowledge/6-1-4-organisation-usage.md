@@ -1,4 +1,9 @@
-# 6.1.4 Use of data and information by organisations
+# 6.1.4 
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Use of data and information by organisations
 
 ## How organisations use data and information
 

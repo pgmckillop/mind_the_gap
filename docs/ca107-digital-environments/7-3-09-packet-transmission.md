@@ -1,4 +1,9 @@
-# 7.3.9 Role of data packets in network transmission
+# 7.3.9
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Role of data packets in network transmission
 
 This section covers the role of data packets in transmitting information across a network, including packet structure, packet switching, causes of packet loss, and error handling using cyclic redundancy check (CRC).
 

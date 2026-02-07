@@ -1,7 +1,10 @@
-# 8.1.3 
+# 8.1.3
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
 
 
-**Understand the potential impact to an organisation of failing to maintain privacy and confidentiality**
+## Understand the potential impact to an organisation of failing to maintain privacy and confidentiality
 
 This section covers the consequences for organisations when privacy and confidentiality are not maintained, including regulatory, financial, reputational and security impacts.
 

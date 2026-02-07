@@ -1,4 +1,9 @@
-# 7.3.1 Benefits and drawbacks of connecting devices to form networks
+# 7.3.1
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Benefits and drawbacks of connecting devices to form networks
 
 This section considers the advantages and disadvantages of connecting devices together to form networks.
 

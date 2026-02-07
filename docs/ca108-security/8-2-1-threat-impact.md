@@ -1,5 +1,9 @@
-# 8.2.1 
-Understand potential technical threats and their impacts on organisations and individuals including prevention and mitigation methods
+# 8.2.1
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Understand potential technical threats and their impacts on organisations and individuals including prevention and mitigation methods
 
 This section covers common technical threats to digital systems, their impacts on organisations and individuals, and the purpose of prevention and mitigation methods.
 

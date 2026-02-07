@@ -1,5 +1,8 @@
 # 1.3.4 Event Tree Analysis (ETA)
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## What Is Event Tree Analysis?  

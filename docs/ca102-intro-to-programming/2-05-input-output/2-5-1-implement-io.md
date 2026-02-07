@@ -1,5 +1,8 @@
 ## 2.5 Input and output
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ### 2.5.1 Implementing input and output  
 
 Input and output are used to allow data to enter a program and to present results produced by a program.  

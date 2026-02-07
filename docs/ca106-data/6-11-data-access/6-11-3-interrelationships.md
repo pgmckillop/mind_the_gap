@@ -1,4 +1,9 @@
-# 6.11.3 Interrelationships between data access requirements and access methods
+# 6.11.3
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Interrelationships between data access requirements and access methods
 
 ## Interrelationships and judgements
 

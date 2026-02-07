@@ -1,4 +1,9 @@
-# 6.8.8 Relationship between data entry implementation factors and suitability
+# 6.8.8 
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Relationship between data entry implementation factors and suitability
 
 ## Interrelationships and judgements
 

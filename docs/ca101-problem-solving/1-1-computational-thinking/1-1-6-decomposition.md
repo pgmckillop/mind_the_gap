@@ -1,5 +1,8 @@
 ## 1.1 Computational thinking
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ### 1.1.6 Purpose of decomposition
 Decomposition is the process of breaking down a problem or solution into smaller, more manageable parts.  
 The purpose of decomposition is to simplify complex problems and solutions so they can be analysed, designed and developed effectively within digital software development.

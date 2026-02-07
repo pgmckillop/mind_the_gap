@@ -1,4 +1,9 @@
-# 6.9.2 Benefits and drawbacks of data visualisation formats
+# 6.9.2 
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Benefits and drawbacks of data visualisation formats
 
 ## Considerations based on data type, audience and brief
 

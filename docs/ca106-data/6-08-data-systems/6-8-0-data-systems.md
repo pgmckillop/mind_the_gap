@@ -1,4 +1,9 @@
-# 6.8 Data systems
+# 6.8
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Data systems
 
 ## 6.8.1 Data wrangling
 

@@ -1,5 +1,8 @@
 # 2.12.3.1 Purpose of Automation Methods and When They Are Used
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## Purpose of Automation Methods  

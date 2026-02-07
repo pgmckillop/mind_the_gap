@@ -1,5 +1,9 @@
-# 8.4.2 
-Understand the elements of the Identification Authentication Authorisation Accountability (IAAA) model, including the techniques used and their benefits and drawbacks
+# 8.4.2
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Understand the elements of the Identification Authentication Authorisation Accountability (IAAA) model, including the techniques used and their benefits and drawbacks
 
 This section covers the four elements of the IAAA model and how identification, authentication, authorisation and accountability work together to control access to digital systems.
 

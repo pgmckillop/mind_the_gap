@@ -1,4 +1,9 @@
-# 7.2.2 Features and use of common utilities
+# 7.2.2
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Features and use of common utilities
 
 This section covers the features and use of common utility software used to manage, maintain, protect, and optimise digital systems.
 

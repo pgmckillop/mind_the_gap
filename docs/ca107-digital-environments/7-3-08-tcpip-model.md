@@ -1,4 +1,9 @@
-# 7.3.8 Four-layer TCP/IP model
+# 7.3.8
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Four-layer TCP/IP model
 
 This section covers the four-layer TCP/IP (Transmission Control Protocol / Internet Protocol) model, including the function and related protocols of each layer.
 

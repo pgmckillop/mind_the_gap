@@ -9,6 +9,10 @@ For the older specification, Digital Production Design and Development, we were 
 
 Much of the content of these resources is still valid and very useful. They are available to you in the pages of the T-Level Canvas VLE site.
 
+In this site I will indicate content that appears in the Hodder books using this icon:
+
+
+
 The content of this resource site will support you where content has been added or changed significantly with the launch of the new qualification:
 
 ## Digital Software Development

@@ -1,4 +1,9 @@
-# 7.2.1 Features and use of operating systems
+# 7.2.1
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Features and use of operating systems
 
 This section covers the features and use of different types of operating systems and how they support system operation.
 

@@ -1,4 +1,9 @@
-# 6.7 Data dimensions and maintenance
+# 6.7 
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Data dimensions and maintenance
 
 ## 6.7.1 The six Vs (dimensions) of Big Data
 

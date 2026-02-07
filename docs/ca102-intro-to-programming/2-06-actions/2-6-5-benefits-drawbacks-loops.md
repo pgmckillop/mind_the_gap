@@ -1,5 +1,8 @@
 # 2.6.5 Benefits and Drawbacks of Loops
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## Purpose of Loops   

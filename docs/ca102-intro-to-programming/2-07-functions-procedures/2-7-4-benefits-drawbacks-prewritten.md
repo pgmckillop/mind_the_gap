@@ -1,5 +1,8 @@
 # 2.7.4 Benefits and Drawbacks of Using Pre-written Code
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## Purpose  

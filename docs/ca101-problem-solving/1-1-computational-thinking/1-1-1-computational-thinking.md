@@ -1,5 +1,8 @@
 ## 1.1 Computational thinking
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ### 1.1.1 Definition and purpose of computational thinking
 Computational thinking is an approach to problem solving that involves analysing problems and solutions so that they can be represented as systems, processes, relationships, organisations of data or code.  
 The purpose of computational thinking is to support the development of solutions in digital software development.

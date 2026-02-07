@@ -1,5 +1,8 @@
 # 3.1.4 
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ## Benefits of professional development
 
 This section covers the benefits of professional development, including increased competence, employability and access to industry standards.

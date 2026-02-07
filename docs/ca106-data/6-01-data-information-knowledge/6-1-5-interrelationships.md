@@ -1,4 +1,10 @@
-# 6.1.5 Judging the suitability of data and its generation
+# 6.1.5
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+
+## Judging the suitability of data and its generation
 
 ---
 

@@ -1,4 +1,9 @@
-# 6.10.4 Drawing and representing data models
+# 6.10.4
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Drawing and representing data models
 
 ## Advice and recommendations
 

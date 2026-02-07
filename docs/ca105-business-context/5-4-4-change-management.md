@@ -1,4 +1,7 @@
-# 5.4.4 
+# 5.4.4
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
 
 ## Change management process
 

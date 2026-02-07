@@ -1,4 +1,9 @@
-# 6.11 Data access across platforms
+# 6.11
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Data access across platforms
 
 ## 6.11.1 Accessing data across platforms
 

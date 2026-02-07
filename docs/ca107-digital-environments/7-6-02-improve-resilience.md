@@ -1,4 +1,9 @@
-# 7.6.2 Methods to improve resilience of digital environments
+# 7.6.2
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Methods to improve resilience of digital environments
 
 This section covers methods used to improve the resilience of digital environments.
 

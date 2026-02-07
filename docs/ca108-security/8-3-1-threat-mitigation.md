@@ -1,5 +1,9 @@
 # 8.3.1 
-Understand the purposes, processes, benefits and drawbacks of common threat mitigation techniques
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Understand the purposes, processes, benefits and drawbacks of common threat mitigation techniques
 
 This section covers commonly used technical and organisational threat mitigation techniques, explaining their purpose, how they operate, and their benefits and drawbacks.
 

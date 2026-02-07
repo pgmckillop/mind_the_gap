@@ -1,4 +1,9 @@
-# 7.3.2 Features of different types of networks
+# 7.3.2
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Features of different types of networks
 
 This section covers the features used to distinguish network types, including number of users, connection media, coverage media, and common network categories.
 

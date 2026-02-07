@@ -1,4 +1,9 @@
-# 6.7.6 Interrelationships between data dimensions, data quality assurance and data maintenance
+# 6.7.6 
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Interrelationships between data dimensions, data quality assurance and data maintenance
 
 ## Interrelationships and judgements
 

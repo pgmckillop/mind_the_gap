@@ -1,4 +1,9 @@
-# 7.5.1 Types of cloud
+# 7.5.1
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Types of cloud
 
 This section covers the features, benefits, and drawbacks of different types of cloud environments.
 

@@ -1,4 +1,7 @@
-# 2.2.4–2.2.6 Scope
+
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
 
 ---
 

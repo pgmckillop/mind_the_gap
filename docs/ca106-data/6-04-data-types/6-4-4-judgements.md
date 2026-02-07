@@ -1,4 +1,9 @@
-# 6.4.4 Judging the suitability of structured data, unstructured data, data types and data transformation
+# 6.4.4
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Judging the suitability of structured data, unstructured data, data types and data transformation
 
 ## Making judgements
 

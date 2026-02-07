@@ -1,4 +1,9 @@
-# 6.12.1 Data analysis tools
+# 6.12.1 
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Data analysis tools
 
 ## Data analysis tools, their purpose and use
 

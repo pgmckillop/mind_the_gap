@@ -1,4 +1,9 @@
-# 6.3.3 Unstructured data
+# 6.3.3
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Unstructured data
 
 ---
 

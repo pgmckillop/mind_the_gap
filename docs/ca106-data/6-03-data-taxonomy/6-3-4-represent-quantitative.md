@@ -1,4 +1,9 @@
-# 6.3.4 Representation of quantitative data
+# 6.3.4
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Representation of quantitative data
 
 ---
 

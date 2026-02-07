@@ -1,5 +1,8 @@
 # 1.3.3–1.3.6 Problem-Solving Strategies
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## 1.3.3 Root Cause Analysis

@@ -1,4 +1,9 @@
-# 6.6 Structures for storing data
+# 6.6
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Structures for storing data
 
 ## 6.6.1 Role of metadata
 

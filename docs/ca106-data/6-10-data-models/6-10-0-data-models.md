@@ -1,4 +1,9 @@
-# 6.10 Data models
+# 6.10
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Data models
 
 ## 6.10.1 Types of data models
 

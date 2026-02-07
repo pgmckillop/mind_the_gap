@@ -1,4 +1,9 @@
-# 6.4.2 Interrelationships between structured data, unstructured data and data type
+# 6.4.2
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Interrelationships between structured data, unstructured data and data type
 
 ## Interrelationships
 

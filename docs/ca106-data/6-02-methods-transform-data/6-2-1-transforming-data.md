@@ -1,4 +1,9 @@
-# 6.2.1 Methods of transforming data
+# 6.2.1 
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Methods of transforming data
 
 ---
 

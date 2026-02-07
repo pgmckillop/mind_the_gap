@@ -1,5 +1,8 @@
 # 4.2.4 
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ## Acceptable use policies (AUP)
 
 This section covers the purpose of acceptable use policies and their typical content, including permitted and prohibited activities, working practices, communication etiquette and sanctions.

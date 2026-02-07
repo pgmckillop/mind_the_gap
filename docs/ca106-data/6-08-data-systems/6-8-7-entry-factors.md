@@ -1,4 +1,9 @@
-# 6.8.7 Relationship between data entry factors, data quality and error reduction
+# 6.8.7 
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Relationship between data entry factors, data quality and error reduction
 
 ## Interrelationships and judgements
 

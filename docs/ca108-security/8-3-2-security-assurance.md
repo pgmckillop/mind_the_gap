@@ -1,5 +1,9 @@
-# 8.3.2 
-Understand the processes and procedures that assure internet security and the reasons why they are used
+# 8.3.2
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Understand the processes and procedures that assure internet security and the reasons why they are used
 
 This section covers key operational processes used to protect internet-connected systems, focusing on firewall configuration, network segregation, network monitoring and port scanning.
 

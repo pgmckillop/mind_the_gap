@@ -1,4 +1,9 @@
-# 6.3.6 Interrelationships
+# 6.3.6
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Interrelationships
 
 Students must understand **how elements within data taxonomy are related** and **how choices in one area affect others** when working with data in digital software development.
 

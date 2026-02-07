@@ -1,4 +1,7 @@
-# 5.4.5 
+# 5.4.5
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
 
 ## Factors determining the feasibility of a digital project
 

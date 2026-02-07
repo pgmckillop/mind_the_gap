@@ -1,4 +1,9 @@
-# 7.3.11 Bandwidth and latency
+# 7.3.11
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Bandwidth and latency
 
 This section covers the concepts of bandwidth and latency and how they affect the performance of networks and connected systems.
 

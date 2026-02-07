@@ -1,5 +1,8 @@
 # 3.1.2 
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ## Importance of digital inclusion
 
 This section covers the importance of digital inclusion through ensuring fair access to digital services, including technology provision, connectivity, data bias, professional practice, and accessibility regulations.

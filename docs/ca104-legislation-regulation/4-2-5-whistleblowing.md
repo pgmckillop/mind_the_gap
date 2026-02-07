@@ -1,5 +1,8 @@
 # 4.2.5 
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ## Importance of whistleblowing procedures
 
 This section covers the importance of whistleblowing procedures in supporting ethical behaviour, legal compliance and organisational accountability within digital software development.

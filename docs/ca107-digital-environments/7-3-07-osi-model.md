@@ -1,4 +1,9 @@
-# 7.3.7 Seven-layer OSI model
+# 7.3.7
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Seven-layer OSI model
 
 This section covers the seven-layer OSI (Open Systems Interconnection) model, including the function and related protocols of each layer.
 

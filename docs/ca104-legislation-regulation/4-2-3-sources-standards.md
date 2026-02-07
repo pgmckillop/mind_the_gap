@@ -1,5 +1,8 @@
 # 4.2.3 
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ## Sources of digital industry standards
 
 This section covers the main sources of digital industry standards and their role in defining technical, accessibility, security and operational expectations within digital software development.

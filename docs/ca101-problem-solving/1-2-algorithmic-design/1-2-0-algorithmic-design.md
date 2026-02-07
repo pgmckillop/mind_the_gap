@@ -1,5 +1,8 @@
 # 1.2 Algorithmic Design
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ## Overview  
 
 **Algorithmic design** is the process of creating a clear, logical sequence of steps to solve a problem or complete a task. Algorithms must be {==**correct, unambiguous, and efficient**==}.

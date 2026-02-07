@@ -1,4 +1,9 @@
-# 7.5.2 Benefits of using cloud
+# 7.5.2
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Benefits of using cloud
 
 This section covers the benefits gained from using cloud services.
 

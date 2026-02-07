@@ -1,4 +1,9 @@
-# 7.3.6 Common network components
+# 7.3.6
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Common network components
 
 This section covers the role of key components used within networks.
 

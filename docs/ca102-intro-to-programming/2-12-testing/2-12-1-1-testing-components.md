@@ -1,5 +1,8 @@
 # 2.12 Testing
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ## 2.12.1.1 Testing components  
 
 Testing individual components before integration is used to identify issues early and ensure each part functions correctly in isolation.  

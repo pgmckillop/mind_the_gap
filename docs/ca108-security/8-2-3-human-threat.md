@@ -1,5 +1,9 @@
-# 8.2.3 
-Understand potential human threats, including prevention and mitigation methods, to systems and data
+# 8.2.3
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Understand potential human threats, including prevention and mitigation methods, to systems and data
 
 This section covers human-related threats to systems and data, including accidental actions, deliberate misuse, external impersonation, and poor cyber hygiene, together with associated prevention and mitigation methods.
 

@@ -1,6 +1,9 @@
-# 8.1.2 
+# 8.1.2
 
-**Understand why information must be kept confidential by organisations**
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Understand why information must be kept confidential by organisations
 
 This section explains why organisations must protect different types of confidential information, focusing on competitive advantage, privacy, operational security and business continuity.
 

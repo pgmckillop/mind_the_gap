@@ -1,5 +1,8 @@
 # 1.3.5 High-Level Problem-Solving Strategy
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## What Is a High-Level Problem-Solving Strategy?  

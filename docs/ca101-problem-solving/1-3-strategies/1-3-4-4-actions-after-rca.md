@@ -1,5 +1,8 @@
 # 1.3.4 Actions After Root Cause Analysis
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## Purpose of Post-Analysis Actions  

@@ -1,5 +1,9 @@
-# 8.4.1 
-Understand how the relationships in the CIA triad interrelate
+# 8.4.
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Understand how the relationships in the CIA triad interrelate
 
 This section covers the CIA triad and explains how confidentiality, integrity and availability depend on one another to provide effective information security.
 

@@ -1,4 +1,7 @@
-# 7.4.1 Virtual environment components
+# 7.4.1![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Virtual environment components
 
 This section covers the role and characteristics of common virtual environment components, including virtual machines and hypervisors.
 

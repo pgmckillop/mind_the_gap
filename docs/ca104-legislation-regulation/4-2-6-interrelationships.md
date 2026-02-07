@@ -1,5 +1,8 @@
 # 4.2.6 
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ## Interrelationships between digital software development and guidelines
 
 This section covers how digital software development interrelates with professional and organisational guidelines and how this relationship impacts organisations, society and individuals.

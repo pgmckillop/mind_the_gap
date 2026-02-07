@@ -1,4 +1,9 @@
-# 7.3.3 Connectivity methods
+# 7.3.3
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Connectivity methods
 
 This section covers the features, characteristics, benefits, and drawbacks of wired and wireless connectivity methods.
 

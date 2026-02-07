@@ -1,5 +1,8 @@
 # 1.3.6 Interrelationships Between Problems and Problem-Solving Strategies
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## What This Topic Is About  

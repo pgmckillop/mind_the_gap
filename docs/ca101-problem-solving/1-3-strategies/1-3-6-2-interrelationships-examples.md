@@ -1,5 +1,8 @@
 # 1.3.6 Paired Scenario and Judgement Exemplars
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 The following examples show how **problem characteristics** influence the **choice of problem-solving strategy**.  
 
 Each exemplar models the level of explanation and judgement expected in **medium and extended response exam questions**.

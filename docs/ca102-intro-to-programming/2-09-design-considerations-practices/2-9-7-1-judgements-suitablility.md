@@ -1,5 +1,8 @@
 # 2.9.7 Suitability of Programming Solutions
 
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
 ---
 
 ## What This Topic Is About  

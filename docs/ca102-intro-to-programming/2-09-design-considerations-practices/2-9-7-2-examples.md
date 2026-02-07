@@ -1,4 +1,7 @@
 # 2.9.7 Suitability — Paired Examples and Judgements
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
 E
 The examples below show how **two valid solutions** can exist, but one may be **more suitable** than the other depending on context.
 

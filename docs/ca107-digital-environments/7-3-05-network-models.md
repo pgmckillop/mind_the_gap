@@ -1,4 +1,9 @@
-# 7.3.5 Network models
+# 7.3.5
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Network models
 
 This section covers the features, benefits, and drawbacks of common network models.
 

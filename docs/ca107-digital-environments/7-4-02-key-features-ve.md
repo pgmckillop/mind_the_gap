@@ -1,4 +1,9 @@
-# 7.4.2 Key features of virtual environments
+# 7.4.2
+
+![New Content](../../assets/icons/introduced.svg){ width="256" }
+New or significantly changed in this specification
+
+## Key features of virtual environments
 
 This section covers the key features of virtual environments and how they support deployment, management, and operation of digital systems.
 
