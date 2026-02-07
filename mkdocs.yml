@@ -123,10 +123,14 @@ nav:
     - 2.1 Data Types:
       - 2.1.1 Standard Types: ca102-intro-to-programming/2-01-data-types/2-1-1-standard-types.md
     - 2.2 Variables and Constants:
+      - 2.2.1 Variables: ca102-intro-to-programming/2-02-variables-constants/2-2-1-variables.md
       - 2.2.2 Constants: ca102-intro-to-programming/2-02-variables-constants/2-2-2-constants.md
       - 2.2.3 Type Conversion: ca102-intro-to-programming/2-02-variables-constants/2-2-3-type-conversion.md
+      - 2.2.4 Scope: ca102-intro-to-programming/2-02-variables-constants/2-2-4-scope.md
       - 2.2.6 Use Scope: ca102-intro-to-programming/2-02-variables-constants/2-2-6-scope.md
       - 2.2.7 Declare and Use: ca102-intro-to-programming/2-02-variables-constants/2-2-7-declare-and-use.md
+      - 2.2.8 Use Variables: ca102-intro-to-programming/2-02-variables-constants/2-2-8-use-variables.md
+      - 2.2.9 Type Conversion: ca102-intro-to-programming/2-02-variables-constants/2-2-9-type-conversion.md
     - 2.3 Data Structures:
       - 2.3.0 Code Structures: ca102-intro-to-programming/2-03-data-structures/2-3-0-code-structures.md
     - 2.4 Operators:
@@ -134,8 +138,12 @@ nav:
     - 2.5 Input and Output:
       - 2.5.1 Implement IO: ca102-intro-to-programming/2-05-input-output/2-5-1-implement-io.md
       - 2.5.2 File Operations: ca102-intro-to-programming/2-05-input-output/2-5-2-file-operations.md
+      - 2.5.3 Interpret IO: ca102-intro-to-programming/2-05-input-output/2-5-3-interpret-io.md
+      - 2.5.4 Create IO: ca102-intro-to-programming/2-05-input-output/2-5-4-create-io.md
+      - 2.5.5 Debug IO: ca102-intro-to-programming/2-05-input-output/2-5-5-debug-io.md
     - 2.6 Actions:
       - 2.6.0 Actions: ca102-intro-to-programming/2-06-actions/2-6-0-actions.md
+      - 2.6.1 Sequence: ca102-intro-to-programming/2-06-actions/2-6-1-sequence.md
       - 2.6.2 Selection: ca102-intro-to-programming/2-06-actions/2-6-2-selection.md
       - 2.6.2 Selection usage: ca102-intro-to-programming/2-06-actions/2-6-2-match-case.md
       - 2.6.3 Loops: ca102-intro-to-programming/2-06-actions/2-6-3-loops.md
@@ -144,16 +152,32 @@ nav:
       - 2.7.1.2 Functions - Procedures: ca102-intro-to-programming/2-07-functions-procedures/2-7-1-2-functions-procedures.md
       - 2.7.3 Origins of Code: ca102-intro-to-programming/2-07-functions-procedures/2-7-3-origins-of-code.md
       - 2.7.4 Analysis of Pre-written: ca102-intro-to-programming/2-07-functions-procedures/2-7-4-benefits-drawbacks-prewritten.md
+      - 2.7.5 Interpret code: ca102-intro-to-programming/2-07-functions-procedures/2-7-5-interpret-code.md
+      - 2.7.6 Develop code: ca102-intro-to-programming/2-07-functions-procedures/2-7-6-develop-code.md
+      - 2.7.7 Debug code: ca102-intro-to-programming/2-07-functions-procedures/2-7-7-debug-code.md
+    - 2.8 Validation:
+      - 2.8.1 Validation: ca102-intro-to-programming/2-08-validation/2-8-1-validation.md
+      - 2.8.2 Interpret Validation: ca102-intro-to-programming/2-08-validation/2-8-2-interpret-validation.md
+      - 2.8.3 Develop Validation: ca102-intro-to-programming/2-08-validation/2-8-3-develop-validation.md
+      - 2.8.4 Debug Validation: ca102-intro-to-programming/2-08-validation/2-8-4-debug-validation.md
     - 2.9 Design Considerations:
       - 2.9.1 Order of Code: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-1-order-of-code.md
+      - 2.9.2 Order operations: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-2-order-operations.md
+      - 2.9.3 Select structures: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-3-select-structures.md
+      - 2.9.4 Determine order: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-4-determine-order.md
       - 2.9.5 Conventions: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-5-conventions.md
+      - 2.9.6 Readability: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-6-readability.md
       - 2.9.7.1 Judgements Suitability: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-7-1-judgements-suitablility.md
       - 2.9.7.2 Examples: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-7-2-examples.md
     - 2.10 Robust Code:
       - 2.10.0 Robust Code: ca102-intro-to-programming/2-10-robust-code/2-10-0-robust-code.md
     - 2.11 Common Algorithms:
+      - 2.11.1 Searching: ca102-intro-to-programming/2-11-common-algorithms/2-11-1-searching.md
+      - 2.11.2 Sorting: ca102-intro-to-programming/2-11-common-algorithms/2-11-2-sorting.md
       - 2.11.4 Comparing Algorithms: ca102-intro-to-programming/2-11-common-algorithms/2-11-4-metrics-compare-algorithms.md
       - 2.11.5 Choosing Algorithms: ca102-intro-to-programming/2-11-common-algorithms/2-11-5-choosing-algorithms.md
+      - 2.11.6 Select search algorithm: ca102-intro-to-programming/2-11-common-algorithms/2-11-6-suitability-search-algorithms.md
+      - 2.11.7 Select sort algorithm: ca102-intro-to-programming/2-11-common-algorithms/2-11-7-suitability-sort-algorithms.md
     - 2.12 Testing:
       - 2.12.1.1 Testing components: ca102-intro-to-programming/2-12-testing/2-12-1-1-testing-components.md
       - 2.12.2.1 Testing Methods: ca102-intro-to-programming/2-12-testing/2-12-2-1-testing-methods.md
