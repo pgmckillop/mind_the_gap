@@ -1,6 +1,6 @@
 # 8.3.1 
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ## Understand the purposes, processes, benefits and drawbacks of common threat mitigation techniques

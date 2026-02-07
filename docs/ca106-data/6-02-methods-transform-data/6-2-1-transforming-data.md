@@ -1,7 +1,6 @@
 # 6.2.1 
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
-New or significantly changed in this specification
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 
 ## Methods of transforming data
 

@@ -1,6 +1,6 @@
 # 8.3.2
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ## Understand the processes and procedures that assure internet security and the reasons why they are used

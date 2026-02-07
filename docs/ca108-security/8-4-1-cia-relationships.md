@@ -1,6 +1,6 @@
 # 8.4.
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ## Understand how the relationships in the CIA triad interrelate

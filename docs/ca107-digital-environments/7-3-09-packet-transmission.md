@@ -1,6 +1,6 @@
 # 7.3.9
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ## Role of data packets in network transmission

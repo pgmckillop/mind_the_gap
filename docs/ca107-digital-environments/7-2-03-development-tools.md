@@ -1,6 +1,6 @@
 # 7.2.3
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ## Features and use of common code development tools

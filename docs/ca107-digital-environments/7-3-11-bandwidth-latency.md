@@ -1,6 +1,6 @@
 # 7.3.11
 
-![New Content](../../assets/icons/introduced.svg){ width="256" }
+![New Content](../../assets/icons/introduced.svg){ width="256" }  
 New or significantly changed in this specification
 
 ## Bandwidth and latency
