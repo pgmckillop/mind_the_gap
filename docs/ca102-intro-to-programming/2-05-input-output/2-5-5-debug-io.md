@@ -86,4 +86,4 @@ Debugging using input and output is suitable for tracing data flow and identifyi
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining how input and output reveal errors. Avoid stating that values are “printed” — link debugging output to tracing data flow, locating faults and confirming fixes.
+    Marks are awarded for explaining how input and output reveal errors. Avoid stating that values are “printed” — link debugging output to tracing data flow, locating faults and confirming fixes.

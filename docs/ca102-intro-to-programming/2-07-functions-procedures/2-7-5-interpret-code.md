@@ -85,4 +85,4 @@ Interpreting code using user-written and pre-written components is suitable for 
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for tracing execution through both custom and pre-written components. Avoid treating functions and procedures separately — explain how values flow between user-written and library code.
+    Marks are awarded for tracing execution through both custom and pre-written components. Avoid treating functions and procedures separately — explain how values flow between user-written and library code.

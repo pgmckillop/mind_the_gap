@@ -87,4 +87,4 @@ Creating code using input and output is suitable where interaction or data excha
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking input and output to program behaviour. Avoid showing input or output in isolation — explain how values enter the program, are processed, and are presented.
+    Marks are awarded for linking input and output to program behaviour. Avoid showing input or output in isolation — explain how values enter the program, are processed, and are presented.

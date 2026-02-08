@@ -132,4 +132,4 @@ While equality legislation provides structured protection and accountability, it
 ---
 
 !!! tip "Exam tip"
-Link protected characteristics → discrimination types → organisational responsibility → legal time limits. Avoid listing terms without impact. Higher marks come from explaining how equality legislation affects workplace practice, digital services and organisational risk, using suitability language rather than description.
+    Link protected characteristics → discrimination types → organisational responsibility → legal time limits. Avoid listing terms without impact. Higher marks come from explaining how equality legislation affects workplace practice, digital services and organisational risk, using suitability language rather than description.

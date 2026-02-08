@@ -283,11 +283,13 @@ nav:
   - 7 DEN:
     - Introduction: ca107-digital-environments/home-07.md
     - 7.1 Hardware:
+      - 7.1.1 Computer types: ca107-digital-environments/7-1-01-computer-types.md
       - 7.1.2 Hardware: ca107-digital-environments/7-1-02-hardware-devices.md
     - 7.2 Software:
       - 7.2.1 Operating Systems: ca107-digital-environments/7-2-01-operating-systems.md
       - 7.2.2 Common Utilities: ca107-digital-environments/7-2-02-utilities.md
       - 7.2.3 Software Development Tools: ca107-digital-environments/7-2-03-development-tools.md
+      - 7.2.4 Application software: ca107-digital-environments/7-2-04-application-software.md
     - 7.3 Networks:
       - 7.3.1 Connect devices: ca107-digital-environments/7-3-01-connect-devices.md
       - 7.3.2 Network Types: ca107-digital-environments/7-3-02-types-networks.md
@@ -298,13 +300,17 @@ nav:
       - 7.3.7 OSI Model: ca107-digital-environments/7-3-07-osi-model.md
       - 7.3.8 TCP/IP Model: ca107-digital-environments/7-3-08-tcpip-model.md
       - 7.3.9 Packets in transmission: ca107-digital-environments/7-3-09-packet-transmission.md
+      - 7.3.10 Network protocols: ca107-digital-environments/7-3-10-network-protocols.md
       - 7.3.11 Bandwidth & Latency: ca107-digital-environments/7-3-11-bandwidth-latency.md
     - 7.4 Virtual Environments:
       - 7.4.1 Characteristics: ca107-digital-environments/7-4-01-characteristics-ve.md
       - 7.4.2 Key Features: ca107-digital-environments/7-4-02-key-features-ve.md
+      - 7.4.3 Benefits: ca107-digital-environments/7-4-03-benefits-ve.md
+      - 7.4.4 Drawbacks: ca107-digital-environments/7-4-04-drawbacks-ve.md
     - 7.5 Cloud Environments:
       - 7.5.1 Types of cloud: ca107-digital-environments/7-5-01-types-cloud.md
       - 7.5.2 Benefits of cloud: ca107-digital-environments/7-5-02-benefits-cloud.md
+      - 7.5.3 Cloud models: ca107-digital-environments/7-5-03-cloud-models.md
     - Resilient Environments:
       - 7.6.1 Benefits of resilience: ca107-digital-environments/7-6-01-resilient-environments.md
       - 7.6.2 Improve resilience: ca107-digital-environments/7-6-02-improve-resilience.md

@@ -64,4 +64,4 @@ Interpreting code using validation is suitable for understanding how input is co
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for tracing how input is checked and how failures affect program flow. Avoid describing validation in isolation — link checks to outcomes and suitability.
+    Marks are awarded for tracing how input is checked and how failures affect program flow. Avoid describing validation in isolation — link checks to outcomes and suitability.

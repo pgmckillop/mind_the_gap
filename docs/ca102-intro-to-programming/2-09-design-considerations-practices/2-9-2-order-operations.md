@@ -89,4 +89,4 @@ Determining the order of operations is suitable for ensuring reliable outputs an
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking operation order to accuracy and error prevention. Avoid stating that steps are “in order” — explain how execution sequence affects results and suitability.
+    Marks are awarded for linking operation order to accuracy and error prevention. Avoid stating that steps are “in order” — explain how execution sequence affects results and suitability.

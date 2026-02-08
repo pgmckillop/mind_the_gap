@@ -102,4 +102,4 @@ Bubble and insertion sort are suitable for small or simple data sets, while merg
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining how each sorting algorithm works and when it is used. Avoid listing algorithms — link data size and performance to suitability.
+    Marks are awarded for explaining how each sorting algorithm works and when it is used. Avoid listing algorithms — link data size and performance to suitability.

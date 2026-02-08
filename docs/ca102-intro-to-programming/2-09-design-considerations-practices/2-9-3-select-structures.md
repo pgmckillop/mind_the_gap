@@ -89,4 +89,4 @@ Selecting data structures is suitable for improving efficiency and resource use,
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking data structure choice to execution time and memory use. Avoid stating that structures are “efficient” — explain how selection affects performance and suitability.
+    Marks are awarded for linking data structure choice to execution time and memory use. Avoid stating that structures are “efficient” — explain how selection affects performance and suitability.

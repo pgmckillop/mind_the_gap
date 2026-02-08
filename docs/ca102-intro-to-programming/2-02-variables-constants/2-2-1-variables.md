@@ -92,4 +92,4 @@ Variables are most suitable where values must change during program execution, b
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking the definition of variables to their purpose and use. Avoid stating that variables “store values” without explaining how this supports program logic, flexibility and suitability.
+    Marks are awarded for linking the definition of variables to their purpose and use. Avoid stating that variables “store values” without explaining how this supports program logic, flexibility and suitability.

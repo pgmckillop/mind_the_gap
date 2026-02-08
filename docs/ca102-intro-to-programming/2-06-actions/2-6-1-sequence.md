@@ -87,4 +87,4 @@ Sequence is most suitable for linear processes with a fixed execution order, but
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking sequence to execution order. Avoid defining sequence alone — explain how ordered steps affect program flow, outcomes and suitability.
+    Marks are awarded for linking sequence to execution order. Avoid defining sequence alone — explain how ordered steps affect program flow, outcomes and suitability.

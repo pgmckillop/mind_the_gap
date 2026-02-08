@@ -95,4 +95,4 @@ Unregistered designs offer rapid but limited protection, registered designs prov
 ---
 
 !!! tip "Exam tip"
-Do not list IP types without comparison. Link protection type → strength of rights → cost and enforcement. Higher marks come from explaining suitability based on commercial value, time and legal protection rather than simple definition.
+    Do not list IP types without comparison. Link protection type → strength of rights → cost and enforcement. Higher marks come from explaining suitability based on commercial value, time and legal protection rather than simple definition.

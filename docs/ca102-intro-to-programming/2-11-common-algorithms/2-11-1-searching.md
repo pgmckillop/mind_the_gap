@@ -82,4 +82,4 @@ Linear search is suitable for small or unsorted data sets, while binary search i
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining how each algorithm works and when it is used. Avoid stating that one is “faster” — link data size and sorting to suitability.
+    Marks are awarded for explaining how each algorithm works and when it is used. Avoid stating that one is “faster” — link data size and sorting to suitability.

@@ -130,4 +130,4 @@ Codes of conduct provide structured expectations for professional practice, but 
 ---
 
 !!! tip "Exam tip"
-Avoid listing behaviours without impact. Link guidelines → professional actions → organisational outcomes such as quality, risk reduction and trust. Higher marks come from explaining suitability in terms of compliance, competence and resource constraints.
+    Avoid listing behaviours without impact. Link guidelines → professional actions → organisational outcomes such as quality, risk reduction and trust. Higher marks come from explaining suitability in terms of compliance, competence and resource constraints.

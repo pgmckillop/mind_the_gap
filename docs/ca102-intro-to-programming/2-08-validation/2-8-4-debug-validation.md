@@ -64,4 +64,4 @@ Debugging code using validation is suitable for locating data entry and logic fa
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining how validation reveals input errors. Avoid stating that validation is “checked” — link debugging actions to tracing values, locating faults and confirming fixes.
+    Marks are awarded for explaining how validation reveals input errors. Avoid stating that validation is “checked” — link debugging actions to tracing values, locating faults and confirming fixes.

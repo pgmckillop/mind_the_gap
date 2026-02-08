@@ -111,5 +111,5 @@ Linear search is suitable where data sets are small, frequently changing, or uns
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for applying searching algorithms to context. Avoid naming an algorithm alone — link data size, ordering and frequency of change to justify suitability.
+    Marks are awarded for applying searching algorithms to context. Avoid naming an algorithm alone — link data size, ordering and frequency of change to justify suitability.
 

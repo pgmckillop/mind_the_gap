@@ -66,4 +66,4 @@ Global variables may be suitable where common values must be accessed widely, wh
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for comparing global and local scope. Avoid listing definitions alone — explain how scope affects accessibility, reliability and suitability.
+    Marks are awarded for comparing global and local scope. Avoid listing definitions alone — explain how scope affects accessibility, reliability and suitability.

@@ -166,4 +166,4 @@ Validation checks are suitable for improving data quality at the point of entry,
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking validation methods to data quality. Avoid listing checks — explain how each prevents specific input errors and affects suitability.
+    Marks are awarded for linking validation methods to data quality. Avoid listing checks — explain how each prevents specific input errors and affects suitability.

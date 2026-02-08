@@ -122,4 +122,4 @@ While the CMA establishes clear boundaries for lawful system use, its impact is 
 ---
 
 !!! tip "Exam tip"
-Do not list offences in isolation. Link CMA principles to consequences for organisations and employees, then explain how awareness reduces risk. Higher marks come from connecting legislation → security controls → impact on operations and reputation, using suitability language rather than description.
+    Do not list offences in isolation. Link CMA principles to consequences for organisations and employees, then explain how awareness reduces risk. Higher marks come from connecting legislation → security controls → impact on operations and reputation, using suitability language rather than description.

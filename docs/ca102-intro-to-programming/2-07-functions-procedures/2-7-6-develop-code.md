@@ -69,4 +69,4 @@ Combining user-written and pre-written functions and procedures is suitable for 
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking user-written and pre-written code to modularity and efficiency. Avoid listing functions and procedures — explain how combining custom and library code affects development and suitability.
+    Marks are awarded for linking user-written and pre-written code to modularity and efficiency. Avoid listing functions and procedures — explain how combining custom and library code affects development and suitability.

@@ -133,4 +133,4 @@ Merge sort is suitable for large data sets where predictable performance outweig
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for applying sorting algorithms to context. Avoid naming algorithms alone — link data size, existing order and memory constraints to justify suitability.
+    Marks are awarded for applying sorting algorithms to context. Avoid naming algorithms alone — link data size, existing order and memory constraints to justify suitability.

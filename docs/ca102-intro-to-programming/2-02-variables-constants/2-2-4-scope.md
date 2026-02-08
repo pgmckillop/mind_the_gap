@@ -89,4 +89,4 @@ Scope is most suitable for controlling variable access and improving reliability
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking scope to variable accessibility and program reliability. Avoid defining scope alone — explain how it controls visibility, lifetime and suitability.
+    Marks are awarded for linking scope to variable accessibility and program reliability. Avoid defining scope alone — explain how it controls visibility, lifetime and suitability.

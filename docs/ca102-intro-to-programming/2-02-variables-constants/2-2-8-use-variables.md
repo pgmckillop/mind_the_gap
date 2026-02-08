@@ -68,4 +68,4 @@ Variables are suitable where values must change, while constants are suitable fo
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking variables and constants to program behaviour. Avoid stating that they “store values” without explaining how changing or fixed values affect logic, reliability and suitability.
+    Marks are awarded for linking variables and constants to program behaviour. Avoid stating that they “store values” without explaining how changing or fixed values affect logic, reliability and suitability.

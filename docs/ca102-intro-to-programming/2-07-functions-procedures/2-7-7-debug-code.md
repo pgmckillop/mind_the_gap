@@ -85,4 +85,4 @@ Debugging user-written and pre-written functions and procedures is suitable for 
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining how faults are located across custom and library code. Avoid stating that code is “debugged” — link debugging actions to tracing values, checking parameters and confirming fixes.
+    Marks are awarded for explaining how faults are located across custom and library code. Avoid stating that code is “debugged” — link debugging actions to tracing values, checking parameters and confirming fixes.

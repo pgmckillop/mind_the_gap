@@ -88,4 +88,4 @@ Applying code style conventions is suitable for improving readability and long-t
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking conventions to readability. Avoid listing naming, white space and line length — explain how each affects interpretation, maintenance and suitability.
+    Marks are awarded for linking conventions to readability. Avoid listing naming, white space and line length — explain how each affects interpretation, maintenance and suitability.

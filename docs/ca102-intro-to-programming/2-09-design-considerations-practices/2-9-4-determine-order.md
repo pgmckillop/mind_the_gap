@@ -90,4 +90,4 @@ Determining the order of actions is suitable for improving performance and resou
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking action order to execution time and memory use. Avoid stating that steps are “optimised” — explain how ordering reduces processing and resource consumption.
+    Marks are awarded for linking action order to execution time and memory use. Avoid stating that steps are “optimised” — explain how ordering reduces processing and resource consumption.

@@ -66,4 +66,4 @@ Developing code using validation is suitable for improving data quality at entry
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking validation logic to program flow. Avoid stating that validation is “added” — explain how checks control input, affect processing and influence suitability.
+    Marks are awarded for linking validation logic to program flow. Avoid stating that validation is “added” — explain how checks control input, affect processing and influence suitability.

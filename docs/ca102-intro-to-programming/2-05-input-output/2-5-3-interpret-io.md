@@ -86,4 +86,4 @@ Interpreting code using input and output is most suitable for understanding data
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for tracing values from input through processing to output. Avoid describing input or output separately — link them to program flow, results and suitability.
+    Marks are awarded for tracing values from input through processing to output. Avoid describing input or output separately — link them to program flow, results and suitability.

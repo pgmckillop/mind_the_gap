@@ -100,4 +100,4 @@ While the legislation strengthens privacy and accountability, effectiveness is c
 ---
 
 !!! tip "Exam tip"
-Avoid listing legislation in isolation. Link purpose → principles → organisational impact → individual impact. Higher marks come from explaining how compliance affects security, cost, reputation and system design, and from using suitability language rather than description.
+    Avoid listing legislation in isolation. Link purpose → principles → organisational impact → individual impact. Higher marks come from explaining how compliance affects security, cost, reputation and system design, and from using suitability language rather than description.

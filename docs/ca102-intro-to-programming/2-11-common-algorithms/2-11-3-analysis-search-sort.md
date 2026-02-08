@@ -116,4 +116,4 @@ Linear and insertion approaches are suitable for small or simple collections, wh
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for comparing algorithms. Avoid listing benefits and drawbacks — explain how data size, sorting and memory affect suitability.
+    Marks are awarded for comparing algorithms. Avoid listing benefits and drawbacks — explain how data size, sorting and memory affect suitability.
