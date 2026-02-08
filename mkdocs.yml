@@ -127,7 +127,7 @@ nav:
       - 2.2.2 Constants: ca102-intro-to-programming/2-02-variables-constants/2-2-2-constants.md
       - 2.2.3 Type Conversion: ca102-intro-to-programming/2-02-variables-constants/2-2-3-type-conversion.md
       - 2.2.4 Scope: ca102-intro-to-programming/2-02-variables-constants/2-2-4-scope.md
-      - 2.2.6 Use Scope: ca102-intro-to-programming/2-02-variables-constants/2-2-6-scope.md
+      - 2.2.6 Use Scope: ca102-intro-to-programming/2-02-variables-constants/2-2-6-use-scope.md
       - 2.2.7 Declare and Use: ca102-intro-to-programming/2-02-variables-constants/2-2-7-declare-and-use.md
       - 2.2.8 Use Variables: ca102-intro-to-programming/2-02-variables-constants/2-2-8-use-variables.md
       - 2.2.9 Type Conversion: ca102-intro-to-programming/2-02-variables-constants/2-2-9-type-conversion.md
@@ -200,10 +200,15 @@ nav:
     - 4.1 Legislation:
       - 4.1.1 Legislation: ca104-legislation-regulation/4-1-1-hs-legislation.md
       - 4.1.2 Health & Safety Risks: ca104-legislation-regulation/4-1-2-hs-risks.md
+      - 4.1.3 Data Security Law: ca104-legislation-regulation/4-1-3-data-security-legislation.md
+      - 4.1.4 Computer Misuse: ca104-legislation-regulation/4-1-4-computer-misuse.md
+      - 4.1.5 Equality Law: ca104-legislation-regulation/4-1-5-equality-legislation.md
+      - 4.1.6 Intellectual property: ca104-legislation-regulation/4-1-6-intellectual-property.md
       - 4.1.7 Development and legislation: ca104-legislation-regulation/4-1-7-interrelationships.md
       - 4.1.8 International Law: ca104-legislation-regulation/4-1-8-international-law.md
     - 4.2 Guidelines:
       - 4.2.1 Codes of Conduct: ca104-legislation-regulation/4-2-1-sources-codes.md
+      - 4.2.2 Professional behaviour: ca104-legislation-regulation/4-2-2-professional-behaviour.md
       - 4.2.3 Standards: ca104-legislation-regulation/4-2-3-sources-standards.md
       - 4.2.4 Acceptable Use Policies: ca104-legislation-regulation/4-2-4-acceptable-use-policies.md
       - 4.2.5 Whistleblowing: ca104-legislation-regulation/4-2-5-whistleblowing.md
