@@ -1,5 +1,14 @@
 # Content Area 7: Digital Environments
 
+Students will develop knowledge and understanding of the digital environments that support digital software development, including hardware, software, networks and infrastructure.
+
+Students will examine the features, uses, benefits and drawbacks of different types of physical hardware, operating systems, utilities, development tools and application software, recognising how these components work together to support digital systems.
+
+Students will explore networking concepts, including network types, connectivity methods, topologies, models, components and protocols, and understand how data is transmitted across networks. This includes consideration of performance factors such as bandwidth and latency.
+
+Virtual and cloud environments will be examined, including their characteristics, benefits and drawbacks, and the ways in which resources and responsibilities are distributed. Students will also explore methods used to improve the resilience of digital environments, understanding how maintenance, redundancy, backup, recovery and standard operating procedures contribute to secure and reliable digital systems.
+
+
 ## List of New Content and Major Changes
 
 Read the handbook to see the scope definition  

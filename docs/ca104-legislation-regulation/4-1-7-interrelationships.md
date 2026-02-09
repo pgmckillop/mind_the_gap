@@ -94,4 +94,4 @@ Digital legislation provides essential protection and accountability but introdu
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking **legislation → development impact → organisational, societal and individual outcomes**. Avoid listing laws without explaining effects. In Judgement, reference constraints such as cost, expertise and compliance burden when evaluating suitability.
+    Marks are awarded for linking **legislation → development impact → organisational, societal and individual outcomes**. Avoid listing laws without explaining effects. In Judgement, reference constraints such as cost, expertise and compliance burden when evaluating suitability.

@@ -1,5 +1,12 @@
 # Content Area 1: Problem solving
 
+Students will address digital software development problems that contribute either to a complete solution or to a specific part of a wider solution.
+
+Problem-solving skills are applied to analyse requirements and determine appropriate solutions that can be represented as systems, processes, relationships, organisations of data, or code. This involves breaking down problems, identifying how components interact, and structuring solutions so they can be implemented effectively within a digital context.
+
+Where the term *code* is used, it refers specifically to Python version 3.10 or later.
+
+
 ## List of New Content and Major Changes
 
 Read the handbook to see the scope definition  

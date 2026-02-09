@@ -121,4 +121,4 @@ Inclusive systems improve reach and usability but are constrained by development
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining how **user characteristics affect usability and inclusion**, not for listing traits. Link characteristics to system impact and constraints such as skills, resources and bias. Judgement must balance accessibility benefits against implementation limitations.
+    Marks are awarded for explaining how **user characteristics affect usability and inclusion**, not for listing traits. Link characteristics to system impact and constraints such as skills, resources and bias. Judgement must balance accessibility benefits against implementation limitations.

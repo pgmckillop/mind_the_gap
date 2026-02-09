@@ -110,4 +110,4 @@ Digital inclusion supports fair access, usability and trust in digital services.
 ---
 
 !!! tip "Exam tip"
-Link **inclusion measures → impact on access → organisational constraints**. Avoid listing technologies or regulations without explaining how they improve fairness. High-mark responses balance benefits and drawbacks and reference resources, compliance and data quality in Judgement.
+    Link **inclusion measures → impact on access → organisational constraints**. Avoid listing technologies or regulations without explaining how they improve fairness. High-mark responses balance benefits and drawbacks and reference resources, compliance and data quality in Judgement.

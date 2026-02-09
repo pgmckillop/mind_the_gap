@@ -1,5 +1,12 @@
 # Content Area 2: Introduction to Programming
 
+Students will analyse digital software development problems that may involve combinations of software, people, processes and data, recognising how these elements interact within a digital system.
+
+A range of tools and techniques will be used to support the development of either complete solutions or individual components of larger solutions. This includes selecting appropriate approaches to design, implementation and testing to ensure that each part contributes effectively to the overall outcome.
+
+Where the term *code* is used, it refers specifically to Python version 3.10 or later.
+
+
 ## List of New Content and Major Changes
 
 Read the handbook to see the scope definition  

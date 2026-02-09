@@ -99,4 +99,4 @@ Interrelated technologies drive innovation and efficiency but increase complexit
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining **how technologies work together and why that matters**. Link interrelationships to impacts on organisations, society and individuals, then evaluate suitability using constraints such as cost, skills, security and inclusion. Avoid listing technologies without analysing their combined effects.
+    Marks are awarded for explaining **how technologies work together and why that matters**. Link interrelationships to impacts on organisations, society and individuals, then evaluate suitability using constraints such as cost, skills, security and inclusion. Avoid listing technologies without analysing their combined effects.

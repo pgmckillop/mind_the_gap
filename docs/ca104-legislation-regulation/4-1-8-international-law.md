@@ -61,4 +61,4 @@ International law enables coordinated responses to cybercrime and surveillance b
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking **cross-border digital activity → legal response → impact on organisations and individuals**. Avoid simply naming international law. In Judgement, reference constraints such as jurisdiction, cooperation and privacy when evaluating suitability.
+    Marks are awarded for linking **cross-border digital activity → legal response → impact on organisations and individuals**. Avoid simply naming international law. In Judgement, reference constraints such as jurisdiction, cooperation and privacy when evaluating suitability.

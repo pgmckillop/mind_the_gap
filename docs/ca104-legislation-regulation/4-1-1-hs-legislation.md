@@ -82,13 +82,16 @@ This section covers the key points of relevant health and safety legislation and
 #### Conduct a display screen equipment workstation assessment
 
 **Features / Characteristics**
+
 - Evaluation of posture, seating, screen position and workspace layout  
 
 **Benefits**
+
 - Reduces musculoskeletal and visual strain  
 - Supports long-term employee health  
 
 **Drawbacks**
+
 - Requires time to assess and review workstations  
 - May involve equipment replacement  
 
@@ -97,13 +100,16 @@ This section covers the key points of relevant health and safety legislation and
 #### Reduce risks including making sure workers take breaks from display screen equipment work
 
 **Features / Characteristics**
+
 - Scheduled breaks and task variation  
 
 **Benefits**
+
 - Reduced fatigue  
 - Improved concentration  
 
 **Drawbacks**
+
 - Potential short-term reduction in output  
 - Requires monitoring and enforcement  
 
@@ -112,13 +118,16 @@ This section covers the key points of relevant health and safety legislation and
 #### Provide an eye test if an employee asks for one
 
 **Features / Characteristics**
+
 - Access to eyesight testing related to screen use  
 
 **Benefits**
+
 - Early detection of vision problems  
 - Reduced discomfort and errors  
 
 **Drawbacks**
+
 - Financial cost to employers  
 - Administrative overhead  
 
@@ -127,13 +136,16 @@ This section covers the key points of relevant health and safety legislation and
 #### Provide training and information for employees
 
 **Features / Characteristics**
+
 - Guidance on safe screen use and posture  
 
 **Benefits**
+
 - Increased awareness of health risks  
 - Improved safe working practices  
 
 **Drawbacks**
+
 - Requires regular updates  
 - Time commitment for delivery  
 
@@ -153,4 +165,4 @@ Health and safety legislation supports safer working environments and improved e
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking **legal duties → employer actions → impact on staff and organisation**. Avoid listing requirements without explaining why they matter. In Judgement, reference constraints such as cost, time and scale of DSE use to justify suitability.
+    Marks are awarded for linking **legal duties → employer actions → impact on staff and organisation**. Avoid listing requirements without explaining why they matter. In Judgement, reference constraints such as cost, time and scale of DSE use to justify suitability.

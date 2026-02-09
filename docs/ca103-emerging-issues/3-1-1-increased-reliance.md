@@ -279,4 +279,4 @@ Digital systems enable productivity, connectivity and access to information, but
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking **features → impact → suitability**. Avoid listing effects in isolation. Organise responses clearly under *organisational culture* and *society*, and balance benefits against drawbacks. Judgement statements must reference constraints such as skills, connectivity, privacy and workforce impact.
+    Marks are awarded for linking **features → impact → suitability**. Avoid listing effects in isolation. Organise responses clearly under *organisational culture* and *society*, and balance benefits against drawbacks. Judgement statements must reference constraints such as skills, connectivity, privacy and workforce impact.

@@ -119,4 +119,4 @@ Acceptable use policies support secure and professional use of digital systems b
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking **AUP purpose → user behaviour → organisational impact**. Avoid listing policy items without explanation. In Judgement, reference constraints such as enforcement effort, training and consistency when evaluating suitability.
+    Marks are awarded for linking **AUP purpose → user behaviour → organisational impact**. Avoid listing policy items without explanation. In Judgement, reference constraints such as enforcement effort, training and consistency when evaluating suitability.

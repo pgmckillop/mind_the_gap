@@ -1,5 +1,14 @@
 # Content Area 6: Data
 
+Students will develop fundamental knowledge and understanding of data within the context of digital software development, enabling effective communication with other professionals involved in digital systems.
+
+Students will explore how data is generated, categorised, stored and transformed, and how it progresses from raw data to information and knowledge. This includes understanding ethical data practices, data quality, data structures, data types and formats, and the role of metadata in providing context and meaning.
+
+Students will examine methods for maintaining and managing data, including the dimensions of Big Data, data quality assurance methods, and the factors that affect how data is gathered, stored and maintained over time. The use of data systems will be considered, including data entry, data wrangling, error prevention and the impact of implementation choices on data quality.
+
+Students will also explore data visualisation, data models, data access across platforms and data analysis tools, evaluating how data is organised, accessed and analysed to support decision-making. Judgements will be made about the suitability of data structures, models, formats and tools based on efficiency, complexity, scale and intended use within digital software development.
+
+
 ## List of New Content and Major Changes
 
 Read the handbook to see the scope definition  

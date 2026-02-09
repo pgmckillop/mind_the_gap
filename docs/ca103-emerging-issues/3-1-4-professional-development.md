@@ -75,4 +75,4 @@ Professional development strengthens competence, employability and standards awa
 ---
 
 !!! tip "Exam tip"
-Do not list benefits in isolation. Link **professional development → impact on competence or employability → organisational constraints**. High-mark responses balance advantages with limitations such as cost, time and changing standards, and justify suitability clearly.
+    Do not list benefits in isolation. Link **professional development → impact on competence or employability → organisational constraints**. High-mark responses balance advantages with limitations such as cost, time and changing standards, and justify suitability clearly.

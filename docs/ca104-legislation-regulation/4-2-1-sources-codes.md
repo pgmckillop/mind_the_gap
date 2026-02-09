@@ -98,4 +98,4 @@ Codes of conduct promote ethical behaviour and professional standards, but effec
 ---
 
 !!! tip "Exam tip"
-Do not list sources only. Link **source of code → impact on behaviour → organisational constraints**. High-mark responses balance ethical benefits against limitations such as voluntary compliance, resource demands and variation between organisational and professional standards.
+    Do not list sources only. Link **source of code → impact on behaviour → organisational constraints**. High-mark responses balance ethical benefits against limitations such as voluntary compliance, resource demands and variation between organisational and professional standards.

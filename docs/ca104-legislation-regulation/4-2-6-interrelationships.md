@@ -91,4 +91,4 @@ Guidelines strengthen ethical practice and system quality but introduce operatio
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking **guidelines → development practices → organisational, societal and individual outcomes**. Avoid listing guidance types without impact. In Judgement, reference constraints such as cost, skills and governance when evaluating suitability.
+    Marks are awarded for linking **guidelines → development practices → organisational, societal and individual outcomes**. Avoid listing guidance types without impact. In Judgement, reference constraints such as cost, skills and governance when evaluating suitability.

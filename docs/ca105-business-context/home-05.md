@@ -1,5 +1,16 @@
 # Content Area 5: Business Context
 
+Students will develop an understanding of the business context in which digital software development operates, including organisational purposes, sectors, business models and stakeholder roles.
+
+Students will examine how digital systems add value to organisations by supporting key operational areas such as sales and marketing, research and development, human resources, operations, management, logistics and finance. This includes understanding how digital systems meet user needs, support quality of products and services, and enable accessibility, compatibility and availability.
+
+Students will also explore the risks associated with the use of digital systems, including security, privacy, regulatory compliance, audience exclusion, emerging rival technologies and technical issues. The potential impacts of these risks on organisations will be considered.
+
+Technical change management will be examined, including internal and external factors that trigger change, organisational responses to change, and the processes involved in managing change effectively. This includes understanding the role of change advisory boards, resource allocation, risk communication, implementation methods, documentation, rollback planning and training needs.
+
+Students will make judgements about the feasibility of digital projects by evaluating benefits and drawbacks, risks and constraints, considering financial impact, organisational processes, workforce readiness and available resources.
+
+
 ## List of New Content and Major Changes
 
 

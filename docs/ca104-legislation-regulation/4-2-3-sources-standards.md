@@ -136,4 +136,4 @@ Industry standards improve quality, security and interoperability but introduce 
 ---
 
 !!! tip "Exam tip"
-Avoid listing standards only. Link **standard source → purpose → impact on digital systems**, then evaluate suitability using constraints such as cost, expertise and compliance effort. High-mark responses balance consistency and security benefits against implementation overhead.
+    Avoid listing standards only. Link **standard source → purpose → impact on digital systems**, then evaluate suitability using constraints such as cost, expertise and compliance effort. High-mark responses balance consistency and security benefits against implementation overhead.

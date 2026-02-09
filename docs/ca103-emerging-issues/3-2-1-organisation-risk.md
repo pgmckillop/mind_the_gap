@@ -237,4 +237,4 @@ Technological developments enable automation, efficiency and innovation but intr
 ---
 
 !!! tip "Exam tip"
-Avoid listing technologies without impact. Link **technology → effect on organisations/individuals/society → constraints**. High-mark responses balance innovation benefits against drawbacks such as cost, skills, security and environmental impact, and justify suitability clearly.
+    Avoid listing technologies without impact. Link **technology → effect on organisations/individuals/society → constraints**. High-mark responses balance innovation benefits against drawbacks such as cost, skills, security and environmental impact, and justify suitability clearly.

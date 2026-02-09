@@ -74,4 +74,4 @@ Whistleblowing procedures strengthen ethical practice and risk management but ar
 ---
 
 !!! tip "Exam tip"
-Link **whistleblowing → risk reduction → organisational and individual impact**. Avoid vague statements about “reporting issues”. In Judgement, reference constraints such as resources, confidentiality and management commitment.
+    Link **whistleblowing → risk reduction → organisational and individual impact**. Avoid vague statements about “reporting issues”. In Judgement, reference constraints such as resources, confidentiality and management commitment.

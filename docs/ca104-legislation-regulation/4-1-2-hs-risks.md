@@ -105,4 +105,4 @@ Risk mitigation improves wellbeing and reduces workplace incidents, but effectiv
 ---
 
 !!! tip "Exam tip"
-Link **risk → preventative measure → impact on staff and organisation**. Avoid listing hazards or controls without explanation. Judgement must balance safety benefits against constraints such as cost, time and staff compliance.
+    Link **risk → preventative measure → impact on staff and organisation**. Avoid listing hazards or controls without explanation. Judgement must balance safety benefits against constraints such as cost, time and staff compliance.
