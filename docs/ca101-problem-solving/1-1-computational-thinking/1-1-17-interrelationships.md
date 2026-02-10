@@ -55,4 +55,4 @@ The combined use of computational thinking components is most suitable where pro
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining how the components work together. Avoid describing decomposition, pattern recognition, abstraction and algorithmic design separately — link their interrelationships to impact on solution structure and suitability.
+    Marks are awarded for explaining how the components work together. Avoid describing decomposition, pattern recognition, abstraction and algorithmic design separately — link their interrelationships to impact on solution structure and suitability.

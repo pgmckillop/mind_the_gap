@@ -86,4 +86,4 @@ Top-down approaches support structured system design, bottom-up approaches suppo
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking each approach to its purpose and suitability. Avoid listing top-down, bottom-up and modularisation without explaining how each affects structure, development and integration.
+    Marks are awarded for linking each approach to its purpose and suitability. Avoid listing top-down, bottom-up and modularisation without explaining how each affects structure, development and integration.

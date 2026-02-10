@@ -86,4 +86,4 @@ Abstraction tasks are most suitable where complexity must be reduced to focus on
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking each abstraction task to its impact on clarity, structure and suitability. Avoid listing tasks without explaining how abstraction supports solution development.
+    Marks are awarded for linking each abstraction task to its impact on clarity, structure and suitability. Avoid listing tasks without explaining how abstraction supports solution development.

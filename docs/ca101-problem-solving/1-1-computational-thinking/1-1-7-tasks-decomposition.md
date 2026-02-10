@@ -107,4 +107,4 @@ Decomposition tasks are most suitable where problems and solutions must be struc
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining how each decomposition task supports problem solving. Avoid listing the tasks — link each one to its impact on structure, manageability and suitability.
+    Marks are awarded for explaining how each decomposition task supports problem solving. Avoid listing the tasks — link each one to its impact on structure, manageability and suitability.

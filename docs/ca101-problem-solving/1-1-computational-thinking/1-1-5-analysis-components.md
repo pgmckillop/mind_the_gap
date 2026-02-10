@@ -109,4 +109,4 @@ The components of computational thinking are most suitable where structured anal
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking each component’s benefits and drawbacks to its impact on solution design. Avoid listing features in isolation — explain how decomposition, pattern recognition, abstraction and algorithmic design affect suitability.
+    Marks are awarded for linking each component’s benefits and drawbacks to its impact on solution design. Avoid listing features in isolation — explain how decomposition, pattern recognition, abstraction and algorithmic design affect suitability.

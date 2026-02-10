@@ -56,4 +56,4 @@ Using decomposition is most appropriate where problems require structured analys
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining how decomposition supports problem solving. Avoid stating that decomposition is “used” without linking its application to reduced complexity, structured development and suitability.
+    Marks are awarded for explaining how decomposition supports problem solving. Avoid stating that decomposition is “used” without linking its application to reduced complexity, structured development and suitability.

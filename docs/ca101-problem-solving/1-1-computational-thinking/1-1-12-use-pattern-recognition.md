@@ -51,4 +51,4 @@ Pattern recognition is most suitable where problems share common characteristics
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking identified patterns to solution decisions. Avoid listing similarities without explaining how pattern recognition supports reuse, prediction and suitability.
+    Marks are awarded for linking identified patterns to solution decisions. Avoid listing similarities without explaining how pattern recognition supports reuse, prediction and suitability.

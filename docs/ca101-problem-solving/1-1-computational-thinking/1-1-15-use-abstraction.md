@@ -53,5 +53,5 @@ Abstraction is most suitable where problems must be simplified to identify essen
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking abstraction decisions to solution requirements. Avoid listing inputs, outputs and actions without explaining how abstraction supports clarity, scalability and suitability.
+    Marks are awarded for linking abstraction decisions to solution requirements. Avoid listing inputs, outputs and actions without explaining how abstraction supports clarity, scalability and suitability.
 

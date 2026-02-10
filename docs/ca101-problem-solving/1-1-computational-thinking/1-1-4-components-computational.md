@@ -109,4 +109,4 @@ The components of computational thinking are most suitable where structured anal
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining how each component supports problem solving. Avoid listing decomposition, pattern recognition, abstraction and algorithmic design without linking their features to impact and suitability.
+    Marks are awarded for explaining how each component supports problem solving. Avoid listing decomposition, pattern recognition, abstraction and algorithmic design without linking their features to impact and suitability.

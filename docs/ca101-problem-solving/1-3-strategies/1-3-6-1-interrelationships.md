@@ -143,8 +143,7 @@ Questions may ask you to:
 - **Evaluate** which strategy is most suitable in a scenario
 
 !!! tip "Exam tip"  
-    Evaluation answers should:  
-      
+    Evaluation answers should:       
     - Refer to the **problem characteristics**  
     - Refer to the **strategy’s strengths and limitations**  
     - Clearly justify **why it is suitable or unsuitable**

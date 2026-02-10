@@ -1,6 +1,7 @@
 # 1.1.3  
 
-![Retained](../../assets/icons/retained.svg){ width="256" }(../../assets/icons/retained.svg){ width="256" }  
+![Retained](../../assets/icons/retained.svg)  
+
 This content was covered in the old specification as topic(s) in 1.1  
 If you have access to the textbooks, you can use those resources to enhance your understanding.  
 
@@ -63,4 +64,4 @@ Computational thinking is more suitable where problems require structured analys
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking *benefits and drawbacks* to *impact on solution development*. Avoid listing points in isolation — explain how computational thinking affects structure, efficiency and suitability.
+    Marks are awarded for linking *benefits and drawbacks* to *impact on solution development*. Avoid listing points in isolation — explain how computational thinking affects structure, efficiency and suitability.

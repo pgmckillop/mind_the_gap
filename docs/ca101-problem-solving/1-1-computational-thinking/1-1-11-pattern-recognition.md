@@ -46,4 +46,4 @@ Pattern recognition is most suitable where similarities exist across problems or
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining how pattern recognition supports problem solving. Avoid stating that patterns are identified without linking recognition to reuse, efficiency and suitability.
+    Marks are awarded for explaining how pattern recognition supports problem solving. Avoid stating that patterns are identified without linking recognition to reuse, efficiency and suitability.

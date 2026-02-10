@@ -89,4 +89,4 @@ Top-down, bottom-up and modularisation approaches each offer different strengths
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking benefits and drawbacks to each approach. Avoid listing points in isolation — explain how top-down, bottom-up and modularisation affect structure, integration and suitability.
+    Marks are awarded for linking benefits and drawbacks to each approach. Avoid listing points in isolation — explain how top-down, bottom-up and modularisation affect structure, integration and suitability.

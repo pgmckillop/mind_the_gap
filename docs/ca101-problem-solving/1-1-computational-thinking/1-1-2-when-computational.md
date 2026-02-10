@@ -1,6 +1,7 @@
 # 1.1.2
 
-![Retained](../../assets/icons/retained.svg){ width="256" }(../../assets/icons/retained.svg){ width="256" }  
+![Retained](../../assets/icons/retained.svg){ width="256" }  
+
 This content was covered in the old specification as topic(s) in 1.1.  
 If you have access to the textbooks, you can use those resources to enhance your understanding.  
 
@@ -57,4 +58,4 @@ Computational thinking is most appropriate where problems must be decomposed, fo
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking *when computational thinking is used* to its *impact on solution design*. Avoid listing situations without explaining how computational thinking supports structure, automation or implementation.
+    Marks are awarded for linking *when computational thinking is used* to its *impact on solution design*. Avoid listing situations without explaining how computational thinking supports structure, automation or implementation.

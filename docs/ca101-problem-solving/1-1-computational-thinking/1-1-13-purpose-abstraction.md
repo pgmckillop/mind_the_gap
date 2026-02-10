@@ -46,4 +46,4 @@ Abstraction is most suitable where complexity must be reduced to focus on essent
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for explaining how abstraction supports problem solving. Avoid stating that detail is removed without linking abstraction to clarity, scalability and suitability.
+    Marks are awarded for explaining how abstraction supports problem solving. Avoid stating that detail is removed without linking abstraction to clarity, scalability and suitability.

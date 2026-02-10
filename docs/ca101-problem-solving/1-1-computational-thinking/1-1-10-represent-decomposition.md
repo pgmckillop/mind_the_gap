@@ -127,4 +127,4 @@ Different representation methods are suitable for different stages of developmen
 ---
 
 !!! tip "Exam tip"
-Marks are awarded for linking each representation method to its benefits, drawbacks and suitability. Avoid listing methods without explaining how they support communication, structure or implementation.
+    Marks are awarded for linking each representation method to its benefits, drawbacks and suitability. Avoid listing methods without explaining how they support communication, structure or implementation.
