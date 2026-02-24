@@ -7,83 +7,158 @@ If you have access to the textbooks, you can use those resources to enhance your
 
 ## 1.2.12 Designing algorithms and solutions that use actions
 
-Designing algorithms and solutions that use actions involves structuring sequence, selection and iteration to produce clear, logical and efficient outcomes. Students must combine problem analysis with appropriate control structures to create workable solutions. :contentReference[oaicite:0]{index=0}
+Designing algorithms and solutions that use actions involves structuring sequence, selection and iteration to produce clear, logical and efficient outcomes. Problem analysis is combined with appropriate control structures to create workable solutions.
 
-The following strategies, approaches and techniques support effective design:
+---
 
-**Define the problem and desired output first**  
-  Clearly identify what the algorithm must achieve.  
-  **Purpose:** to establish design goals.  
-  **Benefits:**  
-  - prevents unnecessary complexity  
-  - keeps development focused  
-  **Drawbacks:**  
-  - incomplete requirements lead to redesign.
-**Break the solution into ordered steps (sequence)**  
-  Arrange actions in a logical progression.  
-  **Purpose:** to ensure correct execution flow.  
-  **Benefits:**  
-  - improves clarity  
-  - simplifies implementation  
-  **Drawbacks:**  
-  - rigid ordering limits flexibility.
+**Define the problem and desired output first**
 
-**Introduce decision points (selection)**  
-  Identify where choices must be made.  
-  **Purpose:** to handle alternative outcomes.  
-  **Benefits:**  
-  - supports dynamic behaviour  
-  - improves solution adaptability  
-  **Drawbacks:**  
-  - increases logical complexity.
+Clearly identify what the algorithm must achieve.
 
-**Apply repetition where appropriate (iteration)**  
-  Use loops for repeated actions.  
-  **Purpose:** to avoid duplicated steps.  
-  **Benefits:**  
-  - improves efficiency  
-  - reduces code size  
-  **Drawbacks:**  
-  - risk of infinite loops if poorly designed.
+**Purpose:**  
+to establish design goals.
 
-**Use modular design**  
-  Group related actions.  
-  **Purpose:** to improve organisation and reuse.  
-  **Benefits:**  
-  - enhances maintainability  
-  - supports testing  
-  **Drawbacks:**  
-  - over-modularisation reduces readability.
+**Benefits:**
 
-**Select suitable data handling**  
-  Choose appropriate variables and structures.  
-  **Purpose:** to support algorithm logic.  
-  **Benefits:**  
-  - improves performance  
-  - simplifies processing  
-  **Drawbacks:**  
-  - poor choices increase complexity.
+- prevents unnecessary complexity  
+- keeps development focused  
 
-**Represent algorithms before coding**  
-  Use flowcharts or written descriptions.  
-  **Purpose:** to validate logic prior to implementation.  
-  **Benefits:**  
-  - exposes design errors early  
-  - supports collaboration  
-  **Drawbacks:**  
-  - adds an extra design stage.
+**Drawbacks:**
 
-**Test designs with sample inputs**  
-  Trace expected behaviour.  
-  **Purpose:** to confirm correctness.  
-  **Benefits:** 
-  - identifies logical flaws  
-  - improves reliability  
-  **Drawbacks:**  
-  - limited coverage without extensive testing.
+- incomplete requirements lead to redesign.
 
-## Exam Focus
+---
+
+**Break the solution into ordered steps (sequence)**
+
+Arrange actions in a logical progression.
+
+**Purpose:**  
+to ensure correct execution flow.
+
+**Benefits:**
+
+- improves clarity  
+- simplifies implementation  
+
+**Drawbacks:**
+
+- rigid ordering limits flexibility.
+
+---
+
+**Introduce decision points (selection)**
+
+Identify where choices must be made.
+
+**Purpose:**  
+to handle alternative outcomes.
+
+**Benefits:**
+
+- supports dynamic behaviour  
+- improves solution adaptability  
+
+**Drawbacks:**
+
+- increases logical complexity.
+
+---
+
+**Apply repetition where appropriate (iteration)**
+
+Use loops for repeated actions.
+
+**Purpose:**  
+to avoid duplicated steps.
+
+**Benefits:**
+
+- improves efficiency  
+- reduces code size  
+
+**Drawbacks:**
+
+- risk of infinite loops if poorly designed.
+
+---
+
+**Use modular design**
+
+Group related actions.
+
+**Purpose:**  
+to improve organisation and reuse.
+
+**Benefits:**
+
+- enhances maintainability  
+- supports testing  
+
+**Drawbacks:**
+
+- over-modularisation reduces readability.
+
+---
+
+**Select suitable data handling**
+
+Choose appropriate variables and structures.
+
+**Purpose:**  
+to support algorithm logic.
+
+**Benefits:**
+
+- improves performance  
+- simplifies processing  
+
+**Drawbacks:**
+
+- poor choices increase complexity.
+
+---
+
+**Represent algorithms before coding**
+
+Use flowcharts or written descriptions.
+
+**Purpose:**  
+to validate logic prior to implementation.
+
+**Benefits:**
+
+- exposes design errors early  
+- supports collaboration  
+
+**Drawbacks:**
+
+- adds an extra design stage.
+
+---
+
+**Test designs with sample inputs**
+
+Trace expected behaviour.
+
+**Purpose:**  
+to confirm correctness.
+
+**Benefits:**
+
+- identifies logical flaws  
+- improves reliability  
+
+**Drawbacks:**
+
+- limited coverage without extensive testing.
+
+---
+
+## Exam Focus  
+
 You should be able to:
+
 - Design algorithms using sequence, selection and iteration
 - Structure solutions logically
 - Apply repetition appropriately
