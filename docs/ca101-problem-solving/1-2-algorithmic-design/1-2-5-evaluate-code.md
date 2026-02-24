@@ -1,8 +1,8 @@
 # 1.2.5
 
 ![Retained](../../assets/icons/retained.svg){ width="256" }  
-This content was covered in the old specification as topic(s) in 1.2.
-Be careful! The focus is a bit different in this specification.
+This content was covered in topics of the old specification.  
+Be careful! The focus is a bit different in this specification.  
 If you have access to the textbooks, you can use those resources to enhance your understanding.  
 
 ## 1.2.5 Benefits and drawbacks of expressing algorithms in code

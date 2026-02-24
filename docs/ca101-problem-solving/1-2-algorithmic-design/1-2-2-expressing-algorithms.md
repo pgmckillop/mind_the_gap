@@ -1,11 +1,11 @@
 # 1.2.2
 
 ![Retained](../../assets/icons/retained.svg){ width="256" }  
-This content was covered in the old specification as topic(s) in 1.2.
-Be careful! The focus is a bit different in this specification.
-If you have access to the textbooks, you can use those resources to enhance your understanding. 
+This content was covered in topics of the old specification.  
+Be careful! The focus is a bit different in this specification.  
+If you have access to the textbooks, you can use those resources to enhance your understanding.  
 
-### 1.2.2 Ways algorithms can be expressed
+## 1.2.2 Ways algorithms can be expressed
 
 Algorithms can be expressed in multiple forms to represent logic, sequence and structure in digital software development. Each method supports understanding, communication and implementation of solutions. :contentReference[oaicite:0]{index=0}
 
@@ -15,7 +15,7 @@ Algorithms can be expressed in multiple forms to represent logic, sequence and s
 
 Flowcharts represent algorithms visually using standard symbols to show sequence, decisions and processing steps.
 
-### Terminators
+**Terminators**
 
 Indicate the start and end of an algorithm.
 
