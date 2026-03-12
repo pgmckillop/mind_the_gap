@@ -3,7 +3,6 @@ site_author: Paul McKillop
 
 copyright: © 2026 Paul McKillop · No part of this material may be reproduced without permission.
 
-
 # repo_url: https://github.com/pgmckillop/mind_the_gap
 site_description: Content revision notes for the new T-Level Qualification Digital Software Development
 site_url: https://paulmckillop.com/btg/
@@ -55,7 +54,7 @@ theme:
     - navigation.expand
     - navigation.tracking
     # I kept this enabled, but we will reinforce it with CSS lines
-    - navigation.subnavigation.indent 
+    - navigation.subnavigation.indent
     - navigation.path # Added: helpful for deep hierarchies
     - toc.integrate
     - search.highlight
@@ -85,263 +84,263 @@ nav:
   - The Gap: ca000-the-gap/the-gap.md
 
   - 1 PRO:
-    - Introduction: ca101-problem-solving/home-01.md
-    - 1.1 Computational Thinking:
-      - 1.1.1 Computational Thinking: ca101-problem-solving/1-1-computational-thinking/1-1-1-computational-thinking.md
-      - 1.1.2 When to use: ca101-problem-solving/1-1-computational-thinking/1-1-2-when-computational.md
-      - 1.1.3 Analysis: ca101-problem-solving/1-1-computational-thinking/1-1-3-analysis-computational.md
-      - 1.1.4 Components: ca101-problem-solving/1-1-computational-thinking/1-1-4-components-computational.md
-      - 1.1.5 Analysis components: ca101-problem-solving/1-1-computational-thinking/1-1-5-analysis-components.md
-      - 1.1.6 Decomposition: ca101-problem-solving/1-1-computational-thinking/1-1-6-decomposition.md
-      - 1.1.7 Decomposition tasks: ca101-problem-solving/1-1-computational-thinking/1-1-7-tasks-decomposition.md
-      - 1.1.8 Use decomposition: ca101-problem-solving/1-1-computational-thinking/1-1-8-applying-decomposition.md
-      - 1.1.9 Information Flow Diagrams: ca101-problem-solving/1-1-computational-thinking/1-1-9-info-flow-diagrams.md
-      - 1.1.10 Represent decomposition: ca101-problem-solving/1-1-computational-thinking/1-1-10-represent-decomposition.md
-      - 1.1.11 Pattern recognition: ca101-problem-solving/1-1-computational-thinking/1-1-11-pattern-recognition.md
-      - 1.1.12 Use Pattern Recognition: ca101-problem-solving/1-1-computational-thinking/1-1-12-use-pattern-recognition.md
-      - 1.1.13 Abstraction: ca101-problem-solving/1-1-computational-thinking/1-1-13-purpose-abstraction.md
-      - 1.1.14 Abstraction tasks: ca101-problem-solving/1-1-computational-thinking/1-1-14-tasks-abstraction.md
-      - 1.1.15 Use Abstraction: ca101-problem-solving/1-1-computational-thinking/1-1-15-use-abstraction.md
-      - 1.1.16 Problem solving: ca101-problem-solving/1-1-computational-thinking/1-1-16-problem-solving.md
-      - 1.1.17 Interrelationships: ca101-problem-solving/1-1-computational-thinking/1-1-17-interrelationships.md
-    - 1.2 Algorithmic Design:
-      - 1.2.0 Overview: ca101-problem-solving/1-2-algorithmic-design/1-2-0-algorithmic-design.md
-      - 1.2.1 Algorithms: ca101-problem-solving/1-2-algorithmic-design/1-2-1-algorithms.md
-      - 1.2.2 Expressing algorithms: ca101-problem-solving/1-2-algorithmic-design/1-2-2-expressing-algorithms.md
-      - 1.2.3 Evaluate flowcharts: ca101-problem-solving/1-2-algorithmic-design/1-2-3-evaluate-flowcharts.md
-      - 1.2.4 Evaluate descriptions: ca101-problem-solving/1-2-algorithmic-design/1-2-4-evaluate-descriptions.md
-      - 1.2.5 Evaluate code: ca101-problem-solving/1-2-algorithmic-design/1-2-5-evaluate-code.md
-      - 1.2.6 Control actions: ca101-problem-solving/1-2-algorithmic-design/1-2-6-control-actions.md
-      - 1.2.7 Algorithms purpose: ca101-problem-solving/1-2-algorithmic-design/1-2-7-algorithm-purpose.md
-      - 1.2.8 Algorithm output: ca101-problem-solving/1-2-algorithmic-design/1-2-8-algorithm-output.md
-      - 1.2.9 Algorithm errors: ca101-problem-solving/1-2-algorithmic-design/1-2-9-algorithm-errors.md
-      - 1.2.10 Correct algorithms: ca101-problem-solving/1-2-algorithmic-design/1-2-10-algorithm-correct.md
-      - 1.2.11 Translate notations: ca101-problem-solving/1-2-algorithmic-design/1-2-11-translate-notations.md
-      - 1.2.12 Design with actions: ca101-problem-solving/1-2-algorithmic-design/1-2-12-design-with-actions.md
-    - 1.3 Strategies:
-      - 1.3.1 Approaches: ca101-problem-solving/1-3-strategies/1-3-1-approaches.md
-      - 1.3.2 Analysis approaches: ca101-problem-solving/1-3-strategies/1-3-2-analysis-approaches.md
-      - 1.3.3 Cause Analysis: ca101-problem-solving/1-3-strategies/1-3-3-cause-analysis.md
-      - 1.3.4.1 Five Whys: ca101-problem-solving/1-3-strategies/1-3-4-1-five-whys.md
-      - 1.3.4.2 Failure Mode Effects Analysis: ca101-problem-solving/1-3-strategies/1-3-4-2-failure-mode-effects-analysis.md
-      - 1.3.4.3 Event Tree Analysis: ca101-problem-solving/1-3-strategies/1-3-4-3-event-tree-analysis.md
-      - 1.3.4.4 Actions after RCA: ca101-problem-solving/1-3-strategies/1-3-4-4-actions-after-rca.md
-      - 1.3.5 High Level Problem Solving: ca101-problem-solving/1-3-strategies/1-3-5-high-level-problem-solving.md
-      - 1.3.6.1 Interrelationships: ca101-problem-solving/1-3-strategies/1-3-6-1-interrelationships.md
-      - 1.3.6.2 Interrelationships Examples: ca101-problem-solving/1-3-strategies/1-3-6-2-interrelationships-examples.md
+      - Introduction: ca101-problem-solving/home-01.md
+      - 1.1 Computational Thinking:
+          - 1.1.1 Computational Thinking: ca101-problem-solving/1-1-computational-thinking/1-1-1-computational-thinking.md
+          - 1.1.2 When to use: ca101-problem-solving/1-1-computational-thinking/1-1-2-when-computational.md
+          - 1.1.3 Analysis: ca101-problem-solving/1-1-computational-thinking/1-1-3-analysis-computational.md
+          - 1.1.4 Components: ca101-problem-solving/1-1-computational-thinking/1-1-4-components-computational.md
+          - 1.1.5 Analysis components: ca101-problem-solving/1-1-computational-thinking/1-1-5-analysis-components.md
+          - 1.1.6 Decomposition: ca101-problem-solving/1-1-computational-thinking/1-1-6-decomposition.md
+          - 1.1.7 Decomposition tasks: ca101-problem-solving/1-1-computational-thinking/1-1-7-tasks-decomposition.md
+          - 1.1.8 Use decomposition: ca101-problem-solving/1-1-computational-thinking/1-1-8-applying-decomposition.md
+          - 1.1.9 Methods to represent decomposition: ca101-problem-solving/1-1-computational-thinking/1-1-9-info-flow-diagrams.md
+          - 1.1.9 Flow Diagram Example: ca101-problem-solving/1-1-computational-thinking/1-1-9-ifd-examples.md
+          - 1.1.10 Use Representations: ca101-problem-solving/1-1-computational-thinking/1-1-10-represent-decomposition.md
+          - 1.1.11 Pattern recognition: ca101-problem-solving/1-1-computational-thinking/1-1-11-pattern-recognition.md
+          - 1.1.12 Use Pattern Recognition: ca101-problem-solving/1-1-computational-thinking/1-1-12-use-pattern-recognition.md
+          - 1.1.13 Abstraction: ca101-problem-solving/1-1-computational-thinking/1-1-13-purpose-abstraction.md
+          - 1.1.14 Abstraction tasks: ca101-problem-solving/1-1-computational-thinking/1-1-14-tasks-abstraction.md
+          - 1.1.15 Use Abstraction: ca101-problem-solving/1-1-computational-thinking/1-1-15-use-abstraction.md
+          - 1.1.16 Problem solving: ca101-problem-solving/1-1-computational-thinking/1-1-16-problem-solving.md
+          - 1.1.17 Interrelationships: ca101-problem-solving/1-1-computational-thinking/1-1-17-interrelationships.md
+      - 1.2 Algorithmic Design:
+          - 1.2.0 Overview: ca101-problem-solving/1-2-algorithmic-design/1-2-0-algorithmic-design.md
+          - 1.2.1 Algorithms: ca101-problem-solving/1-2-algorithmic-design/1-2-1-algorithms.md
+          - 1.2.2 Expressing algorithms: ca101-problem-solving/1-2-algorithmic-design/1-2-2-expressing-algorithms.md
+          - 1.2.3 Evaluate flowcharts: ca101-problem-solving/1-2-algorithmic-design/1-2-3-evaluate-flowcharts.md
+          - 1.2.4 Evaluate descriptions: ca101-problem-solving/1-2-algorithmic-design/1-2-4-evaluate-descriptions.md
+          - 1.2.5 Evaluate code: ca101-problem-solving/1-2-algorithmic-design/1-2-5-evaluate-code.md
+          - 1.2.6 Control actions: ca101-problem-solving/1-2-algorithmic-design/1-2-6-control-actions.md
+          - 1.2.7 Algorithms purpose: ca101-problem-solving/1-2-algorithmic-design/1-2-7-algorithm-purpose.md
+          - 1.2.8 Algorithm output: ca101-problem-solving/1-2-algorithmic-design/1-2-8-algorithm-output.md
+          - 1.2.9 Algorithm errors: ca101-problem-solving/1-2-algorithmic-design/1-2-9-algorithm-errors.md
+          - 1.2.10 Correct algorithms: ca101-problem-solving/1-2-algorithmic-design/1-2-10-algorithm-correct.md
+          - 1.2.11 Translate notations: ca101-problem-solving/1-2-algorithmic-design/1-2-11-translate-notations.md
+          - 1.2.12 Design with actions: ca101-problem-solving/1-2-algorithmic-design/1-2-12-design-with-actions.md
+      - 1.3 Strategies:
+          - 1.3.1 Approaches: ca101-problem-solving/1-3-strategies/1-3-1-approaches.md
+          - 1.3.2 Analysis approaches: ca101-problem-solving/1-3-strategies/1-3-2-analysis-approaches.md
+          - 1.3.3 Cause Analysis: ca101-problem-solving/1-3-strategies/1-3-3-cause-analysis.md
+          - 1.3.4.1 Five Whys: ca101-problem-solving/1-3-strategies/1-3-4-1-five-whys.md
+          - 1.3.4.2 Failure Mode Effects Analysis: ca101-problem-solving/1-3-strategies/1-3-4-2-failure-mode-effects-analysis.md
+          - 1.3.4.3 Event Tree Analysis: ca101-problem-solving/1-3-strategies/1-3-4-3-event-tree-analysis.md
+          - 1.3.4.4 Actions after RCA: ca101-problem-solving/1-3-strategies/1-3-4-4-actions-after-rca.md
+          - 1.3.5 High Level Problem Solving: ca101-problem-solving/1-3-strategies/1-3-5-high-level-problem-solving.md
+          - 1.3.6.1 Interrelationships: ca101-problem-solving/1-3-strategies/1-3-6-1-interrelationships.md
+          - 1.3.6.2 Interrelationships Examples: ca101-problem-solving/1-3-strategies/1-3-6-2-interrelationships-examples.md
 
   - 2 ITP:
-    - Introduction: ca102-intro-to-programming/home-02.md
-    - 2.1 Data Types:
-      - 2.1.1 Standard Types: ca102-intro-to-programming/2-01-data-types/2-1-1-standard-types.md
-    - 2.2 Variables and Constants:
-      - 2.2.1 Variables: ca102-intro-to-programming/2-02-variables-constants/2-2-1-variables.md
-      - 2.2.2 Constants: ca102-intro-to-programming/2-02-variables-constants/2-2-2-constants.md
-      - 2.2.3 Type Conversion: ca102-intro-to-programming/2-02-variables-constants/2-2-3-type-conversion.md
-      - 2.2.4 Scope: ca102-intro-to-programming/2-02-variables-constants/2-2-4-scope.md
-      - 2.2.6 Use Scope: ca102-intro-to-programming/2-02-variables-constants/2-2-6-use-scope.md
-      - 2.2.7 Declare and Use: ca102-intro-to-programming/2-02-variables-constants/2-2-7-declare-and-use.md
-      - 2.2.8 Use Variables: ca102-intro-to-programming/2-02-variables-constants/2-2-8-use-variables.md
-      - 2.2.9 Type Conversion: ca102-intro-to-programming/2-02-variables-constants/2-2-9-type-conversion.md
-    - 2.3 Data Structures:
-      - 2.3.0 Code Structures: ca102-intro-to-programming/2-03-data-structures/2-3-0-code-structures.md
-    - 2.4 Operators:
-      - 2.4.0 Operators: ca102-intro-to-programming/2-04-operators/2-4-0-operators.md
-    - 2.5 Input and Output:
-      - 2.5.1 Implement IO: ca102-intro-to-programming/2-05-input-output/2-5-1-implement-io.md
-      - 2.5.2 File Operations: ca102-intro-to-programming/2-05-input-output/2-5-2-file-operations.md
-      - 2.5.3 Interpret IO: ca102-intro-to-programming/2-05-input-output/2-5-3-interpret-io.md
-      - 2.5.4 Create IO: ca102-intro-to-programming/2-05-input-output/2-5-4-create-io.md
-      - 2.5.5 Debug IO: ca102-intro-to-programming/2-05-input-output/2-5-5-debug-io.md
-    - 2.6 Actions:
-      - 2.6.0 Actions: ca102-intro-to-programming/2-06-actions/2-6-0-actions.md
-      - 2.6.1 Sequence: ca102-intro-to-programming/2-06-actions/2-6-1-sequence.md
-      - 2.6.2 Selection: ca102-intro-to-programming/2-06-actions/2-6-2-selection.md
-      - 2.6.2 Selection usage: ca102-intro-to-programming/2-06-actions/2-6-2-match-case.md
-      - 2.6.3 Loops: ca102-intro-to-programming/2-06-actions/2-6-3-loops.md
-      - 2.6.5 Analysis of Loops: ca102-intro-to-programming/2-06-actions/2-6-5-benefits-drawbacks-loops.md
-    - 2.7 Functions and Procedures:
-      - 2.7.1.2 Functions - Procedures: ca102-intro-to-programming/2-07-functions-procedures/2-7-1-2-functions-procedures.md
-      - 2.7.3 Origins of Code: ca102-intro-to-programming/2-07-functions-procedures/2-7-3-origins-of-code.md
-      - 2.7.4 Analysis of Pre-written: ca102-intro-to-programming/2-07-functions-procedures/2-7-4-benefits-drawbacks-prewritten.md
-      - 2.7.5 Interpret code: ca102-intro-to-programming/2-07-functions-procedures/2-7-5-interpret-code.md
-      - 2.7.6 Develop code: ca102-intro-to-programming/2-07-functions-procedures/2-7-6-develop-code.md
-      - 2.7.7 Debug code: ca102-intro-to-programming/2-07-functions-procedures/2-7-7-debug-code.md
-    - 2.8 Validation:
-      - 2.8.1 Validation: ca102-intro-to-programming/2-08-validation/2-8-1-validation.md
-      - 2.8.2 Interpret Validation: ca102-intro-to-programming/2-08-validation/2-8-2-interpret-validation.md
-      - 2.8.3 Develop Validation: ca102-intro-to-programming/2-08-validation/2-8-3-develop-validation.md
-      - 2.8.4 Debug Validation: ca102-intro-to-programming/2-08-validation/2-8-4-debug-validation.md
-    - 2.9 Design Considerations:
-      - 2.9.1 Order of Code: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-1-order-of-code.md
-      - 2.9.2 Order operations: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-2-order-operations.md
-      - 2.9.3 Select structures: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-3-select-structures.md
-      - 2.9.4 Determine order: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-4-determine-order.md
-      - 2.9.5 Conventions: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-5-conventions.md
-      - 2.9.6 Readability: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-6-readability.md
-      - 2.9.7.1 Judgements Suitability: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-7-1-judgements-suitablility.md
-      - 2.9.7.2 Examples: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-7-2-examples.md
-    - 2.10 Robust Code:
-      - 2.10.0 Robust Code: ca102-intro-to-programming/2-10-robust-code/2-10-0-robust-code.md
-    - 2.11 Common Algorithms:
-      - 2.11.1 Searching: ca102-intro-to-programming/2-11-common-algorithms/2-11-1-searching.md
-      - 2.11.2 Sorting: ca102-intro-to-programming/2-11-common-algorithms/2-11-2-sorting.md
-      - 2.11.4 Comparing Algorithms: ca102-intro-to-programming/2-11-common-algorithms/2-11-4-metrics-compare-algorithms.md
-      - 2.11.5 Choosing Algorithms: ca102-intro-to-programming/2-11-common-algorithms/2-11-5-choosing-algorithms.md
-      - 2.11.6 Select search algorithm: ca102-intro-to-programming/2-11-common-algorithms/2-11-6-suitability-search-algorithms.md
-      - 2.11.7 Select sort algorithm: ca102-intro-to-programming/2-11-common-algorithms/2-11-7-suitability-sort-algorithms.md
-    - 2.12 Testing:
-      - 2.12.1.1 Testing components: ca102-intro-to-programming/2-12-testing/2-12-1-1-testing-components.md
-      - 2.12.2.1 Testing Methods: ca102-intro-to-programming/2-12-testing/2-12-2-1-testing-methods.md
-      - 2.12.3.1 Automation Methods: ca102-intro-to-programming/2-12-testing/2-12-3-1-automation-methods.md
-      - 2.12.4 Test Data Plan: ca102-intro-to-programming/2-12-testing/2-12-4-test-data-plan.md
+      - Introduction: ca102-intro-to-programming/home-02.md
+      - 2.1 Data Types:
+          - 2.1.1 Standard Types: ca102-intro-to-programming/2-01-data-types/2-1-1-standard-types.md
+      - 2.2 Variables and Constants:
+          - 2.2.1 Variables: ca102-intro-to-programming/2-02-variables-constants/2-2-1-variables.md
+          - 2.2.2 Constants: ca102-intro-to-programming/2-02-variables-constants/2-2-2-constants.md
+          - 2.2.3 Type Conversion: ca102-intro-to-programming/2-02-variables-constants/2-2-3-type-conversion.md
+          - 2.2.4 Scope: ca102-intro-to-programming/2-02-variables-constants/2-2-4-scope.md
+          - 2.2.6 Use Scope: ca102-intro-to-programming/2-02-variables-constants/2-2-6-use-scope.md
+          - 2.2.7 Declare and Use: ca102-intro-to-programming/2-02-variables-constants/2-2-7-declare-and-use.md
+          - 2.2.8 Use Variables: ca102-intro-to-programming/2-02-variables-constants/2-2-8-use-variables.md
+          - 2.2.9 Type Conversion: ca102-intro-to-programming/2-02-variables-constants/2-2-9-type-conversion.md
+      - 2.3 Data Structures:
+          - 2.3.0 Code Structures: ca102-intro-to-programming/2-03-data-structures/2-3-0-code-structures.md
+      - 2.4 Operators:
+          - 2.4.0 Operators: ca102-intro-to-programming/2-04-operators/2-4-0-operators.md
+      - 2.5 Input and Output:
+          - 2.5.1 Implement IO: ca102-intro-to-programming/2-05-input-output/2-5-1-implement-io.md
+          - 2.5.2 File Operations: ca102-intro-to-programming/2-05-input-output/2-5-2-file-operations.md
+          - 2.5.3 Interpret IO: ca102-intro-to-programming/2-05-input-output/2-5-3-interpret-io.md
+          - 2.5.4 Create IO: ca102-intro-to-programming/2-05-input-output/2-5-4-create-io.md
+          - 2.5.5 Debug IO: ca102-intro-to-programming/2-05-input-output/2-5-5-debug-io.md
+      - 2.6 Actions:
+          - 2.6.0 Actions: ca102-intro-to-programming/2-06-actions/2-6-0-actions.md
+          - 2.6.1 Sequence: ca102-intro-to-programming/2-06-actions/2-6-1-sequence.md
+          - 2.6.2 Selection: ca102-intro-to-programming/2-06-actions/2-6-2-selection.md
+          - 2.6.2 Selection usage: ca102-intro-to-programming/2-06-actions/2-6-2-match-case.md
+          - 2.6.3 Loops: ca102-intro-to-programming/2-06-actions/2-6-3-loops.md
+          - 2.6.5 Analysis of Loops: ca102-intro-to-programming/2-06-actions/2-6-5-benefits-drawbacks-loops.md
+      - 2.7 Functions and Procedures:
+          - 2.7.1.2 Functions - Procedures: ca102-intro-to-programming/2-07-functions-procedures/2-7-1-2-functions-procedures.md
+          - 2.7.3 Origins of Code: ca102-intro-to-programming/2-07-functions-procedures/2-7-3-origins-of-code.md
+          - 2.7.4 Analysis of Pre-written: ca102-intro-to-programming/2-07-functions-procedures/2-7-4-benefits-drawbacks-prewritten.md
+          - 2.7.5 Interpret code: ca102-intro-to-programming/2-07-functions-procedures/2-7-5-interpret-code.md
+          - 2.7.6 Develop code: ca102-intro-to-programming/2-07-functions-procedures/2-7-6-develop-code.md
+          - 2.7.7 Debug code: ca102-intro-to-programming/2-07-functions-procedures/2-7-7-debug-code.md
+      - 2.8 Validation:
+          - 2.8.1 Validation: ca102-intro-to-programming/2-08-validation/2-8-1-validation.md
+          - 2.8.2 Interpret Validation: ca102-intro-to-programming/2-08-validation/2-8-2-interpret-validation.md
+          - 2.8.3 Develop Validation: ca102-intro-to-programming/2-08-validation/2-8-3-develop-validation.md
+          - 2.8.4 Debug Validation: ca102-intro-to-programming/2-08-validation/2-8-4-debug-validation.md
+      - 2.9 Design Considerations:
+          - 2.9.1 Order of Code: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-1-order-of-code.md
+          - 2.9.2 Order operations: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-2-order-operations.md
+          - 2.9.3 Select structures: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-3-select-structures.md
+          - 2.9.4 Determine order: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-4-determine-order.md
+          - 2.9.5 Conventions: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-5-conventions.md
+          - 2.9.6 Readability: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-6-readability.md
+          - 2.9.7.1 Judgements Suitability: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-7-1-judgements-suitablility.md
+          - 2.9.7.2 Examples: ca102-intro-to-programming/2-09-design-considerations-practices/2-9-7-2-examples.md
+      - 2.10 Robust Code:
+          - 2.10.0 Robust Code: ca102-intro-to-programming/2-10-robust-code/2-10-0-robust-code.md
+      - 2.11 Common Algorithms:
+          - 2.11.1 Searching: ca102-intro-to-programming/2-11-common-algorithms/2-11-1-searching.md
+          - 2.11.2 Sorting: ca102-intro-to-programming/2-11-common-algorithms/2-11-2-sorting.md
+          - 2.11.4 Comparing Algorithms: ca102-intro-to-programming/2-11-common-algorithms/2-11-4-metrics-compare-algorithms.md
+          - 2.11.5 Choosing Algorithms: ca102-intro-to-programming/2-11-common-algorithms/2-11-5-choosing-algorithms.md
+          - 2.11.6 Select search algorithm: ca102-intro-to-programming/2-11-common-algorithms/2-11-6-suitability-search-algorithms.md
+          - 2.11.7 Select sort algorithm: ca102-intro-to-programming/2-11-common-algorithms/2-11-7-suitability-sort-algorithms.md
+      - 2.12 Testing:
+          - 2.12.1.1 Testing components: ca102-intro-to-programming/2-12-testing/2-12-1-1-testing-components.md
+          - 2.12.2.1 Testing Methods: ca102-intro-to-programming/2-12-testing/2-12-2-1-testing-methods.md
+          - 2.12.3.1 Automation Methods: ca102-intro-to-programming/2-12-testing/2-12-3-1-automation-methods.md
+          - 2.12.4 Test Data Plan: ca102-intro-to-programming/2-12-testing/2-12-4-test-data-plan.md
 
   - 3 EMI:
-    - Introduction: ca103-emerging-issues/home-03.md
-    - 3.1 Impact of technologies:
-      - 3.1.1 Increased reliance: ca103-emerging-issues/3-1-1-increased-reliance.md
-      - 3.1.2 Digital inclusion: ca103-emerging-issues/3-1-2-digital-inclusion.md
-      - 3.1.3 User characteristics: ca103-emerging-issues/3-1-3-user-characteristics.md
-      - 3.1.4 Professional development: ca103-emerging-issues/3-1-4-professional-development.md
-    - 3.2 Emerging technologies:
-      - 3.2.1 Organisational impact: ca103-emerging-issues/3-2-1-organisation-risk.md
-      - 3.2.2 Interrelationships: ca103-emerging-issues/3-2-2-interrelationships.md
+      - Introduction: ca103-emerging-issues/home-03.md
+      - 3.1 Impact of technologies:
+          - 3.1.1 Increased reliance: ca103-emerging-issues/3-1-1-increased-reliance.md
+          - 3.1.2 Digital inclusion: ca103-emerging-issues/3-1-2-digital-inclusion.md
+          - 3.1.3 User characteristics: ca103-emerging-issues/3-1-3-user-characteristics.md
+          - 3.1.4 Professional development: ca103-emerging-issues/3-1-4-professional-development.md
+      - 3.2 Emerging technologies:
+          - 3.2.1 Organisational impact: ca103-emerging-issues/3-2-1-organisation-risk.md
+          - 3.2.2 Interrelationships: ca103-emerging-issues/3-2-2-interrelationships.md
 
   - 4 LAR:
-    - Introduction: ca104-legislation-regulation/home-04.md
-    - 4.1 Legislation:
-      - 4.1.1 Legislation: ca104-legislation-regulation/4-1-1-hs-legislation.md
-      - 4.1.2 Health & Safety Risks: ca104-legislation-regulation/4-1-2-hs-risks.md
-      - 4.1.3 Data Security Law: ca104-legislation-regulation/4-1-3-data-security-legislation.md
-      - 4.1.4 Computer Misuse: ca104-legislation-regulation/4-1-4-computer-misuse.md
-      - 4.1.5 Equality Law: ca104-legislation-regulation/4-1-5-equality-legislation.md
-      - 4.1.6 Intellectual property: ca104-legislation-regulation/4-1-6-intellectual-property.md
-      - 4.1.7 Development and legislation: ca104-legislation-regulation/4-1-7-interrelationships.md
-      - 4.1.8 International Law: ca104-legislation-regulation/4-1-8-international-law.md
-    - 4.2 Guidelines:
-      - 4.2.1 Codes of Conduct: ca104-legislation-regulation/4-2-1-sources-codes.md
-      - 4.2.2 Professional behaviour: ca104-legislation-regulation/4-2-2-professional-behaviour.md
-      - 4.2.3 Standards: ca104-legislation-regulation/4-2-3-sources-standards.md
-      - 4.2.4 Acceptable Use Policies: ca104-legislation-regulation/4-2-4-acceptable-use-policies.md
-      - 4.2.5 Whistleblowing: ca104-legislation-regulation/4-2-5-whistleblowing.md
-      - 4.2.6 Interrelationships: ca104-legislation-regulation/4-2-6-interrelationships.md
-  
-  - 5 BUC:
-    - Introduction: ca105-business-context/home-05.md
-    - 5.1 Business environment:
-      - 5.1.1 Organisation types: ca105-business-context/5-1-1-organisation-types.md
-      - 5.1.2 Business models: ca105-business-context/5-1-2-business-models.md
-      - 5.1.3 Stakeholders: ca105-business-context/5-1-3-types-stakeholders.md
-    - 5.2 Organisation value:
-      - 5.2.1 Support organisations: ca105-business-context/5-2-1-support-organisations.md
-      - 5.2.2 User needs: ca105-business-context/5-2-2-meet-user-needs.md
-    - 5.3 Organisation risks:
-      - 5.3.1 Organisation risks: ca105-business-context/5-3-1-risks-organisation.md
-      - 5.3.2 Impact of risk: ca105-business-context/5-3-2-impact-risk.md
-    - 5.4 Change management:
-      - 5.4.1 Internal factors: ca105-business-context/5-4-1-internal-factors.md
-      - 5.4.2 External factors: ca105-business-context/5-4-2-external-factors.md
-      - 5.4.3 Change response: ca105-business-context/5-4-3-change-response.md
-      - 5.4.4 Change management: ca105-business-context/5-4-4-change-management.md
-      - 5.4.5 Feasibility factors: ca105-business-context/5-4-5-feasibility-factors.md
+      - Introduction: ca104-legislation-regulation/home-04.md
+      - 4.1 Legislation:
+          - 4.1.1 Legislation: ca104-legislation-regulation/4-1-1-hs-legislation.md
+          - 4.1.2 Health & Safety Risks: ca104-legislation-regulation/4-1-2-hs-risks.md
+          - 4.1.3 Data Security Law: ca104-legislation-regulation/4-1-3-data-security-legislation.md
+          - 4.1.4 Computer Misuse: ca104-legislation-regulation/4-1-4-computer-misuse.md
+          - 4.1.5 Equality Law: ca104-legislation-regulation/4-1-5-equality-legislation.md
+          - 4.1.6 Intellectual property: ca104-legislation-regulation/4-1-6-intellectual-property.md
+          - 4.1.7 Development and legislation: ca104-legislation-regulation/4-1-7-interrelationships.md
+          - 4.1.8 International Law: ca104-legislation-regulation/4-1-8-international-law.md
+      - 4.2 Guidelines:
+          - 4.2.1 Codes of Conduct: ca104-legislation-regulation/4-2-1-sources-codes.md
+          - 4.2.2 Professional behaviour: ca104-legislation-regulation/4-2-2-professional-behaviour.md
+          - 4.2.3 Standards: ca104-legislation-regulation/4-2-3-sources-standards.md
+          - 4.2.4 Acceptable Use Policies: ca104-legislation-regulation/4-2-4-acceptable-use-policies.md
+          - 4.2.5 Whistleblowing: ca104-legislation-regulation/4-2-5-whistleblowing.md
+          - 4.2.6 Interrelationships: ca104-legislation-regulation/4-2-6-interrelationships.md
 
+  - 5 BUC:
+      - Introduction: ca105-business-context/home-05.md
+      - 5.1 Business environment:
+          - 5.1.1 Organisation types: ca105-business-context/5-1-1-organisation-types.md
+          - 5.1.2 Business models: ca105-business-context/5-1-2-business-models.md
+          - 5.1.3 Stakeholders: ca105-business-context/5-1-3-types-stakeholders.md
+      - 5.2 Organisation value:
+          - 5.2.1 Support organisations: ca105-business-context/5-2-1-support-organisations.md
+          - 5.2.2 User needs: ca105-business-context/5-2-2-meet-user-needs.md
+      - 5.3 Organisation risks:
+          - 5.3.1 Organisation risks: ca105-business-context/5-3-1-risks-organisation.md
+          - 5.3.2 Impact of risk: ca105-business-context/5-3-2-impact-risk.md
+      - 5.4 Change management:
+          - 5.4.1 Internal factors: ca105-business-context/5-4-1-internal-factors.md
+          - 5.4.2 External factors: ca105-business-context/5-4-2-external-factors.md
+          - 5.4.3 Change response: ca105-business-context/5-4-3-change-response.md
+          - 5.4.4 Change management: ca105-business-context/5-4-4-change-management.md
+          - 5.4.5 Feasibility factors: ca105-business-context/5-4-5-feasibility-factors.md
 
   - 6 DAT:
-    - Introduction: ca106-data/home-06.md
-    - 6.1 Data, Information, and Knowledge:
-      - 6.1.1 Data, Information, and Knowledge: ca106-data/6-01-data-information-knowledge/6-1-1-data-information-knowledge.md
-      - 6.1.2 Sources for Generation: ca106-data/6-01-data-information-knowledge/6-1-2-sources-for-generation.md
-      - 6.1.3 Ethics and Metrics: ca106-data/6-01-data-information-knowledge/6-1-3-Ethics-and-metrics.md
-      - 6.1.4 Organisation Usage: ca106-data/6-01-data-information-knowledge/6-1-4-organisation-usage.md
-      - 6.1.5 Interrelationships: ca106-data/6-01-data-information-knowledge/6-1-5-interrelationships.md
-    - 6.2 Methods of Transforming Data:
-      - 6.2.1 Transforming Data: ca106-data/6-02-methods-transform-data/6-2-1-transforming-data.md
-    - 6.3 Data Taxonomy:
-      - 6.3.1 Quantitative and Qualitative: ca106-data/6-03-data-taxonomy/6-3-1-quantitative-qualitative.md
-      - 6.3.2 Structured Data: ca106-data/6-03-data-taxonomy/6-3-2-structured-data.md
-      - 6.3.3 Unstructured Data: ca106-data/6-03-data-taxonomy/6-3-3-unstructured-data.md
-      - 6.3.4 Represent Quantitative: ca106-data/6-03-data-taxonomy/6-3-4-represent-quantitative.md
-      - 6.3.6 Interrelationships: ca106-data/6-03-data-taxonomy/6-3-6-interrelationships.md
-    - 6.4 Data Types:
-      - 6.4.1 Data Types: ca106-data/6-04-data-types/6-4-1-data-types.md
-      - "6.4.2 Relationships: Structured and Unstructured": ca106-data/6-04-data-types/6-4-2-ralationships-structured-untructured.md
-      - "6.4.3 Relationships: Types and Transformation": ca106-data/6-04-data-types/6-4-3-relartionships-types-transformation.md
-      - 6.4.4 Judgements: ca106-data/6-04-data-types/6-4-4-judgements.md
-    - 6.5 Data Formats:
-      - 6.5.1 Data Formats: ca106-data/6-05-data-formats/6-5-1-data-formats.md
-      - "6.5.2 Relationships: Format and Transformation": ca106-data/6-05-data-formats/6.5.2-relationships-format-transformation.md
-    - 6.6 Structures to Store Data:
-      - 6.6.0 Structures: ca106-data/6-06-structures-store-data/6-6-0-structures.md
-    - 6.7 Dimensions and Maintenance:
-      - 6.7.0 Dimensions and Maintenance: ca106-data/6-07-dimensions-maintenance/6-7-0-dimensions-maintenance.md
-      - 6.7.6 Interrelationships: ca106-data/6-07-dimensions-maintenance/6-7-6-interrelationships.md
-    - 6.8 Data Systems:
-      - 6.8.0 Data Systems: ca106-data/6-08-data-systems/6-8-0-data-systems.md
-      - 6.8.7 Entry Factors: ca106-data/6-08-data-systems/6-8-7-entry-factors.md
-      - 6.8.8 Implement Factors: ca106-data/6-08-data-systems/6-8-8-implement-factors.md
-    - 6.9 Data Visualisation:
-      - 6.9.1 Visualisation: ca106-data/6-09-data-visualisation/6-9-1-visualisation.md
-      - 6.9.2 Benefits and Drawbacks: ca106-data/6-09-data-visualisation/6-9-2-benfits-drawbacks-visualisation.md
-    - 6.10 Data Models:
-      - 6.10.0 Data Models: ca106-data/6-10-data-models/6-10-0-data-models.md
-      - 6.10.4 Drawing Data Models: ca106-data/6-10-data-models/6-10-4-drawing-models.md
-    - 6.11 Data Access:
-      - 6.11.0 Access Across Platforms: ca106-data/6-11-data-access/6-11-0-access-across-platforms.md
-      - 6.11.3 Interrelationships: ca106-data/6-11-data-access/6-11-3-interrelationships.md
-    - 6.12 Data Analysis Tools:
-      - 6.12.1 Data Analysis Tools: ca106-data/6-12-data-analysis-tools/6-12-1-data-snlysis-tools.md
-      - 6.12.2 Interrelationships: ca106-data/6-12-data-analysis-tools/6-12-2-interrelationships.md
+      - Introduction: ca106-data/home-06.md
+      - 6.1 Data, Information, and Knowledge:
+          - 6.1.1 Data, Information, and Knowledge: ca106-data/6-01-data-information-knowledge/6-1-1-data-information-knowledge.md
+          - 6.1.2 Sources for Generation: ca106-data/6-01-data-information-knowledge/6-1-2-sources-for-generation.md
+          - 6.1.3 Ethics and Metrics: ca106-data/6-01-data-information-knowledge/6-1-3-Ethics-and-metrics.md
+          - 6.1.4 Organisation Usage: ca106-data/6-01-data-information-knowledge/6-1-4-organisation-usage.md
+          - 6.1.5 Interrelationships: ca106-data/6-01-data-information-knowledge/6-1-5-interrelationships.md
+      - 6.2 Methods of Transforming Data:
+          - 6.2.1 Transforming Data: ca106-data/6-02-methods-transform-data/6-2-1-transforming-data.md
+      - 6.3 Data Taxonomy:
+          - 6.3.1 Quantitative and Qualitative: ca106-data/6-03-data-taxonomy/6-3-1-quantitative-qualitative.md
+          - 6.3.2 Structured Data: ca106-data/6-03-data-taxonomy/6-3-2-structured-data.md
+          - 6.3.3 Unstructured Data: ca106-data/6-03-data-taxonomy/6-3-3-unstructured-data.md
+          - 6.3.4 Represent Quantitative: ca106-data/6-03-data-taxonomy/6-3-4-represent-quantitative.md
+          - 6.3.6 Interrelationships: ca106-data/6-03-data-taxonomy/6-3-6-interrelationships.md
+      - 6.4 Data Types:
+          - 6.4.1 Data Types: ca106-data/6-04-data-types/6-4-1-data-types.md
+          - "6.4.2 Relationships: Structured and Unstructured": ca106-data/6-04-data-types/6-4-2-ralationships-structured-untructured.md
+          - "6.4.3 Relationships: Types and Transformation": ca106-data/6-04-data-types/6-4-3-relartionships-types-transformation.md
+          - 6.4.4 Judgements: ca106-data/6-04-data-types/6-4-4-judgements.md
+      - 6.5 Data Formats:
+          - 6.5.1 Data Formats: ca106-data/6-05-data-formats/6-5-1-data-formats.md
+          - "6.5.2 Relationships: Format and Transformation": ca106-data/6-05-data-formats/6.5.2-relationships-format-transformation.md
+      - 6.6 Structures to Store Data:
+          - 6.6.0 Structures: ca106-data/6-06-structures-store-data/6-6-0-structures.md
+      - 6.7 Dimensions and Maintenance:
+          - 6.7.0 Dimensions and Maintenance: ca106-data/6-07-dimensions-maintenance/6-7-0-dimensions-maintenance.md
+          - 6.7.6 Interrelationships: ca106-data/6-07-dimensions-maintenance/6-7-6-interrelationships.md
+      - 6.8 Data Systems:
+          - 6.8.0 Data Systems: ca106-data/6-08-data-systems/6-8-0-data-systems.md
+          - 6.8.7 Entry Factors: ca106-data/6-08-data-systems/6-8-7-entry-factors.md
+          - 6.8.8 Implement Factors: ca106-data/6-08-data-systems/6-8-8-implement-factors.md
+      - 6.9 Data Visualisation:
+          - 6.9.1 Visualisation: ca106-data/6-09-data-visualisation/6-9-1-visualisation.md
+          - 6.9.2 Benefits and Drawbacks: ca106-data/6-09-data-visualisation/6-9-2-benfits-drawbacks-visualisation.md
+      - 6.10 Data Models:
+          - 6.10.0 Data Models: ca106-data/6-10-data-models/6-10-0-data-models.md
+          - 6.10.4 Drawing Data Models: ca106-data/6-10-data-models/6-10-4-drawing-models.md
+      - 6.11 Data Access:
+          - 6.11.0 Access Across Platforms: ca106-data/6-11-data-access/6-11-0-access-across-platforms.md
+          - 6.11.3 Interrelationships: ca106-data/6-11-data-access/6-11-3-interrelationships.md
+      - 6.12 Data Analysis Tools:
+          - 6.12.1 Data Analysis Tools: ca106-data/6-12-data-analysis-tools/6-12-1-data-snlysis-tools.md
+          - 6.12.2 Interrelationships: ca106-data/6-12-data-analysis-tools/6-12-2-interrelationships.md
 
   - 7 DEN:
-    - Introduction: ca107-digital-environments/home-07.md
-    - 7.1 Hardware:
-      - 7.1.1 Computer types: ca107-digital-environments/7-1-01-computer-types.md
-      - 7.1.2 Hardware: ca107-digital-environments/7-1-02-hardware-devices.md
-    - 7.2 Software:
-      - 7.2.1 Operating Systems: ca107-digital-environments/7-2-01-operating-systems.md
-      - 7.2.2 Common Utilities: ca107-digital-environments/7-2-02-utilities.md
-      - 7.2.3 Software Development Tools: ca107-digital-environments/7-2-03-development-tools.md
-      - 7.2.4 Application software: ca107-digital-environments/7-2-04-application-software.md
-    - 7.3 Networks:
-      - 7.3.1 Connect devices: ca107-digital-environments/7-3-01-connect-devices.md
-      - 7.3.2 Network Types: ca107-digital-environments/7-3-02-types-networks.md
-      - 7.3.3 Connectivity methods: ca107-digital-environments/7-3-03-connectivity-methods.md
-      - 7.3.4 Network Topologies: ca107-digital-environments/7-3-04-network-topologies.md
-      - 7.3.5 Network models: ca107-digital-environments/7-3-05-network-models.md
-      - 7.3.6 Network components: ca107-digital-environments/7-3-06-network-components.md
-      - 7.3.7 OSI Model: ca107-digital-environments/7-3-07-osi-model.md
-      - 7.3.8 TCP/IP Model: ca107-digital-environments/7-3-08-tcpip-model.md
-      - 7.3.9 Packets in transmission: ca107-digital-environments/7-3-09-packet-transmission.md
-      - 7.3.10 Network protocols: ca107-digital-environments/7-3-10-network-protocols.md
-      - 7.3.11 Bandwidth & Latency: ca107-digital-environments/7-3-11-bandwidth-latency.md
-    - 7.4 Virtual Environments:
-      - 7.4.1 Characteristics: ca107-digital-environments/7-4-01-characteristics-ve.md
-      - 7.4.2 Key Features: ca107-digital-environments/7-4-02-key-features-ve.md
-      - 7.4.3 Benefits: ca107-digital-environments/7-4-03-benefits-ve.md
-      - 7.4.4 Drawbacks: ca107-digital-environments/7-4-04-drawbacks-ve.md
-    - 7.5 Cloud Environments:
-      - 7.5.1 Types of cloud: ca107-digital-environments/7-5-01-types-cloud.md
-      - 7.5.2 Benefits of cloud: ca107-digital-environments/7-5-02-benefits-cloud.md
-      - 7.5.3 Cloud models: ca107-digital-environments/7-5-03-cloud-models.md
-    - Resilient Environments:
-      - 7.6.1 Benefits of resilience: ca107-digital-environments/7-6-01-resilient-environments.md
-      - 7.6.2 Improve resilience: ca107-digital-environments/7-6-02-improve-resilience.md
+      - Introduction: ca107-digital-environments/home-07.md
+      - 7.1 Hardware:
+          - 7.1.1 Computer types: ca107-digital-environments/7-1-01-computer-types.md
+          - 7.1.2 Hardware: ca107-digital-environments/7-1-02-hardware-devices.md
+      - 7.2 Software:
+          - 7.2.1 Operating Systems: ca107-digital-environments/7-2-01-operating-systems.md
+          - 7.2.2 Common Utilities: ca107-digital-environments/7-2-02-utilities.md
+          - 7.2.3 Software Development Tools: ca107-digital-environments/7-2-03-development-tools.md
+          - 7.2.4 Application software: ca107-digital-environments/7-2-04-application-software.md
+      - 7.3 Networks:
+          - 7.3.1 Connect devices: ca107-digital-environments/7-3-01-connect-devices.md
+          - 7.3.2 Network Types: ca107-digital-environments/7-3-02-types-networks.md
+          - 7.3.3 Connectivity methods: ca107-digital-environments/7-3-03-connectivity-methods.md
+          - 7.3.4 Network Topologies: ca107-digital-environments/7-3-04-network-topologies.md
+          - 7.3.5 Network models: ca107-digital-environments/7-3-05-network-models.md
+          - 7.3.6 Network components: ca107-digital-environments/7-3-06-network-components.md
+          - 7.3.7 OSI Model: ca107-digital-environments/7-3-07-osi-model.md
+          - 7.3.8 TCP/IP Model: ca107-digital-environments/7-3-08-tcpip-model.md
+          - 7.3.9 Packets in transmission: ca107-digital-environments/7-3-09-packet-transmission.md
+          - 7.3.10 Network protocols: ca107-digital-environments/7-3-10-network-protocols.md
+          - 7.3.11 Bandwidth & Latency: ca107-digital-environments/7-3-11-bandwidth-latency.md
+      - 7.4 Virtual Environments:
+          - 7.4.1 Characteristics: ca107-digital-environments/7-4-01-characteristics-ve.md
+          - 7.4.2 Key Features: ca107-digital-environments/7-4-02-key-features-ve.md
+          - 7.4.3 Benefits: ca107-digital-environments/7-4-03-benefits-ve.md
+          - 7.4.4 Drawbacks: ca107-digital-environments/7-4-04-drawbacks-ve.md
+      - 7.5 Cloud Environments:
+          - 7.5.1 Types of cloud: ca107-digital-environments/7-5-01-types-cloud.md
+          - 7.5.2 Benefits of cloud: ca107-digital-environments/7-5-02-benefits-cloud.md
+          - 7.5.3 Cloud models: ca107-digital-environments/7-5-03-cloud-models.md
+      - Resilient Environments:
+          - 7.6.1 Benefits of resilience: ca107-digital-environments/7-6-01-resilient-environments.md
+          - 7.6.2 Improve resilience: ca107-digital-environments/7-6-02-improve-resilience.md
 
   - 8 SEC:
-    - Introduction: ca108-security/home-08.md
-    - 8.1 Security risks:
-      - 8.1.1 Confidential information: ca108-security/8-1-1-types-confidential-information.md
-      - 8.1.2 Reasons confidentiality: ca108-security/8-1-2-keep-confidentiality.md
-      - 8.1.3 Impact of failure: ca108-security/8-1-3-impact-failure.md
-    - 8.2 Threats & Vulnerabilities:
-      - 8.2.1 Threat & Impact: ca108-security/8-2-1-threat-impact.md
-      - 8.2.2 technical vulnerabilities: ca108-security/8-2-2-technical-vulnerability.md
-      - 8.2.3 Human threats: ca108-security/8-2-3-human-threat.md
-      - 8.2.4 Physical vulnerabilities: ca108-security/8-2-4-physical-vulnerability.md
-      - 8.2.5 Organisation impact: ca108-security/8-2-5-impact-threat-vulnerability.md
-    - 8.3 Threat mitigation:
-      - 8.3.1 Mitigation analysis: ca108-security/8-3-1-threat-mitigation.md
-      - 8.3.2 Assuring security: ca108-security/8-3-2-security-assurance.md
-    - 8.4 Security components:
-      - 8.4.1 CIA Relationships: ca108-security/8-4-1-cia-relationships.md
-      - 8.4.2 The IAAA model: ca108-security/8-4-2-iaaa-model.md
+      - Introduction: ca108-security/home-08.md
+      - 8.1 Security risks:
+          - 8.1.1 Confidential information: ca108-security/8-1-1-types-confidential-information.md
+          - 8.1.2 Reasons confidentiality: ca108-security/8-1-2-keep-confidentiality.md
+          - 8.1.3 Impact of failure: ca108-security/8-1-3-impact-failure.md
+      - 8.2 Threats & Vulnerabilities:
+          - 8.2.1 Threat & Impact: ca108-security/8-2-1-threat-impact.md
+          - 8.2.2 technical vulnerabilities: ca108-security/8-2-2-technical-vulnerability.md
+          - 8.2.3 Human threats: ca108-security/8-2-3-human-threat.md
+          - 8.2.4 Physical vulnerabilities: ca108-security/8-2-4-physical-vulnerability.md
+          - 8.2.5 Organisation impact: ca108-security/8-2-5-impact-threat-vulnerability.md
+      - 8.3 Threat mitigation:
+          - 8.3.1 Mitigation analysis: ca108-security/8-3-1-threat-mitigation.md
+          - 8.3.2 Assuring security: ca108-security/8-3-2-security-assurance.md
+      - 8.4 Security components:
+          - 8.4.1 CIA Relationships: ca108-security/8-4-1-cia-relationships.md
+          - 8.4.2 The IAAA model: ca108-security/8-4-2-iaaa-model.md
